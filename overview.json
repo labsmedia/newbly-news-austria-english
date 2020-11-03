@@ -11,16 +11,19 @@
       "id" : "honFisR1",
       "imgUrl" : "https://image.kurier.at/images/original/4734312/46-168572443.jpg",
       "titleSource" : "Kanzler verurteilt \"widerwärtigen Terroranschlag\", VdB \"tief betroffen\"",
+      "titleTarget" : "Chancellor condemns \"disgusting terrorist attack\", VdB \"deeply affected\"",
       "url" : "https://kurier.at/politik/inland/anschlag-in-wien-kanzler-kurz-in-gespraechen-mit-politischen-playern/401085087"
     }, {
       "id" : "jTWaNDZy",
       "imgUrl" : "https://image.kurier.at/images/original/4736451/46-168623237.jpg",
       "titleSource" : "Nehammer zu Anschlag: Getöteter Attentäter war IS-Sympathisant",
+      "titleTarget" : "Nehammer to attack: killed assassin was IS sympathizer",
       "url" : "https://kurier.at/politik/inland/nehammer-zu-schuessen-in-wien-augenscheinlich-terroranschlag/401085039"
     }, {
       "id" : "86aIbh9k",
       "imgUrl" : "https://image.kurier.at/images/original/4735689/46-168608038.jpg",
       "titleSource" : "Kurz vor dem Lockdown: \"Es gibt auch so etwas wie Hausverstand\"",
+      "titleTarget" : "Shortly before the lockdown: \"There is also such a thing as common sense\"",
       "url" : "https://kurier.at/politik/inland/kurz-vor-dem-lockdown-es-gibt-auch-so-etwas-wie-hausverstand/401084796"
     }, {
       "id" : "99G95mu2",
@@ -32,11 +35,13 @@
       "id" : "Tdyll2T3",
       "imgUrl" : "https://image.kurier.at/images/original/4734156/46-168062770.jpg",
       "titleSource" : "Unterricht im Lockdown: Was sich an den Schulen alles ändert",
+      "titleTarget" : "Lessons in lockdown: what is changing in schools",
       "url" : "https://kurier.at/politik/inland/unterricht-im-lockdown-was-sich-an-den-schulen-alles-aendert/401083878"
     }, {
       "id" : "rpVy16hM",
       "imgUrl" : "https://image.kurier.at/images/original/4735218/46-168523372.jpg",
       "titleSource" : "Was dürfen wir, was nicht? 35 Fragen & Antworten zum Lockdown",
+      "titleTarget" : "What are we allowed to do and what not? 35 Questions & Answers about Lockdown",
       "url" : "https://kurier.at/politik/inland/was-duerfen-wir-was-nicht-35-fragen-antworten-zum-lockdown/401083827"
     } ]
   }, {
@@ -51,6 +56,7 @@
       "id" : "2uPAM20I",
       "imgUrl" : "https://image.kurier.at/images/original/4239749/78370011354051816_BLD_Online.jpg",
       "titleSource" : "Neuerlicher Lockdown als wirtschaftliches Horrorszenario",
+      "titleTarget" : "Another lockdown as an economic horror scenario",
       "url" : "https://kurier.at/wirtschaft/neuerlicher-lockdown-als-wirtschaftliches-horrorszenario/401083026"
     }, {
       "id" : "ssm9clUb",
@@ -68,6 +74,7 @@
       "id" : "nNi5kECB",
       "imgUrl" : "https://image.kurier.at/images/original/4235297/46-150279422.jpg",
       "titleSource" : "Wenn der Tod  zur Arbeit kommt",
+      "titleTarget" : "When death comes to work",
       "url" : "https://kurier.at/wirtschaft/karriere/wenn-der-tod-zur-arbeit-kommt/401081100"
     }, {
       "id" : "opllH8nB",
@@ -79,6 +86,7 @@
       "id" : "CVieCVKG",
       "imgUrl" : "https://image.kurier.at/images/original/4732404/46-163707553.jpg",
       "titleSource" : "Corona-Hilfe im Lockdown: Gastbetriebe bekommen 80 Prozent",
+      "titleTarget" : "Corona help in lockdown: Guest establishments get 80 percent",
       "url" : "https://kurier.at/wirtschaft/lockdown-paket-gastbetriebe-bekommen-80-prozent/401083245"
     } ]
   }, {
@@ -93,6 +101,7 @@
       "id" : "JBdkrfb2",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/a/e/5891502/ANSCHLAG-IN-WIEN-KRANZNIEDERLEGUNG-AM-TATORT_1604410503458931.jpg",
       "titleSource" : "22 Verletzte bei Terroranschlag in Wien: Täter war IS-Anhänger und vorbestraft",
+      "titleTarget" : "22 injured in the terrorist attack in Vienna: the perpetrator was an IS supporter and had a criminal record",
       "url" : "https://www.diepresse.com/5891502/Terroranschlag-in-Wien_Vier-Tote-bei-Terroranschlag-in-Wien_?from=rss"
     }, {
       "id" : "IKk2g93A",
@@ -143,6 +152,7 @@
       "id" : "QVMPlrDt",
       "imgUrl" : "https://image.kurier.at/images/original/4735260/46-168553666.jpg",
       "titleSource" : "Kusej: \"Wir müssen die Rechnung für einige Dummköpfe begleichen\"",
+      "titleTarget" : "Kusej: \"We have to settle the bill for some fools\"",
       "url" : "https://kurier.at/kultur/kusej-wir-muessen-die-rechnung-fuer-einige-dummkoepfe-begleichen/401083542"
     }, {
       "id" : "uCnI1CXh",
@@ -160,6 +170,7 @@
       "id" : "DaUBZ5JC",
       "imgUrl" : "https://image.kurier.at/images/original/4732335/46-168333906.jpg",
       "titleSource" : "Schauspieler Frank Hoffmann: \"Da gingen die Bomben auf uns nieder\"",
+      "titleTarget" : "Actor Frank Hoffmann: \"That's when the bombs fell on us\"",
       "url" : "https://kurier.at/kultur/frank-hoffmann-und-dann-wurde-ich-der-missratene-sohn/401083215"
     }, {
       "id" : "I5znEDtU",
@@ -186,6 +197,7 @@
       "id" : "bmmjlPKE",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/2/1/5532449/50D5E3B1-E697-4B9A-8C36-37FE47330F7D_v0_h.jpg",
       "titleSource" : "Orthopäden warnen vor \"Smartphone-Nacken\" und \"SMS-Daumen\"",
+      "titleTarget" : "Orthopedists warn against \"smartphone neck\" and \"SMS thumb\"",
       "url" : "https://www.diepresse.com/5532449/Orthopaeden-warnen-vor-SmartphoneNacken-und-SMSDaumen?from=rss"
     }, {
       "id" : "6ox0rZhl",
@@ -236,11 +248,13 @@
       "id" : "jCDvdYSl",
       "imgUrl" : "https://image.kurier.at/images/original/4736922/screenshot_2020-11-03_at_11.08.14.png",
       "titleSource" : "So reagiert die Sportwelt auf Anschlag: \"Bleib stark, Wien\" ",
+      "titleTarget" : "This is how the sports world reacts to attack: \"Stay strong, Vienna\"",
       "url" : "https://kurier.at/sport/so-reagiert-die-sportwelt-auf-anschlag-bleib-stark-wien/401085555"
     }, {
       "id" : "uCu31Zzq",
       "imgUrl" : "https://image.kurier.at/images/original/4737225/46-167445929.jpg",
       "titleSource" : "Alaba und Thiem als Favoriten für \"Sportler des Jahres\"",
+      "titleTarget" : "Alaba and Thiem as favorites for \"Sportsman of the Year\"",
       "url" : "https://kurier.at/sport/sportlerwahl-alaba-und-thiem-als-favoriten-fuer-sportler-des-jahres/401085744"
     }, {
       "id" : "oH5MSbCx",
@@ -251,6 +265,7 @@
       "id" : "GjcQaVu1",
       "imgUrl" : "https://image.kurier.at/images/original/4735224/46-162790682.jpg",
       "titleSource" : "Zwei Corona-Fälle bei österreichischen Kunstbahnrodlern",
+      "titleTarget" : "Two corona cases among Austrian artificial track tobogganers",
       "url" : "https://kurier.at/sport/wintersport/zwei-corona-faelle-bei-oesterreichischen-kunstbahnrodlern/401084493"
     } ]
   } ],
