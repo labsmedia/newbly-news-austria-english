@@ -2,23 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "B3SG8gzY",
-      "imgUrl" : "https://image.kurier.at/images/original/4742160/78350011457353508_BLD_Online.jpg",
-      "titleSource" : "Gerüchte um Schulschließungen - Faßmann dementiert",
-      "titleTarget" : "Rumors of school closings - Faßmann denied",
-      "url" : "https://kurier.at/politik/inland/coronavirus-fassmann-schliesst-schulschliessungen-derzeit-aus/401088201"
-    }, {
-      "id" : "ZcpsuQfM",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/0/8/5893384/251EC929-2C53-4388-BF1C-E934EE78FA0E_v0_l.jpg",
-      "titleSource" : "Anschober: \"Skeptiker sollten sich Zahlen ein bisschen anschauen\"",
-      "titleTarget" : "Anschober: \"Skeptics should look at numbers a bit\"",
-      "url" : "https://www.diepresse.com/5893384/Coronavirus_Anschober_Skeptiker-sollten-sich-Zahlen-ein-bisschen?from=rss"
-    }, {
       "id" : "0fwGlfS1",
       "imgUrl" : "https://image.kurier.at/images/original/4743036/20201105-ABD0165-1-1.jpg",
       "titleSource" : "Terroranschlag in Wien: Bürgerinitiative bereitet Amtshaftungsklage vor",
       "titleTarget" : "Terrorist attack in Vienna: citizens' initiative prepares official liability suit",
       "url" : "https://kurier.at/politik/inland/terroranschlag-in-wien-buergerinitiative-bereitet-amtshaftungsklage-vor/401088951"
+    }, {
+      "id" : "N0IdIW5F",
+      "imgUrl" : "https://image.kurier.at/images/original/4744161/46-168706897.jpg",
+      "titleSource" : "SPÖ, Grüne: \"Geltendes Recht hätte für Inhaftierung vor dem Attentat ausgereicht\"",
+      "titleTarget" : "SPÖ, Greens: \"Applicable law would have been sufficient for imprisonment before the attack\"",
+      "url" : "https://kurier.at/politik/inland/sicherungshaft-spoe-gruene-geltendes-recht-haette-fuer-inhaftierung-vor-dem-attentat-ausgereicht/401089242"
     }, {
       "id" : "U1sh4n4l",
       "imgUrl" : "https://image.kurier.at/images/original/4692303/46-168108280.jpg",
@@ -26,50 +20,62 @@
       "titleTarget" : "Expense affair: Strache's lawsuit against Nepp dismissed",
       "url" : "https://kurier.at/politik/inland/spesen-affaere-straches-klage-gegen-nepp-abgewiesen/401088882"
     }, {
-      "id" : "kQ2YxPSD",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/0/9/5893385/707E39B7-3DF0-4315-B2A0-9575E6A30A0D_v0_l.jpg",
-      "titleSource" : "Spesenaffäre: Gericht weist Straches Klage gegen Nepp ab",
-      "titleTarget" : "Expense affair: Court rejects Strache's lawsuit against Nepp",
-      "url" : "https://www.diepresse.com/5893385/Vorwuerfe_Spesenaffaere_Gericht-weist-Straches-Klage-gegen-Nepp-ab?from=rss"
-    }, {
-      "id" : "xQ6KBb06",
-      "imgUrl" : "https://image.kurier.at/images/original/4743507/46-168606192.jpg",
-      "titleSource" : "Anschober zieht erste Lockdown-Bilanz: \"Es ist ein Wettlauf mit der Zeit\"",
-      "titleTarget" : "Anschober draws the first lockdown balance: \"It's a race against time\"",
-      "url" : "https://kurier.at/politik/inland/live-ab-930-uhr-anschober-zieht-erste-lockdown-bilanz/401088843"
-    }, {
       "id" : "J2S9VWmQ",
       "imgUrl" : "https://image.kurier.at/images/original/4743468/46-168481789.jpg",
       "titleSource" : "Anti-Terror-Kampf: Überwachung, Isolation, Haft - und exportierte Gefährder",
       "titleTarget" : "Fight against terrorism: surveillance, isolation, detention - and export threats",
       "url" : "https://kurier.at/politik/inland/anti-terror-kampf-ueberwachung-isolation-haft-und-exportierte-gefaehrder/401088804"
+    }, {
+      "id" : "o1oSkBvS",
+      "imgUrl" : "https://image.kurier.at/images/original/4743507/46-168606192.jpg",
+      "titleSource" : "Nur noch bei jedem Vierten ist Infektionsquelle bekannt",
+      "titleTarget" : "The source of the infection is only known for one in four",
+      "url" : "https://kurier.at/politik/inland/nur-noch-bei-jedem-vierten-ist-infektionsquelle-bekannt/401088843"
+    }, {
+      "id" : "EeTdBC7f",
+      "imgUrl" : "https://image.kurier.at/images/original/4743507/46-168606192.jpg",
+      "titleSource" : "Anschober-Expertin: Nur noch bei jedem Vierten ist Infektionsquelle bekannt",
+      "titleTarget" : "Anchober expert: The source of the infection is only known to one in four",
+      "url" : "https://kurier.at/politik/inland/anschober-expertin-nur-noch-bei-jedem-vierten-ist-infektionsquelle-bekannt/401088843"
+    }, {
+      "id" : "ZcpsuQfM",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/0/8/5893384/251EC929-2C53-4388-BF1C-E934EE78FA0E_v0_l.jpg",
+      "titleSource" : "Anschober: \"Skeptiker sollten sich Zahlen ein bisschen anschauen\"",
+      "titleTarget" : "Anschober: \"Skeptics should look at numbers a bit\"",
+      "url" : "https://www.diepresse.com/5893384/Coronavirus_Anschober_Skeptiker-sollten-sich-Zahlen-ein-bisschen?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "DXGVYA7V",
-      "imgUrl" : "https://image.kurier.at/images/original/4238807/78350011454038786_BLD_Online.jpg",
-      "titleSource" : "Unmut über AMS-Schulungen trotz Lockdowns",
-      "titleTarget" : "Displeasure with AMS training despite lockdowns",
-      "url" : "https://kurier.at/wirtschaft/unmut-ueber-ams-schulungen-trotz-lockdowns/401088426"
+      "id" : "fbV7pprm",
+      "imgUrl" : "https://image.kurier.at/images/original/4334198/78370011354774248_BLD_Online.jpg",
+      "titleSource" : "Corona-Hilfe: Umsatzersatz im Lockdown ist ab heute zu beantragen",
+      "titleTarget" : "Corona help: You can apply for a sales replacement in lockdown from today",
+      "url" : "https://kurier.at/wirtschaft/live-schnuert-regieurng-ein-neues-corona-hilfspaket/401088822"
     }, {
-      "id" : "CmYp17AN",
-      "imgUrl" : "https://image.kurier.at/images/original/4742421/46-168492939.jpg",
-      "titleSource" : "Finnische Formen: Artek feiert 85. Geburtstag",
-      "titleTarget" : "Finnish forms: Artek celebrates its 85th birthday",
-      "url" : "https://kurier.at/wirtschaft/immobiz/finnische-formen-artek-feiert-85-geburtstag/401088213"
+      "id" : "MyrCysJp",
+      "imgUrl" : "https://image.kurier.at/images/original/3063714/78370011345472818_BLD_Online.jpg",
+      "titleSource" : "Massive Einkommensverluste schon vor zweitem Lockdown",
+      "titleTarget" : "Massive loss of income even before the second lockdown",
+      "url" : "https://kurier.at/wirtschaft/massive-einkommensverluste-schon-vor-zweitem-lockdown/401089089"
     }, {
-      "id" : "yDm2IB5r",
-      "imgUrl" : "https://image.kurier.at/images/original/4318802/81670356454629994_BLD_Online.jpg",
-      "titleSource" : "Ischgl plant Saisonstart am 17. Dezember",
-      "titleTarget" : "Ischgl plans to start the season on December 17th",
-      "url" : "https://kurier.at/wirtschaft/ischgl-plant-saisonstart-am-17-dezember/401088339"
+      "id" : "0rL23pWG",
+      "imgUrl" : "https://image.kurier.at/images/original/4221029/20200326-ABD0060-1-1.jpg",
+      "titleSource" : "Budget überholt: Schulden steigen stärker als befürchtet",
+      "titleTarget" : "Budget outdated: Debt is rising faster than feared",
+      "url" : "https://kurier.at/wirtschaft/budget-ueberholt-schulden-steigen-staerker-als-befuerchtet/401089407"
     }, {
-      "id" : "agAoYuZ9",
-      "imgUrl" : "https://image.kurier.at/images/original/866769/Konjunktur-000_APA_HELMUT%252BFOHRINGER.jpg",
-      "titleSource" : "Wifo: Zweiter Lockdown bremst Erholung aus",
-      "titleTarget" : "Wifo: Second lockdown slows recovery",
-      "url" : "https://kurier.at/wirtschaft/wirtschaftswachstum-2021-zwischen-28-und-41-prozent/401087868"
+      "id" : "oRKlChI8",
+      "imgUrl" : "https://image.kurier.at/images/original/1246320/46-60910027.jpg",
+      "titleSource" : "Corona-Gewinner: Semperit erhöht erneut Prognose für 2020",
+      "titleTarget" : "Corona winner: Semperit again increases forecast for 2020",
+      "url" : "https://kurier.at/wirtschaft/corona-gewinner-semperit-erhoeht-erneut-prognose-fuer-2020/401089161"
+    }, {
+      "id" : "hGbIrO69",
+      "imgUrl" : "https://image.kurier.at/images/original/4611836/78350011456252146_BLD_Online.jpg",
+      "titleSource" : "Drastischer Schritt: Papst ordnet Vatikan-Finanzen neu",
+      "titleTarget" : "Drastic step: Pope reorganizes Vatican finances",
+      "url" : "https://kurier.at/wirtschaft/drastischer-schritt-papst-ordnet-vatikan-finanzen-neu/401089005"
     }, {
       "id" : "gXtuBbQE",
       "imgUrl" : "https://image.kurier.at/images/original/4214993/78370011353855660_BLD_Online.jpg",
@@ -77,62 +83,56 @@
       "titleTarget" : "The US Federal Reserve remains on course in the aftermath of the election",
       "url" : "https://kurier.at/wirtschaft/us-notenbank-haelt-kurs-in-den-nachwirren-der-wahl/401088627"
     }, {
-      "id" : "bHAzxS3K",
-      "imgUrl" : "https://image.kurier.at/images/original/4742397/46-168490771.jpg",
-      "titleSource" : "Design für die Dose: Nuri eröffnet in Wien",
-      "titleTarget" : "Design for the can: Nuri opens in Vienna",
-      "url" : "https://kurier.at/wirtschaft/immobiz/design-fuer-die-dose-nuri-eroeffnet-in-wien/401088204"
-    }, {
-      "id" : "lG5DaouB",
-      "imgUrl" : "https://image.kurier.at/images/original/4742436/46-167225418.jpg",
-      "titleSource" : "Unbekannter Einfluss der Bauhaus-Frauen",
-      "titleTarget" : "Unknown influence of the Bauhaus women",
-      "url" : "https://kurier.at/wirtschaft/immobiz/unbekannter-einfluss-der-bauhaus-frauen/401088225"
+      "id" : "8eIe5deZ",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/d/2/7/5893415/lockdown2_1604654875394875.jpg",
+      "titleSource" : "In der ersten Stunde bereits 1200 Anträge auf Umsatzersatz für Betriebe",
+      "titleTarget" : "In the first hour already 1200 applications for turnover replacement for companies",
+      "url" : "https://www.diepresse.com/5893415/Lockdown_In-der-ersten-Stunde-bereits-1200-Antraege-auf?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "tHEZxmcg",
-      "imgUrl" : "https://image.kurier.at/images/original/4742964/46-168618883.jpg",
-      "titleSource" : "Cobra-Chef: Wie der Attentäter identifiziert wurde",
-      "titleTarget" : "Cobra boss: How the assassin was identified",
-      "url" : "https://kurier.at/chronik/oesterreich/cobra-chef-wie-der-attentaeter-identifiziert-wurde/401088573"
+      "id" : "uMpzJ4rc",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/33/crops/w=1280/743505_opener_258033_ak47_002.jpg?s=fca529cacd31d8e4092e068aa11b1ea67600baae",
+      "titleSource" : "Terroralarm wegen Maschinenpistolen-Attrappe",
+      "titleTarget" : "Terror alert due to dummy submachine gun",
+      "url" : "https://kaernten.orf.at/stories/3074714/"
     }, {
-      "id" : "tmNpTXuc",
-      "imgUrl" : "https://image.kurier.at/images/original/4741806/46-168497278.jpg",
-      "titleSource" : "Mehr als 7.400 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "More than 7,400 new corona infections in Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/mehr-als-7000-neue-corona-infektionen-in-oesterreich/401087994"
+      "id" : "Jt3xMy2a",
+      "imgUrl" : "https://image.kurier.at/images/original/4704405/78350011457015854_BLD_Online.jpg",
+      "titleSource" : "Terroralarm in Villach: \"Da ist jemand mit Kalaschnikow\"",
+      "titleTarget" : "Terror alert in Villach: \"There is someone with a Kalashnikov\"",
+      "url" : "https://kurier.at/chronik/oesterreich/terrorarlarm-in-villach-da-ist-jemand-mit-kalaschnikow/401089065"
+    }, {
+      "id" : "KejZZcU4",
+      "imgUrl" : "https://image.kurier.at/images/original/4742370/46-168550064.jpg",
+      "titleSource" : "Coronavirus: 250 Todesfälle in nur einer Woche",
+      "titleTarget" : "Coronavirus: 250 deaths in just one week",
+      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-6464-neuinfektionen-am-freitag/401089020"
+    }, {
+      "id" : "DX0wlnza",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/43/crops/w=1280/744129_opener_258243_toter.jpg?s=9ee34fddb264eaab1b85e48d8e2f8ced63a5dcb4",
+      "titleSource" : "Mordverdacht in Klagenfurt Fischl",
+      "titleTarget" : "Suspicion of murder in Klagenfurt Fischl",
+      "url" : "https://kaernten.orf.at/stories/3074775/"
+    }, {
+      "id" : "iAtxkyrX",
+      "imgUrl" : "https://image.kurier.at/images/original/4705689/78350011457032546_BLD_Online.jpg",
+      "titleSource" : "Verbotene Ausfahrt nach 20 Uhr: Vier Jugendliche gestoppt",
+      "titleTarget" : "Prohibited exit after 8 p.m.: four young people stopped",
+      "url" : "https://kurier.at/chronik/oesterreich/verbotene-ausfahrt-nach-20-uhr-vier-jugendliche-gestoppt/401088903"
     }, {
       "id" : "adn7d8bN",
-      "imgUrl" : "https://image.kurier.at/images/original/4743708/46-168671271.jpg",
-      "titleSource" : "6.464 Neuinfektionen in Ö; \"Zwangsmaßnahme\": Skepsis gegenüber zweitem Lockdown",
-      "titleTarget" : "6,464 new infections in Austria; \"Compulsory measure\": Skepticism about the second lockdown",
+      "imgUrl" : "https://image.kurier.at/images/original/4744422/46-168389523.jpg",
+      "titleSource" : "250 Todesfälle in nur einer Woche; Skepsis gegenüber zweitem Lockdown",
+      "titleTarget" : "250 deaths in just one week; Skepticism about the second lockdown",
       "url" : "https://kurier.at/chronik/oesterreich/ampel-ganz-oesterreich-rot-vorarlberg-baut-notversorgung-aus/401088717"
     }, {
-      "id" : "INa0rMQG",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/9/2/5893010/98CBB728-8B54-4D59-8A20-2F1C4647E56C_v0_h.jpg",
-      "titleSource" : "Anschlag: Acht Vorbestrafte unter Festgenommenen, erster Polizeischuss nach drei Minuten",
-      "titleTarget" : "Attack: Eight convicts among those arrested, first police shot after three minutes",
-      "url" : "https://www.diepresse.com/5893010/Terrorismus_Anschlag_Acht-Vorbestrafte-unter-Festgenommenen?from=rss"
-    }, {
-      "id" : "H5WLwNkS",
-      "imgUrl" : "https://image.kurier.at/images/original/4742958/20201105-ABD0150-1-1.jpg",
-      "titleSource" : "Anschlag in Wien: Vorerst acht U-Haft-Anträge, einer enthaftet",
-      "titleTarget" : "Attack in Vienna: initially eight applications for custody, one released",
-      "url" : "https://kurier.at/chronik/oesterreich/anschlag-in-wien-vorerst-acht-u-haft-antraege-einer-enthaftet/401088615"
-    }, {
-      "id" : "RO2abBPE",
-      "imgUrl" : "https://image.kurier.at/images/original/4741833/46-101839050.jpg",
-      "titleSource" : "Nach Terror: Razzien in Justizanstalten",
-      "titleTarget" : "After terror: raids on prisons",
-      "url" : "https://kurier.at/chronik/oesterreich/nach-terror-razzien-in-justizanstalten/401088033"
-    }, {
-      "id" : "MKfF5vFr",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/49/crops/w=1280/742685_opener_257749_pk_rainbows_ok.jpg?s=1a5977ef8f7d99ba60859a5015b36988db8be22d",
-      "titleSource" : "„Rainbows“ bietet Schutz für Kinder",
-      "titleTarget" : "\"Rainbows\" offer protection for children",
-      "url" : "https://burgenland.orf.at/stories/3074571/"
+      "id" : "2ncDCgIJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4743441/46-168443972.jpg",
+      "titleSource" : "Bundesheer: Grundwehrdienst kann künftig verlängert werden",
+      "titleTarget" : "Armed Forces: Basic military service can be extended in the future",
+      "url" : "https://kurier.at/chronik/oesterreich/bundesheer-grundwehrdienst-kann-kuenftig-verlaengert-werden/401088768"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,23 +143,11 @@
       "titleTarget" : "\"Back to the future\", \"Titanic\": Actress Elsa Raven died at 91",
       "url" : "https://kurier.at/kultur/zurueck-in-die-zukunft-titanic-schauspielerin-elsa-raven-mit-91-gestorben/401088657"
     }, {
-      "id" : "6PyCroJT",
-      "imgUrl" : "https://image.kurier.at/images/original/4742694/46-83159920.jpg",
-      "titleSource" : "Keyboarder von Uriah Heep: Ken Hensley gestorben",
-      "titleTarget" : "Uriah Heep's keyboardist: Ken Hensley died",
-      "url" : "https://kurier.at/kultur/keyboarder-von-uriah-heep-ken-hensley-gestorben/401088414"
-    }, {
-      "id" : "qEJIzyry",
-      "imgUrl" : "https://image.kurier.at/images/original/4742805/46-168676708.jpg",
-      "titleSource" : "Kylie Minogue musste lange um Anerkennung kämpfen",
-      "titleTarget" : "Kylie Minogue had to struggle for recognition for a long time",
-      "url" : "https://kurier.at/kultur/kylie-minogue-musste-lange-um-anerkennung-kaempfen/401088447"
-    }, {
-      "id" : "moZQmDee",
-      "imgUrl" : "https://image.kurier.at/images/original/4742772/46-147655039.jpg",
-      "titleSource" : "Eine Frau übernimmt die 007: Warum Bond trotzdem männlich bleibt",
-      "titleTarget" : "A woman takes over the 007: Why Bond remains male anyway",
-      "url" : "https://kurier.at/kultur/eine-frau-uebernimmt-die-007-warum-bond-trotzdem-maennlich-bleibt/401088492"
+      "id" : "RboG2SkA",
+      "imgUrl" : "https://image.kurier.at/images/original/4743639/46-168701269.jpg",
+      "titleSource" : "Das sind die neuen Hilfeleistungen für die Kulturbranche",
+      "titleTarget" : "These are the new assistance for the culture industry",
+      "url" : "https://kurier.at/kultur/das-sind-die-neuen-hilfeleistungen-fuer-die-kulturbranche/401088846"
     }, {
       "id" : "dGd4zjGM",
       "imgUrl" : "https://image.kurier.at/images/original/4720908/46-168388640.jpg",
@@ -167,11 +155,23 @@
       "titleTarget" : "From Wien Modern to the State Opera: where you can stream culture now",
       "url" : "https://kurier.at/kultur/von-wien-modern-bis-staatsoper-wo-man-kultur-jetzt-streamen-kann/401088510"
     }, {
-      "id" : "iHOP6bun",
-      "imgUrl" : "https://image.kurier.at/images/original/4742100/orf_noberbuch_20201105151909.jpg",
-      "titleSource" : "Neuer Sendetermin für abgebrochene \"Vienna Blood\"-Folge",
-      "titleTarget" : "New broadcast date for the canceled \"Vienna Blood\" episode",
-      "url" : "https://kurier.at/kultur/medien/neuer-sendetermin-fuer-abgebrochene-vienna-blood-folge/401088114"
+      "id" : "RMYkP9zi",
+      "imgUrl" : "https://image.kurier.at/images/original/4744365/46-168334002.jpg",
+      "titleSource" : "Zahradnik und Kristek im Talk: Austropop ist wieder da",
+      "titleTarget" : "Zahradnik and Kristek in a talk: Austropop is back",
+      "url" : "https://kurier.at/kultur/zahradnik-und-kristek-im-talk-austropop-ist-wieder-da/401089290"
+    }, {
+      "id" : "Esp1RUKd",
+      "imgUrl" : "https://image.kurier.at/images/original/4744182/46-69709726.jpg",
+      "titleSource" : "Grazer Schauspielhaus-Chefin übernimmt 2023 Deutsches Theater Berlin",
+      "titleTarget" : "Grazer Schauspielhaus boss will take over Deutsches Theater Berlin in 2023",
+      "url" : "https://kurier.at/kultur/grazer-schauspielhaus-chefin-uebernimmt-2023-deutsches-theater-berlin/401089263"
+    }, {
+      "id" : "E59LJKpP",
+      "imgUrl" : "https://image.kurier.at/images/original/4744131/46-130276714.jpg",
+      "titleSource" : "Restitution von Kolonialgütern: Frankreich setzt konkrete Schritte",
+      "titleTarget" : "Restitution of colonial goods: France is taking concrete steps",
+      "url" : "https://kurier.at/kultur/restitution-von-kolonialguetern-frankreich-setzt-konkrete-schritte/401089206"
     }, {
       "id" : "pRqAPUvx",
       "imgUrl" : "https://image.kurier.at/images/original/4743444/46-167920087.jpg",
@@ -197,34 +197,35 @@
       "titleTarget" : "Disgrace prevented: Rapid wins narrow EL victory against Dundalk",
       "url" : "https://kurier.at/sport/fussball/glanzloser-heimsieg-gegen-dundalk-rapid-wien-jubelt-erstmals-in-der-europa-league/401087913"
     }, {
+      "id" : "5mXgZ05z",
+      "imgUrl" : "https://image.kurier.at/images/original/4744194/46-164573372.jpg",
+      "titleSource" : "Corona-Krise: Sport Austria mit Resolution an die Regierung",
+      "titleTarget" : "Corona crisis: Sport Austria with resolution to the government",
+      "url" : "https://kurier.at/sport/corona-krise-sport-austria-mit-resolution-an-die-regierung/401089287"
+    }, {
+      "id" : "1LJ2zX0q",
+      "imgUrl" : "https://image.kurier.at/images/original/4744398/46-168694323.jpg",
+      "titleSource" : "Europacup-Quartett sichert Platz zehn in UEFA-Fünfjahreswertung",
+      "titleTarget" : "European Cup quartet secure tenth place in UEFA five-year ranking",
+      "url" : "https://kurier.at/sport/fussball/europacup-quartett-salzburg-rapid-lask-und-wac-sichert-platz-zehn-in-uefa-fuenfjahreswertung/401089386"
+    }, {
       "id" : "qG13QNNb",
       "imgUrl" : "https://image.kurier.at/images/original/4743255/46-168697167.jpg",
       "titleSource" : "Europa League: LASK siegt in Unterzahl, WAC erstmals geschlagen",
       "titleTarget" : "Europa League: LASK wins outnumbered, WAC beaten for the first time",
       "url" : "https://kurier.at/sport/fussball/europa-league-lask-siegt-in-unterzahl-bei-antwerpen-wac-bei-dinamo-zagreb-erstmals-geschlagen/401087925"
     }, {
-      "id" : "Ox4VQLcR",
-      "titleSource" : "Torjäger Haaland musste \"eines der schrägsten Interviews\" führen",
-      "titleTarget" : "Striker Haaland had to conduct \"one of the weirdest interviews\"",
-      "url" : "https://kurier.at/sport/fussball/nach-champions-league-doppelpack-torjaeger-haaland-musste-eines-der-schraegsten-interviews-fuehren/401087910"
+      "id" : "WN5yBPHO",
+      "imgUrl" : "https://image.kurier.at/images/original/4743516/46-168697897.jpg",
+      "titleSource" : "Europa League: LASK-Sieg könnte ein kurioses Nachspiel haben",
+      "titleTarget" : "Europa League: LASK victory could have strange consequences",
+      "url" : "https://kurier.at/sport/fussball/fussball-europa-league-lask-sieg-koennte-noch-ein-kurioses-nachspiel-haben/401088867"
     }, {
-      "id" : "y3gEKQIH",
-      "imgUrl" : "https://image.kurier.at/images/original/4742607/46-164181824.jpg",
-      "titleSource" : "Formel 1 bestätigt umstrittenes Rennen in Saudi-Arabien",
-      "titleTarget" : "Formula 1 confirms controversial race in Saudi Arabia",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-bestaetigt-umstrittenes-rennen-in-saudi-arabien/401088393"
-    }, {
-      "id" : "wD7EmH5F",
-      "imgUrl" : "https://image.kurier.at/images/original/4742895/46-167800733.jpg",
-      "titleSource" : "Konkurrenzlos: WTA-Turnier in Linz ohne Zuschauer, aber im Fokus",
-      "titleTarget" : "Unrivaled: WTA tournament in Linz without spectators, but in focus",
-      "url" : "https://kurier.at/sport/tennis/weltweit-ohne-konkurrenz-wta-turnier-in-linz-ohne-zuschauer-aber-im-fokus/401088558"
-    }, {
-      "id" : "P9nAyWey",
-      "imgUrl" : "https://image.kurier.at/images/original/4743288/46-168697983.jpg",
-      "titleSource" : "Europa League: Arsenal siegt gegen Molde, Torgala von Hoffenheim",
-      "titleTarget" : "Europa League: Arsenal wins against Molde, Torgala von Hoffenheim",
-      "url" : "https://kurier.at/sport/fussball/europa-league-arsenal-siegt-gegen-molde-torgala-von-hoffenheim/401088684"
+      "id" : "FdwoIvIL",
+      "imgUrl" : "https://image.kurier.at/images/original/4744512/46-168697081.jpg",
+      "titleSource" : "Corona-Cluster beim WAC: Virus setzt Bundesligisten außer Gefecht",
+      "titleTarget" : "Corona cluster at WAC: Virus puts Bundesliga clubs out of action",
+      "url" : "https://kurier.at/sport/fussball/zu-viele-neue-corona-faelle-wac-spiel-gegen-sturm-in-der-bundesliga-wurde-abgesagt/401089497"
     } ]
   } ],
   "country" : "austria",
