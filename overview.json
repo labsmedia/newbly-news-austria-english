@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "zpanJh3l",
-      "imgUrl" : "https://image.kurier.at/images/original/4744230/78350011457369840_BLD_Online.jpg",
-      "titleSource" : "Attentat in Wien: Verfassungsschutz ließ Minister im Dunkeln tappen",
-      "titleTarget" : "Attack in Vienna: the protection of the constitution left ministers groping in the dark",
-      "url" : "https://kurier.at/politik/inland/verfassungsschutz-liess-minister-im-dunkeln-tappen/401090427"
-    }, {
       "id" : "CB2xkmBg",
       "imgUrl" : "https://image.kurier.at/images/original/4743714/20201106-ABD0011-1-1.jpg",
       "titleSource" : "Anschober droht mit Verschärfung des Teil-Lockdowns",
       "titleTarget" : "Anschober threatens to tighten the partial lockdown",
       "url" : "https://kurier.at/politik/inland/anschober-droht-mit-verschaerfung-des-teil-lockdowns/401090832"
+    }, {
+      "id" : "zpanJh3l",
+      "imgUrl" : "https://image.kurier.at/images/original/4744230/78350011457369840_BLD_Online.jpg",
+      "titleSource" : "Attentat in Wien: Verfassungsschutz ließ Minister im Dunkeln tappen",
+      "titleTarget" : "Attack in Vienna: the protection of the constitution left ministers groping in the dark",
+      "url" : "https://kurier.at/politik/inland/verfassungsschutz-liess-minister-im-dunkeln-tappen/401090427"
     }, {
       "id" : "T3jR9UWf",
       "imgUrl" : "https://image.kurier.at/images/original/4637132/corona.jpg",
@@ -46,17 +46,17 @@
       "titleTarget" : "Aida Cruises: Price increases between 10 and 15 percent possible",
       "url" : "https://kurier.at/wirtschaft/aida-cruises-preiserhoehungen-zwischen-10-und-15-prozent-moeglich/401090661"
     }, {
-      "id" : "9x7hcnZQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4742358/46-168605276.jpg",
-      "titleSource" : "Internationaler Hochhaus Preis 2020 verliehen",
-      "titleTarget" : "International high-rise price 2020 awarded",
-      "url" : "https://kurier.at/wirtschaft/immobiz/internationaler-hochhaus-preis-2020-verliehen/401088234"
-    }, {
       "id" : "go630C4i",
       "imgUrl" : "https://image.kurier.at/images/original/4700196/46-166527103.jpg",
       "titleSource" : "Volkswagen investiert in Bratislava knapp eine Milliarde Euro",
       "titleTarget" : "Volkswagen is investing just under a billion euros in Bratislava",
       "url" : "https://kurier.at/wirtschaft/volkswagen-investiert-in-bratislava-knapp-eine-milliarde-euro/401090799"
+    }, {
+      "id" : "9x7hcnZQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4742358/46-168605276.jpg",
+      "titleSource" : "Internationaler Hochhaus Preis 2020 verliehen",
+      "titleTarget" : "International high-rise price 2020 awarded",
+      "url" : "https://kurier.at/wirtschaft/immobiz/internationaler-hochhaus-preis-2020-verliehen/401088234"
     }, {
       "id" : "JshSRCzq",
       "imgUrl" : "https://image.kurier.at/images/original/4747074/46-143425124.jpg",
@@ -69,38 +69,21 @@
       "titleSource" : "Länder und Verkehrsverbünde gegen Schnellschuss bei  1-2-3-Ticket",
       "titleTarget" : "Countries and transport associations against a quick shot with a 1-2-3 ticket",
       "url" : "https://www.diepresse.com/5894344/Oeffentlicher-Verkehr_Laender-und-Verkehrsverbuende-gegen?from=rss"
-    }, {
-      "id" : "Giq6t030",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/0/c/8/5894344/EA2710C7-ABF6-4A19-94E8-2643A93D35DE_v0_l.jpg",
-      "titleSource" : "Länder und Verkehrsverbünde gegen Schnellschuss bei  1-2-3-Ticket",
-      "titleTarget" : "Countries and transport associations against a quick shot with a 1-2-3 ticket",
-      "url" : "https://www.diepresse.com/5894344/Klimaschutz_Laender-und-Verkehrsverbuende-gegen-Schnellschuss-bei?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "YD5GDZTn",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/1/d/5894429/Lockdown_h.jpg",
-      "titleSource" : "Anschober droht mit Verschärfung des Teil-Lockdowns",
-      "titleTarget" : "Anschober threatens to tighten the partial lockdown",
-      "url" : "https://www.diepresse.com/5894429/Coronakrise_Anschober-droht-mit-Verschaerfung-des-TeilLockdowns?from=rss"
-    }, {
-      "id" : "vF3LpT8G",
-      "titleSource" : "Störaktion mit Schüssen über Boxen",
-      "titleTarget" : "Disruptive action with shots over boxes",
-      "url" : "https://wien.orf.at/stories/3075007/"
-    }, {
-      "id" : "gohi8XlV",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/52/12/crops/w=1280/413745_opener_136212_on-2019-12-27-10h41m51s286.jpg?s=446d1fe9bd2cb0233de0d21e452d007a5acfddc8",
-      "titleSource" : "Lebensmittel-Ausgabestellen sehr gefragt",
-      "titleTarget" : "Food distribution points are in great demand",
-      "url" : "https://kaernten.orf.at/stories/3074947/"
-    }, {
       "id" : "AOxfCiC0",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/61/crops/w=1280/746475_opener_259061_lokalaugenschein_tarvis_c0005_00_00_01_08.jpg?s=e1458f7469503cddf5bca6707d7c80b921e54f21",
       "titleSource" : "Geschlossene Lokale: Kärntner weichen nach Friaul aus",
       "titleTarget" : "Closed bars: Carinthians move to Friuli",
       "url" : "https://kaernten.orf.at/stories/3075023/"
+    }, {
+      "id" : "YD5GDZTn",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/1/d/5894429/Lockdown_h.jpg",
+      "titleSource" : "Anschober droht mit Verschärfung des Teil-Lockdowns",
+      "titleTarget" : "Anschober threatens to tighten the partial lockdown",
+      "url" : "https://www.diepresse.com/5894429/Coronakrise_Anschober-droht-mit-Verschaerfung-des-TeilLockdowns?from=rss"
     }, {
       "id" : "PaWyMFES",
       "imgUrl" : "https://image.kurier.at/images/original/4720182/46-168307739.jpg",
@@ -114,11 +97,23 @@
       "titleTarget" : "Breeding: A soft spot for crayfish",
       "url" : "https://kurier.at/chronik/oesterreich/zucht-ein-faible-fuer-flusskrebse/401090376"
     }, {
-      "id" : "6dfDNLMD",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/39/15/crops/w=1280/693409_opener_239515_salzburg_coronavirus_-_mediengespraech_zu_aktuelle_entwicklungen_und_informationen_zum_corona-virus_preuner_oevp_.jpg?s=9e4b7b5f302f24626d15f959b9b4a49e04a67e00",
-      "titleSource" : "Stadtchef Preuner doch nicht CoV-positiv",
-      "titleTarget" : "City boss Preuner is not CoV-positive",
-      "url" : "https://salzburg.orf.at/stories/3075001/"
+      "id" : "eWr9N1oW",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/40/94/crops/w=1280/706947_opener_244594_20201002_120804.jpg?s=cab22ca8d451f9971e858405464ee3a65afcd7c2",
+      "titleSource" : "Gesundheitshotline hat weiter Personal aufgestockt",
+      "titleTarget" : "Health hotline has further increased staff",
+      "url" : "https://vorarlberg.orf.at/stories/3074977/"
+    }, {
+      "id" : "GUIFHL38",
+      "imgUrl" : "https://image.kurier.at/images/original/4747455/46-168652904.jpg",
+      "titleSource" : "Weltweit 50 Mio. Infektionen; 5.933 Neuinfektionen in Ö",
+      "titleTarget" : "50 million infections worldwide; 5,933 new infections in Austria",
+      "url" : "https://kurier.at/chronik/oesterreich/queen-erstmals-mit-maske-deutschland-verschaerfungen-fuer-einreisende-aus-risikogebieten/401090529"
+    }, {
+      "id" : "baXleWyP",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/16/86/crops/w=1280/533803_opener_180986_maske3.jpg?s=84ae7f2b036143a331545129fcead06794cb542e",
+      "titleSource" : "Warnung vor Augenproblemen durch Masken",
+      "titleTarget" : "Warning of eye problems caused by masks",
+      "url" : "https://salzburg.orf.at/stories/3074894/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -147,42 +142,44 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "v448tqLB",
+      "imgUrl" : "https://image.kurier.at/images/original/4747569/46-168755075.jpg",
+      "titleSource" : "Remis im Spitzenspiel: Rapid beendet die Salzburger Siegesserie",
+      "titleTarget" : "Draw in the top game: Rapid ends Salzburg's winning streak",
+      "url" : "https://kurier.at/sport/fussball/11-unentschieden-rapid-wien-beendet-die-bundesliga-siegesserie-von-red-bull-salzburg/401090634"
+    }, {
       "id" : "ADXsValA",
       "imgUrl" : "https://image.kurier.at/images/original/4743186/46-168694322.jpg",
       "titleSource" : "Srdjan Grahovac: Der umstrittene Spezial-Agent von Rapid",
       "titleTarget" : "Srdjan Grahovac: Rapid's controversial special agent",
       "url" : "https://kurier.at/sport/fussball/srdjan-grahovac-der-umstrittene-spezial-agent-von-rapid-im-einsatz-gegen-salzburg/401090187"
     }, {
-      "id" : "as90WrKy",
-      "imgUrl" : "https://image.kurier.at/images/original/4747491/46-168753814.jpg",
-      "titleSource" : "Spitzenspiel live: So steht es bei Rapid Wien gegen Salzburg",
-      "titleTarget" : "Top game live: This is how it is at Rapid Vienna against Salzburg",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-spitzenspiel-im-live-ticker-so-steht-es-bei-rapid-wien-gegen-salzburg/401090634"
-    }, {
-      "id" : "GngdqLsa",
-      "titleSource" : "LASK-Lauf soll gegen Admira weitergehen",
-      "titleTarget" : "LASK run should continue against Admira",
-      "url" : "https://sport.orf.at/stories/3069066/"
+      "id" : "u7a3J3Xm",
+      "imgUrl" : "https://image.kurier.at/images/original/4746819/46-168116988.jpg",
+      "titleSource" : "\"Lasst uns niemals zurückblicken\": US-Sporstars jubeln nach US-Wahl",
+      "titleTarget" : "\"Let's never look back\": US Sporstars cheer after US election",
+      "url" : "https://kurier.at/sport/lasst-uns-niemals-zurueckblicken-us-sporstars-james-rapinoe-und-co-gratulierten-joe-biden-und-kamala/401090556"
     }, {
       "id" : "ZJKIDZnH",
       "titleSource" : "LASK bleibt sicher in Erfolgsspur",
       "titleTarget" : "LASK is sure to stay on the road to success",
       "url" : "https://sport.orf.at/stories/3069117/"
     }, {
-      "id" : "y90EFvtI",
-      "titleSource" : "Vorarlberger Pauger im Weltcup in Valencia 15.",
-      "titleTarget" : "Vorarlberger Pauger in the World Cup in Valencia 15.",
-      "url" : "https://sport.orf.at/stories/3069088/"
+      "id" : "dGN39H3s",
+      "titleSource" : "Mir rückt WM-Krone mit erstem Sieg näher",
+      "titleTarget" : "I am getting closer to the World Cup crown with my first victory",
+      "url" : "https://sport.orf.at/stories/3069110/"
     }, {
-      "id" : "lI81ZKs0",
-      "titleSource" : "Wels gewinnt OÖ-Derby in BSL gegen Gmunden",
-      "titleTarget" : "Wels wins the Upper Austria Derby against Gmunden in BSL",
-      "url" : "https://sport.orf.at/stories/3069089/"
+      "id" : "PyDCkeC3",
+      "imgUrl" : "https://image.kurier.at/images/original/4747716/46-168757499.jpg",
+      "titleSource" : "Heimdebakel für Rapids EL-Gegner Arsenal gegen Aston Villa",
+      "titleTarget" : "Home debacle for Rapids EL opponents Arsenal against Aston Villa",
+      "url" : "https://kurier.at/sport/fussball/heimdebakel-fuer-rapids-el-gegner-arsenal-gegen-aston-villa/401091000"
     }, {
-      "id" : "XPUX17xv",
-      "titleSource" : "Bayern schlagen BVB auch dank Alaba",
-      "titleTarget" : "Bayern beat BVB thanks to Alaba",
-      "url" : "https://sport.orf.at/stories/3069086/"
+      "id" : "PMs6oV90",
+      "titleSource" : "Suljovic/Rodriguez verpassen WM-Sensation",
+      "titleTarget" : "Suljovic / Rodriguez miss World Cup sensation",
+      "url" : "https://sport.orf.at/stories/3069118/"
     } ]
   } ],
   "country" : "austria",
