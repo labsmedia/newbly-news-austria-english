@@ -2,181 +2,181 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "vRKSYA2p",
+      "id" : "y7LjlRSm",
       "imgUrl" : "https://image.kurier.at/images/original/4750557/46-168609463.jpg",
       "titleSource" : "Ausgangsbeschränkungen werden bis 22.11. verlängert",
       "titleTarget" : "Exit restrictions are until 22.11. extended",
       "url" : "https://kurier.at/politik/inland/coronavirus-ausgangsbeschraenkungen-werden-um-zehn-tage-verlaengert/401092644"
     }, {
-      "id" : "D7xkon3v",
+      "id" : "YcwmyAsq",
       "imgUrl" : "https://image.kurier.at/images/original/4725846/20201028-ABD0090-1-1.jpg",
       "titleSource" : "ÖVP fordert Wiedereinführung von Intensivmedizin als Fach für Chirurgen",
       "titleTarget" : "ÖVP calls for the reintroduction of intensive care medicine as a specialist for surgeons",
       "url" : "https://kurier.at/politik/inland/oevp-fordert-wiedereinfuehrung-von-intensivmedizin-als-fach-fuer-chirurgen/401092770"
     }, {
-      "id" : "EXoJMJh9",
+      "id" : "7rcgJq6K",
       "imgUrl" : "https://image.kurier.at/images/original/4751538/46-168791998.jpg",
       "titleSource" : "Kurz bei Macron: IS-Kämpfer nach Gefängnis \"ständig überwachen\"",
-      "titleTarget" : "Briefly at Macron: \"Constantly monitor\" IS fighters after prison",
+      "titleTarget" : "Briefly at Macron: Stronger protection of the EU's external borders as terrorism prevention",
       "url" : "https://kurier.at/politik/inland/kurz-bei-macron-staerkerer-schutz-der-eu-aussengrenzen-als-terrorpraevention/401093343"
     }, {
-      "id" : "p8HFkgwo",
-      "imgUrl" : "https://image.kurier.at/images/original/4737369/78350011457315082_BLD_Online.jpg",
-      "titleSource" : "Daten zeigen: Fernunterricht bremst Virus wohl nicht",
-      "titleTarget" : "Data shows: Distance learning is unlikely to slow down Virus",
-      "url" : "https://kurier.at/politik/inland/daten-zeigen-fernunterricht-bremst-virus-wohl-nicht/401093490"
+      "id" : "522xBjRX",
+      "imgUrl" : "https://image.kurier.at/images/original/4745817/78350011457383838_BLD_Online.jpg",
+      "titleSource" : "Nach Anschober-Gespräch: Opposition kritisiert \"Blindflug\" bei Corona-Strategie",
+      "titleTarget" : "After an Anschober conversation: Opposition criticizes \"blind flight\" in the corona strategy",
+      "url" : "https://kurier.at/politik/inland/nach-anschober-gespraech-opposition-kritisiert-blindflug-bei-corona-strategie/401092245"
     }, {
-      "id" : "kz7NOG5P",
-      "imgUrl" : "https://image.kurier.at/images/original/4714365/81731350857099944_BLD_Online.jpg",
-      "titleSource" : "Coronavirus: Schulschließungen verursachen \"enorme Kosten\"",
-      "titleTarget" : "Coronavirus: School closings cause \"enormous costs\"",
-      "url" : "https://kurier.at/politik/inland/coronavirus-schulschliessungen-verursachen-enorme-kosten/401093529"
-    }, {
-      "id" : "vurq54wj",
+      "id" : "JLiHwPQF",
       "imgUrl" : "https://image.kurier.at/images/original/4653434/20200923-ABD0013-1-1.jpg",
       "titleSource" : "Schramböck: \"Es braucht wirtschaftlichen Lawinenschutz\"",
       "titleTarget" : "Schramböck: \"Economic avalanche protection is needed\"",
       "url" : "https://kurier.at/politik/inland/live-wie-es-auf-oesterreichs-arbeitsmarkt-aussieht/401092515"
     }, {
-      "id" : "02xeLSzO",
+      "id" : "BEb3P0u8",
       "imgUrl" : "https://image.kurier.at/images/original/4752072/ema_dsc5938_hires-min.jpg",
       "titleSource" : "Corona: SPÖ will der Verlängerung des Lockdowns zustimmen",
       "titleTarget" : "Corona: SPÖ wants to agree to the extension of the lockdown",
       "url" : "https://kurier.at/politik/inland/corona-spoe-will-der-verlaengerung-des-lockdowns-zustimmen/401093430"
+    }, {
+      "id" : "hXAPb7Pp",
+      "imgUrl" : "https://image.kurier.at/images/original/4638848/46-167363127.jpg",
+      "titleSource" : "Klimaschutzministerium neu organisiert",
+      "titleTarget" : "Climate Protection Ministry reorganized",
+      "url" : "https://kurier.at/politik/inland/klimaschutzministerium-neu-organisiert/401093010"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "LPVLCfwQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4752174/46-168796365.jpg",
-      "titleSource" : "Österreicher sparen sich durch die Corona-Krise",
-      "titleTarget" : "Austrians save themselves due to the corona crisis",
-      "url" : "https://kurier.at/wirtschaft/oesterreicher-sparen-sich-durch-die-corona-krise/401093475"
-    }, {
-      "id" : "HSHhvXZ6",
+      "id" : "GiLvpqBf",
       "imgUrl" : "https://image.kurier.at/images/original/4708224/46-168070543.jpg",
       "titleSource" : "Strom aus erneuerbaren Energiequellen legt weiter stark zu",
       "titleTarget" : "Electricity from renewable energy sources continues to grow strongly",
       "url" : "https://kurier.at/wirtschaft/strom-aus-erneuerbaren-energiequellen-legt-weiter-stark-zu/401092995"
     }, {
-      "id" : "bnQHxVKu",
-      "imgUrl" : "https://image.kurier.at/images/original/4752144/46-84746370.jpg",
-      "titleSource" : "1,5 Prozent mehr Gehalt auch in der IT-Branche",
-      "titleTarget" : "1.5 percent more salary also in the IT industry",
-      "url" : "https://kurier.at/wirtschaft/15-prozent-mehr-gehalt-auch-in-der-it-branche/401093454"
-    }, {
-      "id" : "yRqbS1J2",
+      "id" : "nhAsqN4D",
       "imgUrl" : "https://image.kurier.at/images/original/4751238/46-168789801.jpg",
       "titleSource" : "Agrana-Zuckerfabrik dürfte durch Nothilfen für Rübenbauern gerettet sein",
       "titleTarget" : "Agrana sugar factory is likely to have been saved by emergency aid for beet farmers",
       "url" : "https://kurier.at/wirtschaft/agrana-zuckerfabrik-duerfte-durch-nothilfen-fuer-ruebenbauern-gerettet-sein/401093115"
     }, {
-      "id" : "0bczHHbU",
-      "imgUrl" : "https://image.kurier.at/images/original/4752255/46-145658315.jpg",
-      "titleSource" : "Ex-Google-Chef beantragte in Zypern \"goldenen Pass\"",
-      "titleTarget" : "Ex-Google boss applied for \"golden passport\" in Cyprus",
-      "url" : "https://kurier.at/wirtschaft/ex-google-chef-beantragte-in-zypern-goldenen-pass/401093499"
-    }, {
-      "id" : "W1PKDoUR",
+      "id" : "bNCymF5i",
       "imgUrl" : "https://image.kurier.at/images/original/4751955/46-168776346.jpg",
       "titleSource" : "Börsianer kehren Techaktien den Rücken",
       "titleTarget" : "Stockbrokers are turning their backs on tech stocks",
       "url" : "https://kurier.at/wirtschaft/boersianer-kehren-techaktien-den-ruecken/401093403"
     }, {
-      "id" : "hNfopfyw",
-      "imgUrl" : "https://image.kurier.at/images/original/3898913/46-150421429.jpg",
-      "titleSource" : "Welche Genehmigungen sind für eine E-Ladestation nötig?",
-      "titleTarget" : "Which permits are required for an e-charging station?",
-      "url" : "https://kurier.at/wirtschaft/immobiz/welche-genehmigungen-sind-fuer-eine-e-ladestation-noetig/401088384"
+      "id" : "MKcgtQlC",
+      "imgUrl" : "https://image.kurier.at/images/original/4489364/46-164526164.jpg",
+      "titleSource" : "Henkel fasste bei Umsatz im dritten Quartal wieder Fuß",
+      "titleTarget" : "Henkel regained a foothold in sales in the third quarter",
+      "url" : "https://kurier.at/wirtschaft/henkel-fasste-bei-umsatz-im-dritten-quartal-wieder-fuss/401092881"
+    }, {
+      "id" : "06LMftdk",
+      "imgUrl" : "https://image.kurier.at/images/original/4603892/81650355556172916_BLD_Online.jpg",
+      "titleSource" : "Bis September leichter Rückgang bei Strom- und Gasanbieterwechsel",
+      "titleTarget" : "Up to September slight decrease in electricity and gas provider changes",
+      "url" : "https://kurier.at/wirtschaft/bis-september-leichter-rueckgang-bei-strom-und-gasanbieterwechsel/401092971"
+    }, {
+      "id" : "DJXGdUFS",
+      "imgUrl" : "https://image.kurier.at/images/original/4751160/46-167338588.jpg",
+      "titleSource" : "China-Geschäft half Autozulieferer Schaeffler im dritten Quartal",
+      "titleTarget" : "China business helped auto supplier Schaeffler in the third quarter",
+      "url" : "https://kurier.at/wirtschaft/china-geschaeft-half-autozulieferer-schaeffler-im-dritten-quartal/401093058"
+    }, {
+      "id" : "bl2jo4eC",
+      "imgUrl" : "https://image.kurier.at/images/original/4138503/78370011353269772_BLD_Online.jpg",
+      "titleSource" : "Amazon droht Milliardenstrafe der EU wegen Missbrauchs von Marktmacht",
+      "titleTarget" : "Amazon threatens billions in fines from the EU for abuse of market power",
+      "url" : "https://kurier.at/wirtschaft/amazon-droht-milliardenstrafe-der-eu-wegen-missbrauchs-von-marktmacht/401093097"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "CKarIoMg",
-      "imgUrl" : "https://image.kurier.at/images/original/4690587/46-167997860.jpg",
-      "titleSource" : "Mehr als 6.100 Neuinfektionen in Österreich; EU sicherte sich Biontech-Impfstoff",
-      "titleTarget" : "From tomorrow: shops close at 7 pm; Pediatricians against school closings",
-      "url" : "https://kurier.at/chronik/oesterreich/forscher-sind-im-kritischen-bereich-angekommen-spitaeler-fahren-operationen-zurueck/401092296"
-    }, {
-      "id" : "HiNE6QpU",
+      "id" : "T29UnrT6",
       "imgUrl" : "https://image.kurier.at/images/original/4735938/46-167961868.jpg",
       "titleSource" : "Hausdurchsuchungen bei Rechtsextremen in sieben Bundesländern",
       "titleTarget" : "House searches of right-wing extremists in seven federal states",
       "url" : "https://kurier.at/chronik/oesterreich/hausdurchsuchungen-bei-rechtsextremen-in-sieben-bundeslaendern/401093130"
     }, {
-      "id" : "A5rUeBwJ",
+      "id" : "iyTzVPAD",
       "imgUrl" : "https://image.kurier.at/images/original/4707678/46-168266108.jpg",
       "titleSource" : "Mehr als 6.100 neue Corona-Infektionen in Österreich",
       "titleTarget" : "More than 6,100 new corona infections in Austria",
       "url" : "https://kurier.at/chronik/oesterreich/mehr-als-6100-neue-corona-infektionen-in-oesterreich/401092605"
     }, {
-      "id" : "J7EeHQ7W",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/60/crops/w=1280/748771_opener_259860_unbenanntdddd-1.jpg?s=a69befbc38cd37d43599310088bfa07346364ae4",
-      "titleSource" : "Krankenhaus Hall schließt Psychotherapie-Station",
-      "titleTarget" : "Hospital Hall closes psychotherapy ward",
-      "url" : "https://tirol.orf.at/stories/3075358/"
+      "id" : "PQRyJrGH",
+      "imgUrl" : "https://image.kurier.at/images/original/4750578/unfall2.jpg",
+      "titleSource" : "Kilometerlanger Stau auf A2 bei Wiener Neudorf",
+      "titleTarget" : "Kilometers of traffic jam on A2 near Wiener Neudorf",
+      "url" : "https://kurier.at/chronik/oesterreich/kilometerlanger-stau-auf-a2-bei-wiener-neudorf/401092341"
     }, {
-      "id" : "3ACwjyLl",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/30/13/crops/w=1280/744239_opener_69113_6efe72bf-917e-43bd-aecb-cdb96b851767.jpg?s=d3409e13f0f95d1de6894f7550060ed705005d13",
-      "titleSource" : "Sittenwächter-Bande: Anführer in U-Haft",
-      "titleTarget" : "Morals Guards gang: leaders in custody",
-      "url" : "https://wien.orf.at/stories/3075363/"
+      "id" : "3iWCQqvc",
+      "imgUrl" : "https://image.kurier.at/images/original/4751964/46-168784934.jpg",
+      "titleSource" : "16-Jährige getötet: „Sie wollte sterben und in das Paradies“",
+      "titleTarget" : "16-year-old killed: \"She wanted to die and go to paradise\"",
+      "url" : "https://kurier.at/chronik/oesterreich/16-jaehrige-getoetet-sie-wollte-sterben-und-in-das-paradies/401093373"
     }, {
-      "id" : "exl8Pc1t",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/74/crops/w=1280/748807_opener_259874_bildschirmfoto_2020-11-10_um_17.12.06_2.jpg?s=3be38bca9d7368e4fc181061e8494784bc4616cd",
-      "titleSource" : "Zweiter Lockdown in Südtirol ab Samstag",
-      "titleTarget" : "Second lockdown in South Tyrol from Saturday",
-      "url" : "https://tirol.orf.at/stories/3075348/"
+      "id" : "d1gW7Wrz",
+      "imgUrl" : "https://image.kurier.at/images/original/4751865/46-168671716.jpg",
+      "titleSource" : "FPÖ-Volksanwalt Rosenkranz leitet Prüfung zu Terroranschlag ein",
+      "titleTarget" : "FPÖ ombudsman Rosenkranz initiates investigation into terrorist attack",
+      "url" : "https://kurier.at/chronik/oesterreich/fpoe-volksanwalt-rosenkranz-leitet-pruefung-zu-terroranschlag-ein/401093346"
     }, {
-      "id" : "Dl0LFICT",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/05/71/crops/w=1280/451075_opener_150171_aircraft-2114464.jpg?s=54f19ca36551c9169b796f6d1b9b84e8814bc1ad",
-      "titleSource" : "Zwei infizierte Steirer reisten per Flugzeug",
-      "titleTarget" : "Two infected Styrians traveled by plane",
-      "url" : "https://steiermark.orf.at/stories/3075372/"
+      "id" : "Kj2TcZxw",
+      "imgUrl" : "https://image.kurier.at/images/original/4751463/46-168793787.jpg",
+      "titleSource" : "Eislauf-Großevent: Elf-Städte-Tour fällt ins Wasser",
+      "titleTarget" : "Big ice skating event: Eleven cities tour falls into the water",
+      "url" : "https://kurier.at/chronik/oesterreich/eislauf-grossevent-elf-staedte-tour-faellt-ins-wasser/401093196"
+    }, {
+      "id" : "9HGlDTKH",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/18/28/crops/w=1280/748315_opener_187028_kiga1.jpg?s=7433461b066d70a01b08163339a8a3d9977ee9f4",
+      "titleSource" : "Kindergärten setzen auf Quereinsteiger",
+      "titleTarget" : "Kindergartens rely on career changers",
+      "url" : "https://wien.orf.at/stories/3075307/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "jeLxNsfy",
+      "id" : "l6y4y5ZM",
       "imgUrl" : "https://image.kurier.at/images/original/4749147/46-168725064.jpg",
       "titleSource" : "Neue Folgen von \"Meiberger\" auf ServusTV",
       "titleTarget" : "New episodes of \"Meiberger\" on ServusTV",
       "url" : "https://kurier.at/kultur/neue-folgen-von-meiberger-auf-servustv/401091933"
     }, {
-      "id" : "VKmHzevb",
+      "id" : "NQhwuRvA",
       "titleSource" : "Nun trauert Schlagerstar Heintje um seine Mama",
       "titleTarget" : "Now pop star Heintje mourns his mom",
       "url" : "https://kurier.at/kultur/nun-trauert-schlagerstar-heintje-um-seine-mama/401092719"
     }, {
-      "id" : "iOa7SThk",
-      "imgUrl" : "https://image.kurier.at/images/original/4752003/46-168784969.jpg",
-      "titleSource" : "\"Schwere Gewichte\": Doku über Österreichs stärkste Familie",
-      "titleTarget" : "\"Heavy weights\": Documentary about Austria's strongest family",
-      "url" : "https://kurier.at/kultur/schwere-gewichte-doku-ueber-oesterreichs-staerkste-familie/401093331"
-    }, {
-      "id" : "YrhPWp2c",
+      "id" : "wE23Y7dR",
       "imgUrl" : "https://image.kurier.at/images/original/4751373/46-168201954.jpg",
       "titleSource" : "Neues bei Netflix: \"Barbaren\" bekommt Staffel 2, Olli Schulz baut ein Hausboot",
       "titleTarget" : "News from Netflix: \"Barbarians\" gets season 2, Olli Schulz builds a houseboat",
       "url" : "https://kurier.at/kultur/medien/neues-bei-netflix-barbaren-bekommt-staffel-2-olli-schulz-baut-ein-hausboot/401093163"
     }, {
-      "id" : "GHSD3ekX",
+      "id" : "eNrQnAv6",
       "imgUrl" : "https://image.kurier.at/images/original/4485110/46-165827137.jpg",
       "titleSource" : "\"Undine\" und \"Berlin Alexanderplatz\" für Europäischen Filmpreis nominiert",
       "titleTarget" : "\"Undine\" and \"Berlin Alexanderplatz\" nominated for European Film Award",
       "url" : "https://kurier.at/kultur/undine-und-berlin-alexanderplatz-fuer-europaeischen-filmpreis-nominiert/401093055"
     }, {
-      "id" : "rbT7luCl",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/8/0/5895296/_spiegel-1_1605010737476749.jpg",
-      "titleSource" : "Sexistische Fragen? Ex-Politikerin verteidigt Spiegel-Interviewer",
-      "titleTarget" : "Sexist questions? Ex-politician defends Spiegel interviewer",
-      "url" : "https://www.diepresse.com/5895296/Sexistische-Fragen-ExPolitikerin-verteidigt-SpiegelInterviewer?from=rss"
+      "id" : "RYuCqp9B",
+      "imgUrl" : "https://image.kurier.at/images/original/3650564/46-147706254.jpg",
+      "titleSource" : "Trenklers Tratsch: Die Baustellen auf der Bundesmuseumsautobahn",
+      "titleTarget" : "Trenkler's gossip: the construction sites on the federal museum motorway",
+      "url" : "https://kurier.at/kultur/trenklers-tratsch-die-baustellen-auf-der-bundesmuseumsautobahn/401093883"
     }, {
-      "id" : "TgWBdXJx",
-      "imgUrl" : "https://image.kurier.at/images/original/4750329/bildschirmfoto_2020-11-10_um_09.47.39.png",
-      "titleSource" : "Pannen vor dem Terror: Stellvertreter-Debatte bei \"Im Zentrum\"",
-      "titleTarget" : "Breakdowns before the terror: Deputy debate at \"In the center\"",
-      "url" : "https://kurier.at/kultur/medien/pannen-vor-dem-terror-in-wien-stellvertreter-debatte-fuer-kickl-und-nehammer-bei-orf-talk-im-zentrum/401092278"
+      "id" : "GkbjJgAb",
+      "imgUrl" : "https://image.kurier.at/images/original/4752918/46-149650816.jpg",
+      "titleSource" : "Corona-Hilfe: 18,5 Millionen für Bundesmuseen und Bundestheater",
+      "titleTarget" : "Corona aid: 18.5 million for federal museums and federal theaters",
+      "url" : "https://kurier.at/kultur/corona-hilfe-185-millionen-fuer-bundesmuseen-und-bundestheater/401093880"
+    }, {
+      "id" : "AApoEYUl",
+      "imgUrl" : "https://image.kurier.at/images/original/4752891/321.jpg",
+      "titleSource" : "Otto-Mauer-Preis geht an Barbara Kapusta",
+      "titleTarget" : "Otto Mauer Prize goes to Barbara Kapusta",
+      "url" : "https://kurier.at/kultur/otto-mauer-preis-geht-an-barbara-kapusta/401093829"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,42 +184,42 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "Ei7sOGpD",
-      "imgUrl" : "https://image.kurier.at/images/original/4752354/46-168799870.jpg",
-      "titleSource" : "Doppelte Premiere: Thiem und Dadic erstmals Sportler des Jahres",
-      "titleTarget" : "Double premiere: Thiem and Dadic for the first time athletes of the year",
-      "url" : "https://kurier.at/sport/doppelte-premiere-beim-niki-dominic-thiem-und-ivona-dadic-sind-erstmals-sportler-des-jahres/401093460"
-    }, {
-      "id" : "7t01QyXQ",
-      "titleSource" : "Dadic und Thiem Sportler des Jahres",
-      "titleTarget" : "Dadic and Thiem Sportsman of the Year",
-      "url" : "https://sport.orf.at/stories/3069196/"
-    }, {
-      "id" : "eUzxXENS",
-      "titleSource" : "Spannung vor Sportlerwahl 2020",
-      "titleTarget" : "Excitement before athletes election 2020",
-      "url" : "https://sport.orf.at/stories/3069156/"
-    }, {
-      "id" : "8osVba53",
+      "id" : "tmD3w8en",
       "titleSource" : "Labor erklärt Testkonfusion bei Salzburger Fußballern",
       "titleTarget" : "Laboratory explains test confusion among Salzburg footballers",
       "url" : "https://sport.orf.at/stories/3069189/"
     }, {
-      "id" : "aFmYtfbN",
-      "titleSource" : "Nüßle dank Wildcard bei German Masters Qualifier",
-      "titleTarget" : "Nüßle thanks to wildcard in the German Masters Qualifier",
-      "url" : "https://sport.orf.at/stories/3069185/"
-    }, {
-      "id" : "cJEO5s98",
+      "id" : "aTAXJYuH",
       "imgUrl" : "https://image.kurier.at/images/original/4750620/46-121961385.jpg",
       "titleSource" : "Kombinierer Gruber nach Herz-OP: \"Das ist mein größter Sieg!\"",
       "titleTarget" : "Combined Gruber after heart surgery: \"This is my greatest victory!\"",
       "url" : "https://kurier.at/sport/wintersport/kombinierer-gruber-nach-herz-op-das-ist-mein-groesster-sieg/401092689"
     }, {
-      "id" : "MrVTrRt9",
+      "id" : "Q4oChecx",
       "titleSource" : "Test gegen ÖFB-Team als Aufwärmübung",
       "titleTarget" : "Test against the ÖFB team as a warm-up exercise",
       "url" : "https://sport.orf.at/stories/3069146/"
+    }, {
+      "id" : "05QCviYd",
+      "titleSource" : "WTA-Turnier in Linz für Grabher nach fünf Games vorbei",
+      "titleTarget" : "WTA tournament in Linz for Grabher over after five games",
+      "url" : "https://sport.orf.at/stories/3069195/"
+    }, {
+      "id" : "hcnNBRWy",
+      "imgUrl" : "https://image.kurier.at/images/original/4751928/46-168796520.jpg",
+      "titleSource" : "Wegen Knöchelverletzung: Grabher musste in Linz aufgeben",
+      "titleTarget" : "Because of an ankle injury: Grabher had to give up in Linz",
+      "url" : "https://kurier.at/sport/tennis/wegen-knoechelverletzung-julia-grabher-musste-beim-wta-turnier-in-linz-aufgeben/401093400"
+    }, {
+      "id" : "IOAkwvrW",
+      "titleSource" : "Haas/Knoll müssen in Linz im Doppel aufgeben",
+      "titleTarget" : "Haas / Knoll have to give up doubles in Linz",
+      "url" : "https://sport.orf.at/stories/3069187/"
+    }, {
+      "id" : "rmNfOCkr",
+      "titleSource" : "Vier positive Fälle bei Harder Handball-Team",
+      "titleTarget" : "Four positive cases on the Harder handball team",
+      "url" : "https://sport.orf.at/stories/3069193/"
     } ]
   } ],
   "country" : "austria",
