@@ -2,181 +2,180 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "ZzM4atBe",
+      "id" : "62ZHI5ve",
       "imgUrl" : "https://image.kurier.at/images/original/4739367/46-165823573.jpg",
       "titleSource" : "\"Tickende Zeitbomben\": Regierung will Gefährder \"wegsperren\"",
       "titleTarget" : "\"Ticking time bombs\": government wants to \"lock up\" threats",
       "url" : "https://kurier.at/politik/inland/anti-terror-paket-regierung-beschliesst-20-massnahmen/401093967"
     }, {
-      "id" : "n8yOskWm",
-      "imgUrl" : "https://image.kurier.at/images/original/4754415/46-167908018.jpg",
-      "titleSource" : "Eurofighter-Verfahren endgültig eingestellt",
-      "titleTarget" : "Eurofighter proceedings finally discontinued",
-      "url" : "https://kurier.at/politik/inland/eurofighter-verfahren-endgueltig-eingestellt/401094717"
+      "id" : "PlGlichC",
+      "imgUrl" : "https://image.kurier.at/images/original/4754976/46-168825722.jpg",
+      "titleSource" : "Terrorattentat: Ingeborg Zerbes soll Kommission anführen",
+      "titleTarget" : "Terrorist attack: Ingeborg Zerbes is to lead the commission",
+      "url" : "https://kurier.at/politik/inland/terrorattentat-ingeborg-zerbes-soll-kommission-anfuehren/401095149"
     }, {
-      "id" : "cmguUfl7",
-      "imgUrl" : "https://image.kurier.at/images/original/4748217/46-164264731.jpg",
-      "titleSource" : "IHS warnt eindringlich vor Schulschließungen",
-      "titleTarget" : "IHS strongly warns of school closings",
-      "url" : "https://kurier.at/politik/inland/ish-warnt-eindringlich-vor-schulschliessungen/401093682"
+      "id" : "erCpsBCV",
+      "titleSource" : "Deutschlehrende fordern Ende der AMS-Deutschkurse",
+      "titleTarget" : "German teachers demand the end of the AMS German courses",
+      "url" : "https://www.diepresse.com/5896238/Infektionsgefahr_Deutschlehrende-fordern-Ende-der-AMSDeutschkurse?from=rss"
     }, {
-      "id" : "thFrlB9h",
-      "imgUrl" : "https://image.kurier.at/images/original/4193918/46-162956594.jpg",
-      "titleSource" : "Coronavirus - Lehrer wollen Aufwandsentschädigung für Fernunterricht",
-      "titleTarget" : "Coronavirus - teachers want reimbursement for distance learning",
-      "url" : "https://kurier.at/politik/inland/coronavirus-lehrer-wollen-aufwandsentschaedigung-fuer-fernunterricht/401093769"
+      "id" : "InhOmnom",
+      "imgUrl" : "https://image.kurier.at/images/original/4509803/78350011455428004_BLD_Online.jpg",
+      "titleSource" : "Eurofighter: Tanner lässt Flieger-Zukunft offen",
+      "titleTarget" : "Eurofighter: Tanner leaves the aviation future open",
+      "url" : "https://kurier.at/politik/inland/eurofighter-tanner-laesst-flieger-zukunft-offen/401095062"
     }, {
-      "id" : "BNX69NwE",
-      "imgUrl" : "https://image.kurier.at/images/original/4682493/46-167700390.jpg",
-      "titleSource" : "Coronavirus - Breite Front gegen mögliche Schulschließungen",
-      "titleTarget" : "Coronavirus - broad front against possible school closings",
-      "url" : "https://kurier.at/politik/inland/coronavirus-breite-front-gegen-moegliche-schulschliessungen/401094195"
+      "id" : "eBX1EcKH",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/0/e/5896206/B5FD4202-E909-4C61-88C6-A1FE8994CC5F_v0_h.jpg",
+      "titleSource" : "Hauptausschuss verlängert Ausgangsbeschränkungen",
+      "titleTarget" : "Main committee extends exit restrictions",
+      "url" : "https://www.diepresse.com/5896206/CoronaMassnahmen_Hauptausschuss-verlaengert-Ausgangsbeschraenkungen?from=rss"
     }, {
-      "id" : "zFJupuM6",
-      "imgUrl" : "https://image.kurier.at/images/original/4745775/78350011457383410_BLD_Online.jpg",
-      "titleSource" : "Corona: Keine Verbesserungen, deshalb wird Ausgangssperre verlängert",
-      "titleTarget" : "Corona: No improvements, so the curfew is being extended",
-      "url" : "https://kurier.at/politik/inland/coronavirus-keine-verbesserungen-deshalb-wird-ausgangssperre-verlaengert/401094759"
+      "id" : "o1FCA8mg",
+      "imgUrl" : "https://image.kurier.at/images/original/3891707/78350011451438514_BLD_Online.jpg",
+      "titleSource" : "Pflege: Sozialministerium wirbt um (Wieder)Einsteiger",
+      "titleTarget" : "Care: Ministry of Social Affairs woos (re) entrants",
+      "url" : "https://kurier.at/politik/inland/pflege-sozialministerium-wirbt-um-wiedereinsteiger/401095023"
     }, {
-      "id" : "cSJliHci",
-      "imgUrl" : "https://image.kurier.at/images/original/4754436/46-168768285.jpg",
-      "titleSource" : "Pannen vor Terror-Akt: Strafrechtlerin könnte Untersuchungskommission leiten",
-      "titleTarget" : "Breakdowns before terrorist act: criminal lawyer could lead investigative commission",
-      "url" : "https://kurier.at/politik/inland/terror-in-wien-strafrechts-expertin-zerbes-soll-untersuchungskommission-leiten/401094738"
+      "id" : "KtkdZkTD",
+      "imgUrl" : "https://image.kurier.at/images/original/4747317/78350011457406896_BLD_Online.jpg",
+      "titleSource" : "Anschober: \"Es ist davon auszugehen, dass die heutigen Zahlen höher sind\"",
+      "titleTarget" : "Anschober: \"It can be assumed that today's numbers are higher\"",
+      "url" : "https://kurier.at/politik/inland/anschober-es-ist-davon-auszugehen-dass-die-heutigen-zahlen-hoeher-sind/401095008"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "rHIpl6xP",
-      "imgUrl" : "https://image.kurier.at/images/original/4753311/46-168810444.jpg",
-      "titleSource" : "\"Muss man 18-Jährige vor Käpt'n Iglo und Fischstäbchen schützen?\"",
-      "titleTarget" : "\"Do you have to protect 18-year-olds from Captain Iglo and fish fingers?\"",
-      "url" : "https://kurier.at/wirtschaft/muss-man-18-jaehrige-vor-kaeptn-iglo-und-fischstaebchen-schuetzen/401094129"
+      "id" : "Tx6qC9IO",
+      "imgUrl" : "https://image.kurier.at/images/original/4549691/78370011355727828_BLD_Online.jpg",
+      "titleSource" : "Wirtschaft in Ost- und Südosteuropa schrumpft um 4,5 Prozent",
+      "titleTarget" : "The economy in Eastern and Southeastern Europe shrinks by 4.5 percent",
+      "url" : "https://kurier.at/wirtschaft/wirtschaft-in-ost-und-suedosteuropa-schrumpft-um-45-prozent/401095131"
     }, {
-      "id" : "d9HhNzg3",
-      "imgUrl" : "https://image.kurier.at/images/original/4542431/78350011455681204_BLD_Online.jpg",
-      "titleSource" : "Bayerns Söder für Frauenquote in deutschen Konzern-Vorständen",
-      "titleTarget" : "Bavaria's Söder for a quota of women in German corporate boards",
-      "url" : "https://kurier.at/wirtschaft/bayerns-soeder-fuer-frauenquote-in-deutschen-konzern-vorstaenden/401093754"
+      "id" : "euSlXR8C",
+      "imgUrl" : "https://image.kurier.at/images/original/3484318/20190515-ABD0154-1-1.jpg",
+      "titleSource" : "Magenta nach drei Quartalen mit stabilem Ergebnis",
+      "titleTarget" : "Magenta after three quarters with stable results",
+      "url" : "https://kurier.at/wirtschaft/magenta-nach-drei-quartalen-mit-stabilem-ergebnis/401095125"
     }, {
-      "id" : "hhSnETND",
-      "imgUrl" : "https://image.kurier.at/images/original/4700118/20201015-ABD0104-1-1.jpg",
-      "titleSource" : "Bei MAN geht nichts mehr: Verhandlung über Stellenabbau abgebrochen",
-      "titleTarget" : "Nothing works anymore at MAN: Negotiations about job cuts canceled",
-      "url" : "https://kurier.at/wirtschaft/bei-man-geht-nichts-mehr-verhandlung-ueber-stellenabbau-abgebrochen/401094048"
+      "id" : "jHz6YMgv",
+      "imgUrl" : "https://image.kurier.at/images/original/4517774/78370011355494584_BLD_Online.jpg",
+      "titleSource" : "Deutsche Abhängigkeit von China-Importen hoch wie nie",
+      "titleTarget" : "German dependency on China imports higher than ever",
+      "url" : "https://kurier.at/wirtschaft/deutsche-abhaengigkeit-von-china-importen-hoch-wie-nie/401095110"
     }, {
-      "id" : "T6P2FFCd",
-      "imgUrl" : "https://image.kurier.at/images/original/4484807/78370011355238142_BLD_Online.jpg",
-      "titleSource" : "Lufthansa: Keine Kündigungen beim Bodenpersonal bis Ende 2021",
-      "titleTarget" : "Lufthansa: No dismissals among ground staff until the end of 2021",
-      "url" : "https://kurier.at/wirtschaft/lufthansa-keine-kuendigungen-beim-bodenpersonal-bis-ende-2021/401094657"
+      "id" : "Fene2mCr",
+      "imgUrl" : "https://image.kurier.at/images/original/3077217/tatra.jpg",
+      "titleSource" : "Tschechische Tatra mit \"grunsätzlichem Interesse\" an MAN Steyr",
+      "titleTarget" : "Czech Tatras with \"fundamental interest\" in MAN Steyr",
+      "url" : "https://kurier.at/wirtschaft/tschechische-tatra-mit-grunsaetzlichem-interesse-an-man-steyr/401094957"
     }, {
-      "id" : "twl8E05a",
-      "imgUrl" : "https://image.kurier.at/images/original/169860/onlineshopping-000_18PERCENTGREY%252B-%252BFOTOLIA%252B17911354_18percentgrey_Fotolia.jpg",
-      "titleSource" : "Online-Shopping boomt: Ein Fünftel kauft 2020 mehr im Netz",
-      "titleTarget" : "Online shopping is booming: a fifth will buy more online in 2020",
-      "url" : "https://kurier.at/wirtschaft/online-shopping-boomt-ein-fuenftel-kauft-2020-mehr-im-netz/401094669"
+      "id" : "LvOmWh39",
+      "titleSource" : "Coronahilfen gehen zulasten der Sparer",
+      "titleTarget" : "Corona aid is at the expense of savers",
+      "url" : "https://www.diepresse.com/5896233/Coronahilfen_Coronahilfen-gehen-zulasten-der-Sparer?from=rss"
     }, {
-      "id" : "HXjiZnwg",
-      "imgUrl" : "https://image.kurier.at/images/original/4754076/46-163481044.jpg",
-      "titleSource" : "Zu enge Schulungsräume? Maskenpflicht soll Kurse retten",
-      "titleTarget" : "Training rooms too narrow? Mask requirement should save courses",
-      "url" : "https://kurier.at/wirtschaft/zu-enge-schulungsraeume-maskenpflicht-soll-kurse-retten/401094573"
+      "id" : "bSLH5ERm",
+      "imgUrl" : "https://image.kurier.at/images/original/2751389/78470026143869002_BLD_Online.jpg",
+      "titleSource" : "Nur minimale Umsatzeinbußen bei Mayr-Melnhof",
+      "titleTarget" : "Only minimal loss of sales at Mayr-Melnhof",
+      "url" : "https://kurier.at/wirtschaft/nur-minimale-umsatzeinbussen-bei-mayr-melnhof/401094888"
     }, {
-      "id" : "Kz2DsgBH",
-      "imgUrl" : "https://image.kurier.at/images/original/97695/frauenquote-000_AP_Nigel%252BTreblin.jpg",
-      "titleSource" : "Markus Söder für Frauenquote in DAX-Vorständen",
-      "titleTarget" : "Markus Söder for the quota of women on DAX boards",
-      "url" : "https://kurier.at/wirtschaft/markus-soeder-fuer-frauenquote-in-dax-vorstaenden/401094564"
+      "id" : "9KQoocHH",
+      "imgUrl" : "https://image.kurier.at/images/original/4205525/20200318-ABD0044-1-1.jpg",
+      "titleSource" : "Strabag nach drei Quartalen auf Kurs",
+      "titleTarget" : "Strabag on track after three quarters",
+      "url" : "https://kurier.at/wirtschaft/strabag-nach-drei-quartalen-auf-kurs/401094858"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "VFzpLsFw",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/78/crops/w=1280/750079_opener_260378_f76c6020-a1bb-4c8f-a6a1-388de03c6b50.jpg?s=7ca0fc9b037a222e72d8d873314d64b6c542af41",
-      "titleSource" : "ORF-Legende Pert Oberhauser gestorben",
-      "titleTarget" : "ORF legend Pert Oberhauser died",
-      "url" : "https://steiermark.orf.at/stories/3075555/"
+      "id" : "mdDGNiuD",
+      "imgUrl" : "https://image.kurier.at/images/original/2447351/46-106865594.jpg",
+      "titleSource" : "Eine Tote bei Zugsunglück: Bedingte Haft für Lokführer",
+      "titleTarget" : "One dead in a train accident: conditional detention for train drivers",
+      "url" : "https://kurier.at/chronik/oesterreich/prozess-um-zugsunglueck-im-bezirk-leoben-lokfuehrer-uebersah-haltesignale/401093901"
     }, {
-      "id" : "dDMztVwY",
-      "imgUrl" : "https://image.kurier.at/images/original/4752954/46-168495579.jpg",
-      "titleSource" : "Die aktuelle Corona-Lage: Mehr als 7.500 Neuinfektionen in Österreich",
-      "titleTarget" : "The current corona situation: More than 7,500 new infections in Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/die-aktuelle-corona-lage-7514-neuinfektionen-in-oesterreich/401093757"
+      "id" : "MrLubGmF",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/24/27/crops/w=1280/184475_opener_48027_eurofighter_heer.jpg?s=0e1868fd4716feff36e91202dc92192afe372c6c",
+      "titleSource" : "Eurofighter-Verfahren: Einstellung für Doskozil „bedauerlich“",
+      "titleTarget" : "Eurofighter procedure: setting for Doskozil \"regrettable\"",
+      "url" : "https://burgenland.orf.at/stories/3075632/"
     }, {
-      "id" : "YRUxL091",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/10/48/crops/w=1280/488877_opener_164548_meldungsliste135.jpg?s=5d05d020f05c504ed90df3eca75caeac49dbd662",
-      "titleSource" : "IT-Problem verursacht CoV-Rekordwerte",
-      "titleTarget" : "IT problem causes CoV record values",
-      "url" : "https://wien.orf.at/stories/3075554/"
+      "id" : "Mg205qPe",
+      "imgUrl" : "https://image.kurier.at/images/original/3343354/46-95901850.jpg",
+      "titleSource" : "Osttirol: Lämmer von Goldschakal gerissen",
+      "titleTarget" : "East Tyrol: lambs torn by golden jackal",
+      "url" : "https://kurier.at/chronik/oesterreich/osttirol-laemmer-von-goldschakal-gerissen/401095164"
     }, {
-      "id" : "OmSCahMV",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/80/crops/w=1280/749875_opener_260280_s18.jpg?s=72780659424b731c0bf6e3cb870982276b75b2cb",
-      "titleSource" : "S18: ASFINAG entscheidet sich für CP-Variante",
-      "titleTarget" : "S18: ASFINAG opts for CP variant",
-      "url" : "https://vorarlberg.orf.at/stories/3075520/"
+      "id" : "z63kBxI5",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/49/26/crops/w=1280/687777_opener_127626_191204_bh_toedlicher_unfall_stegersbach_00.00.14.22.png?s=f6d498f9b67f647a6fd8af0b7dc308b6f97f8b18",
+      "titleSource" : "19 Einbrüche im Burgenland und NÖ geklärt",
+      "titleTarget" : "19 break-ins in Burgenland and Lower Austria resolved",
+      "url" : "https://burgenland.orf.at/stories/3075626/"
     }, {
-      "id" : "I6RbVwWB",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/04/21/crops/w=1280/443232_opener_147221_20200123_085017.jpg?s=ed148b1600b821ce5ef5a422574d67e121ef1226",
-      "titleSource" : "Wr. Neustadt: Krise kostet elf Mio. Euro",
-      "titleTarget" : "Wr. Neustadt: The crisis costs eleven million euros",
-      "url" : "https://noe.orf.at/stories/3075495/"
+      "id" : "ScXIA1VS",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/41/crops/w=1280/744035_opener_257341_abd0024.jpg?s=ba686cf859a471ee9f7d8ca4b11505f7ae4e01ba",
+      "titleSource" : "Weißer Ring will Opferrechte für Betroffene",
+      "titleTarget" : "White Ring wants victims' rights for those affected",
+      "url" : "https://wien.orf.at/stories/3075627/"
     }, {
-      "id" : "xduMN2CU",
-      "imgUrl" : "https://image.kurier.at/images/original/4690587/46-167997860.jpg",
-      "titleSource" : "Dunkelziffer-Studie ab morgen; Schweden verhängt Alkohol-Verbot nach 22 Uhr",
-      "titleTarget" : "Dark figure study from tomorrow; Sweden bans alcohol after 10 p.m.",
-      "url" : "https://kurier.at/chronik/oesterreich/erneuter-rekord-bei-neuinfektionen-in-den-usa-eu-sicherte-sich-biontech-impfstoff/401093616"
+      "id" : "F8Xzm2pg",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/4/f/5896271/maier1_1605173707802659_v0_l.jpg",
+      "titleSource" : "Video: Hermann Maiers Animationsfigur wirbt für sicheres Skifahren",
+      "titleTarget" : "Video: Hermann Maier's animation figure promotes safe skiing",
+      "url" : "https://www.diepresse.com/5896271/SkiMassnahmen_Video_Hermann-Maiers-Animationsfigur-wirbt-fuer?from=rss"
     }, {
-      "id" : "nm6myDg8",
-      "titleSource" : "Deutscher Investor kauft steirische Peterquelle",
-      "titleTarget" : "German investor buys Styrian Peterquelle",
-      "url" : "https://steiermark.orf.at/stories/3075542/"
+      "id" : "W6WPS91M",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/4/f/5896271/maier1_1605173707802659_v0_l.jpg",
+      "titleSource" : "Video: Hermann Maiers Animationsfigur wirbt für sicheres Skifahren",
+      "titleTarget" : "Video: Hermann Maier's animation figure promotes safe skiing",
+      "url" : "https://www.diepresse.com/5896271/Skifahren_Video_Hermann-Maiers-Animationsfigur-wirbt-fuer?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "sVbRU6ys",
-      "imgUrl" : "https://image.kurier.at/images/original/4752891/321.jpg",
-      "titleSource" : "Otto-Mauer-Preis geht an Barbara Kapusta",
-      "titleTarget" : "Otto Mauer Prize goes to Barbara Kapusta",
-      "url" : "https://kurier.at/kultur/otto-mauer-preis-geht-an-barbara-kapusta/401093829"
+      "id" : "dL136O2C",
+      "imgUrl" : "https://image.kurier.at/images/original/4754613/46-168313484.jpg",
+      "titleSource" : "Mads Mikkelsen möglicher Grindelwald-Nachfolger für Depp",
+      "titleTarget" : "Mads Mikkelsen possible Grindelwald successor for Depp",
+      "url" : "https://kurier.at/kultur/mads-mikkelsen-moeglicher-grindelwald-nachfolger-fuer-depp/401094903"
     }, {
-      "id" : "4KpmPSjQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4198325/46-143103613.jpg",
-      "titleSource" : "Thomas Stipsits gewinnt den „Salzburger Stier 2021“",
-      "titleTarget" : "Thomas Stipsits wins the \"Salzburg Bull 2021\"",
-      "url" : "https://kurier.at/kultur/thomas-stipsits-gewinnt-den-salzburger-stier-2021/401093637"
+      "id" : "1zx42ZHo",
+      "imgUrl" : "https://image.kurier.at/images/original/4754634/46-163440138.jpg",
+      "titleSource" : "Neuer Film von Tom Hanks kommt nur in den USA ins Kino",
+      "titleTarget" : "Tom Hanks' new film only hits theaters in the US",
+      "url" : "https://kurier.at/kultur/neuer-film-von-tom-hanks-kommt-nur-in-den-usa-ins-kino/401094924"
     }, {
-      "id" : "rxGv9tkp",
-      "imgUrl" : "https://image.kurier.at/images/original/4751673/46-168701703.jpg",
-      "titleSource" : "Elektro-Pop-Duo Mynth: Von Unsicherheit zum Optimismus",
-      "titleTarget" : "Electro-pop duo Mynth: From uncertainty to optimism",
-      "url" : "https://kurier.at/kultur/elektro-pop-duo-mynth-von-unsicherheit-zum-optimismus/401093259"
+      "id" : "VhYdh3hT",
+      "imgUrl" : "https://image.kurier.at/images/original/4753608/46-168725058.jpg",
+      "titleSource" : "Kruder & Dorfmeister: Debütalbum mit 25 Jahren Verspätung",
+      "titleTarget" : "Kruder & Dorfmeister: Debut album 25 years late",
+      "url" : "https://kurier.at/kultur/kruder-dorfmeisters-debuetalbum-1995-downbeat-im-lockdown/401094426"
     }, {
-      "id" : "qvMQkVPU",
+      "id" : "z2ysfyje",
+      "imgUrl" : "https://image.kurier.at/images/original/4753914/46-168807099.jpg",
+      "titleSource" : "Ariana Grande: Mehr Pose als Lust in den Bett-Positionen",
+      "titleTarget" : "Ariana Grande: More pose than pleasure in bed positions",
+      "url" : "https://kurier.at/kultur/ariana-grande-mehr-pose-als-lust-in-den-bett-positionen/401094462"
+    }, {
+      "id" : "IabTCGPg",
       "imgUrl" : "https://image.kurier.at/images/original/4754070/46-70441869.jpg",
       "titleSource" : "Mayer verteilt wieder Millionen, aber es reicht bei Weitem nicht",
       "titleTarget" : "Mayer is again distributing millions, but it is nowhere near enough",
       "url" : "https://kurier.at/kultur/mayer-verteilt-wieder-millionen-aber-es-reicht-bei-weitem-nicht/401094576"
     }, {
-      "id" : "G7FZeyap",
+      "id" : "oLfVXiAK",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/5/e/5896030/A-person-takes-a-photo-as-a-protester-covers-with-a-t-shirt-the-Mary-Wollstonecraft-statue-Mother-of-feminism-by-artist-Maggi-Hambling-in-Newington-Green-London_1605109995999527.jpg",
+      "titleSource" : "Protest gegen Statue von nackter Feministin",
+      "titleTarget" : "Protest against statue of naked feminist",
+      "url" : "https://www.diepresse.com/5896030/Mary-Wollestonecraft_Protest-gegen-Statue-von-nackter-Feministin?from=rss"
+    }, {
+      "id" : "ITWPnlln",
       "imgUrl" : "https://image.kurier.at/images/original/4753938/46-146853403.jpg",
       "titleSource" : "Campino hofft auf ein Comeback großer Konzerte",
       "titleTarget" : "Campino is hoping for a big concert comeback",
       "url" : "https://kurier.at/kultur/campino-hofft-auf-ein-comeback-grosser-konzerte/401094471"
-    }, {
-      "id" : "muUR1IR7",
-      "imgUrl" : "https://image.kurier.at/images/original/4752918/46-149650816.jpg",
-      "titleSource" : "Corona-Hilfe: 18,5 Millionen für Bundesmuseen und Bundestheater",
-      "titleTarget" : "Corona aid: 18.5 million for federal museums and federal theaters",
-      "url" : "https://kurier.at/kultur/corona-hilfe-185-millionen-fuer-bundesmuseen-und-bundestheater/401093880"
-    }, {
-      "id" : "JU1eJNe2",
-      "imgUrl" : "https://image.kurier.at/images/original/3650564/46-147706254.jpg",
-      "titleSource" : "Trenklers Tratsch: Die Baustellen auf der Bundesmuseumsautobahn",
-      "titleTarget" : "Trenkler's gossip: the construction sites on the federal museum motorway",
-      "url" : "https://kurier.at/kultur/trenklers-tratsch-die-baustellen-auf-der-bundesmuseumsautobahn/401093883"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,45 +183,44 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "Q28bloIN",
-      "imgUrl" : "https://image.kurier.at/images/original/4752726/obs_20201111_obs0005.jpg",
-      "titleSource" : "Hermann Maier zeigt, wie Skifahren trotz Corona funktionieren kann",
-      "titleTarget" : "Hermann Maier shows how skiing can work despite Corona",
-      "url" : "https://kurier.at/sport/wintersport/video-hermann-maier-zeigt-wie-skifahren-trotz-corona-funktionieren-kann/401093730"
+      "id" : "pHH6FyPE",
+      "imgUrl" : "https://image.kurier.at/images/original/4753164/46-166646737.jpg",
+      "titleSource" : "Nach Crash bei Polen-Rundfahrt: Groenewegen neun Monate gesperrt",
+      "titleTarget" : "After a crash on the Tour of Poland: Groenewegen closed for nine months",
+      "url" : "https://kurier.at/sport/rad-nach-crash-bei-polen-rundfahrt-groenewegen-neun-monate-gesperrt/401094006"
     }, {
-      "id" : "FmLX6P6f",
-      "titleSource" : "Österreich besteht Test in Luxemburg",
-      "titleTarget" : "Austria passes test in Luxembourg",
-      "url" : "https://sport.orf.at/stories/3069234/"
+      "id" : "23ZlqT6L",
+      "titleSource" : "Österreich fährt mit zehn Athleten zur EM nach Prag",
+      "titleTarget" : "Austria is going to the EM in Prague with ten athletes",
+      "url" : "https://sport.orf.at/stories/3069251/"
     }, {
-      "id" : "YO8QFnjf",
-      "imgUrl" : "https://image.kurier.at/images/original/4752831/46-166868023.jpg",
-      "titleSource" : "Alaba-Vater: David \"enttäuscht und verletzt\"",
-      "titleTarget" : "Alaba father: David \"disappointed and hurt\"",
-      "url" : "https://kurier.at/sport/fussball/oefb-star-david-alaba-gedachte-der-terroropfer-in-wien/401093799"
+      "id" : "CvNU7V2D",
+      "imgUrl" : "https://image.kurier.at/images/original/4755006/46-168820895.jpg",
+      "titleSource" : "Gespielt trotz positivem Test: Corona-Panne um Kroatiens Kapitän",
+      "titleTarget" : "Played despite a positive test: Corona breakdown for Croatia's captain",
+      "url" : "https://kurier.at/sport/fussball/gespielt-trotz-positivem-test-corona-panne-um-kroatiens-kapitaen-domagoj-vida/401095197"
     }, {
-      "id" : "CnMVL9GT",
-      "titleSource" : "Die ÖFB-Spieler in der Einzelkritik",
-      "titleTarget" : "The ÖFB players in the individual review",
-      "url" : "https://sport.orf.at/stories/3069235/"
+      "id" : "q68KOHhk",
+      "imgUrl" : "https://image.kurier.at/images/original/4754931/46-168728754.jpg",
+      "titleSource" : "Barcelona weiter in Nöten: Keine Einigung auf Gehaltssenkung",
+      "titleTarget" : "Barcelona still in distress: no agreement on salary cut",
+      "url" : "https://kurier.at/sport/fussball/barcelona-weiter-in-finanziellen-noeten-keine-einigung-auf-gehaltssenkung/401095116"
     }, {
-      "id" : "nKmCrjtp",
-      "imgUrl" : "https://image.kurier.at/images/original/4754430/46-168823113.jpg",
-      "titleSource" : "Länderspiel live: So steht es bei Österreich gegen Luxemburg",
-      "titleTarget" : "International match live: This is how it stands for Austria against Luxembourg",
-      "url" : "https://kurier.at/sport/fussball/fussball-laenderspiel-im-live-ticker-so-steht-es-bei-oesterreich-gegen-luxemburg/401093919"
+      "id" : "g513kIX7",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/7/c/5896316/D64FCEE5-934D-4FF9-98C1-6231E965332C_v0_h.jpg",
+      "titleSource" : "Droht FC Barcelona Konkurs? Keine Einigung über Gehaltssenkungen",
+      "titleTarget" : "Is FC Barcelona threatened with bankruptcy? No agreement on wage cuts",
+      "url" : "https://www.diepresse.com/5896316/Primera-Division_Droht-FC-Barcelona-Konkurs-Keine-Einigung-ueber?from=rss"
     }, {
-      "id" : "L4EAkSNX",
-      "imgUrl" : "https://image.kurier.at/images/original/4754058/46-168204029.jpg",
-      "titleSource" : "\"Härtetest\": ÖSV-Oldie Reichelt hat auch mit 40 noch nicht genug",
-      "titleTarget" : "\"Endurance test\": ÖSV oldie Reichelt has not had enough even at 40",
-      "url" : "https://kurier.at/sport/wintersport/haertetest-fuer-den-kopf-oesv-oldie-hannes-reichelt-hat-auch-mit-40-noch-nicht-genug/401094567"
+      "id" : "hTGMqG4o",
+      "titleSource" : "Sonderlob von Foda für zwei LASK-Spieler",
+      "titleTarget" : "Special praise from Foda for two LASK players",
+      "url" : "https://sport.orf.at/stories/3069243/"
     }, {
-      "id" : "wdg4ST8H",
-      "imgUrl" : "https://image.kurier.at/images/original/4715385/46-163940477.jpg",
-      "titleSource" : "Maradona begibt sich wegen Alkoholismus in Behandlung",
-      "titleTarget" : "Maradona is seeking treatment for alcoholism",
-      "url" : "https://kurier.at/sport/fussball/fussball-idol-maradona-begibt-sich-wegen-alkoholismus-in-behandlung/401094447"
+      "id" : "1JwIf0l9",
+      "titleSource" : "Athleten müssen bei Tokio-Einreise nicht in Quarantäne",
+      "titleTarget" : "Athletes do not have to be quarantined when entering Tokyo",
+      "url" : "https://sport.orf.at/stories/3069248/"
     } ]
   } ],
   "country" : "austria",
