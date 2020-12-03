@@ -2,382 +2,165 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-<<<<<<< HEAD
-      "id" : "62ZHI5ve",
-      "imgUrl" : "https://image.kurier.at/images/original/4739367/46-165823573.jpg",
-      "titleSource" : "\"Tickende Zeitbomben\": Regierung will Gefährder \"wegsperren\"",
-      "titleTarget" : "\"Ticking time bombs\": government wants to \"lock up\" threats",
-      "url" : "https://kurier.at/politik/inland/anti-terror-paket-regierung-beschliesst-20-massnahmen/401093967"
-=======
       "id" : "aU68npLL",
       "imgUrl" : "https://image.kurier.at/images/original/4796115/46-168062777.jpg",
       "titleSource" : "Schulöffnung: Ablehnung der Schul-Maskerade",
       "titleTarget" : "School opening: Rejection of the school masquerade",
       "url" : "https://kurier.at/politik/inland/schuloeffnung-ablehnung-der-schul-maskerade/401117304"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "PlGlichC",
-      "imgUrl" : "https://image.kurier.at/images/original/4754976/46-168825722.jpg",
-      "titleSource" : "Terrorattentat: Ingeborg Zerbes soll Kommission anführen",
-      "titleTarget" : "Terrorist attack: Ingeborg Zerbes is to lead the commission",
-      "url" : "https://kurier.at/politik/inland/terrorattentat-ingeborg-zerbes-soll-kommission-anfuehren/401095149"
-=======
       "id" : "Vsto2AF7",
       "imgUrl" : "https://image.kurier.at/images/original/4796244/46-173293149.jpg",
       "titleSource" : "Fahrplan bis 7. Jänner: Der Corona-Weihnachts-Guide",
       "titleTarget" : "Timetable until 7 January: The Corona Christmas Guide",
       "url" : "https://kurier.at/politik/inland/fahrplan-bis-7-jaenner-der-corona-weihnachts-guide/401117343"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "erCpsBCV",
-      "titleSource" : "Deutschlehrende fordern Ende der AMS-Deutschkurse",
-      "titleTarget" : "German teachers demand the end of the AMS German courses",
-      "url" : "https://www.diepresse.com/5896238/Infektionsgefahr_Deutschlehrende-fordern-Ende-der-AMSDeutschkurse?from=rss"
-=======
       "id" : "0Vq7j2xt",
       "imgUrl" : "https://image.kurier.at/images/original/4795686/78350011457777062_BLD_Online.jpg",
       "titleSource" : "Kurz rechnet mit steigenden Infektionszahlen nach Weihnachten",
       "titleTarget" : "Kurz expects the number of infections to rise after Christmas",
       "url" : "https://kurier.at/politik/inland/kurz-rechnet-mit-steigenden-infektionszahlen-nach-weihnachten/401117475"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "InhOmnom",
-      "imgUrl" : "https://image.kurier.at/images/original/4509803/78350011455428004_BLD_Online.jpg",
-      "titleSource" : "Eurofighter: Tanner lässt Flieger-Zukunft offen",
-      "titleTarget" : "Eurofighter: Tanner leaves the aviation future open",
-      "url" : "https://kurier.at/politik/inland/eurofighter-tanner-laesst-flieger-zukunft-offen/401095062"
-=======
       "id" : "GWaEdHnW",
       "imgUrl" : "https://image.kurier.at/images/original/4795878/46-167369505.jpg",
       "titleSource" : "Reaktionen zu Lockerungen: \"Massentests sind schädliche Maßnahme\"",
       "titleTarget" : "Reactions to relaxation: \"mass tests are harmful measures\"",
       "url" : "https://kurier.at/politik/inland/reaktionen-zu-lockerungen-massentests-sind-schaedliche-massnahme/401117145"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "eBX1EcKH",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/0/e/5896206/B5FD4202-E909-4C61-88C6-A1FE8994CC5F_v0_h.jpg",
-      "titleSource" : "Hauptausschuss verlängert Ausgangsbeschränkungen",
-      "titleTarget" : "Main committee extends exit restrictions",
-      "url" : "https://www.diepresse.com/5896206/CoronaMassnahmen_Hauptausschuss-verlaengert-Ausgangsbeschraenkungen?from=rss"
-=======
       "id" : "hq3pwCN3",
       "imgUrl" : "https://image.kurier.at/images/original/4322798/78370011354671720_BLD_Online.jpg",
       "titleSource" : "Familienbonus dämpfte kalte Progression leicht",
       "titleTarget" : "Family bonus dampened cold progression slightly",
       "url" : "https://kurier.at/politik/inland/familienbonus-daempfte-kalte-progression-leicht/401116776"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "o1FCA8mg",
-      "imgUrl" : "https://image.kurier.at/images/original/3891707/78350011451438514_BLD_Online.jpg",
-      "titleSource" : "Pflege: Sozialministerium wirbt um (Wieder)Einsteiger",
-      "titleTarget" : "Care: Ministry of Social Affairs woos (re) entrants",
-      "url" : "https://kurier.at/politik/inland/pflege-sozialministerium-wirbt-um-wiedereinsteiger/401095023"
-=======
       "id" : "Eiwjtidz",
       "imgUrl" : "https://image.kurier.at/images/original/4177656/46-163023947.jpg",
       "titleSource" : "Klaudia Tanner: „Wer verteidigen kann, kann auch helfen“",
       "titleTarget" : "Klaudia Tanner: \"Those who can defend can also help\"",
       "url" : "https://kurier.at/politik/inland/klaudia-tanner-wer-verteidigen-kann-kann-auch-helfen/401117211"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "KtkdZkTD",
-      "imgUrl" : "https://image.kurier.at/images/original/4747317/78350011457406896_BLD_Online.jpg",
-      "titleSource" : "Anschober: \"Es ist davon auszugehen, dass die heutigen Zahlen höher sind\"",
-      "titleTarget" : "Anschober: \"It can be assumed that today's numbers are higher\"",
-      "url" : "https://kurier.at/politik/inland/anschober-es-ist-davon-auszugehen-dass-die-heutigen-zahlen-hoeher-sind/401095008"
-=======
       "id" : "WsjRJ1sB",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/6/5/5906533/BRO-ERFFNUNG-DER-INTERVENTIONSSTELLE-FR-BETROFFENE-VON-FRAUENHANDEL-IBF-HEINISCH-HOSEK_1606990173072938_v0_h.jpg",
       "titleSource" : "\"Virus eingeschleppt\": SPÖ-Politiker fordern Entschuldigung von Kurz",
       "titleTarget" : "\"Virus brought in\": SPÖ politicians demand apologies from Kurz",
       "url" : "https://www.diepresse.com/5906533/Corona_Virus-eingeschleppt_SPOePolitiker-fordern-Entschuldigung?from=rss"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-<<<<<<< HEAD
-      "id" : "Tx6qC9IO",
-      "imgUrl" : "https://image.kurier.at/images/original/4549691/78370011355727828_BLD_Online.jpg",
-      "titleSource" : "Wirtschaft in Ost- und Südosteuropa schrumpft um 4,5 Prozent",
-      "titleTarget" : "The economy in Eastern and Southeastern Europe shrinks by 4.5 percent",
-      "url" : "https://kurier.at/wirtschaft/wirtschaft-in-ost-und-suedosteuropa-schrumpft-um-45-prozent/401095131"
-=======
       "id" : "NPdSal3a",
       "imgUrl" : "https://image.kurier.at/images/original/4795563/46-169054298.jpg",
       "titleSource" : "Lockdown-Verlängerung: Betriebe bekommen 50 Prozent Umsatzersatz",
       "titleTarget" : "Lockdown extension: companies receive 50 percent revenue compensation",
       "url" : "https://kurier.at/wirtschaft/lockdown-verlaengerung-betriebe-bekommen-50-prozent-umsatzersatz/401116965"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "euSlXR8C",
-      "imgUrl" : "https://image.kurier.at/images/original/3484318/20190515-ABD0154-1-1.jpg",
-      "titleSource" : "Magenta nach drei Quartalen mit stabilem Ergebnis",
-      "titleTarget" : "Magenta after three quarters with stable results",
-      "url" : "https://kurier.at/wirtschaft/magenta-nach-drei-quartalen-mit-stabilem-ergebnis/401095125"
-=======
       "id" : "bfC67yJj",
       "imgUrl" : "https://image.kurier.at/images/original/4762959/20201116-ABD0125-1-1.jpg",
       "titleSource" : "Handel: Öffnungszeiten-Verlängerung am 8., 12. und 19. Dezember",
       "titleTarget" : "Retail: Extension of opening hours on December 8th, 12th and 19th",
       "url" : "https://kurier.at/wirtschaft/handel-oeffnungszeiten-verlaengerung-am-8-12-und-19-dezember/401117406"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "jHz6YMgv",
-      "imgUrl" : "https://image.kurier.at/images/original/4517774/78370011355494584_BLD_Online.jpg",
-      "titleSource" : "Deutsche Abhängigkeit von China-Importen hoch wie nie",
-      "titleTarget" : "German dependency on China imports higher than ever",
-      "url" : "https://kurier.at/wirtschaft/deutsche-abhaengigkeit-von-china-importen-hoch-wie-nie/401095110"
-=======
       "id" : "rdyPvFXi",
       "imgUrl" : "https://image.kurier.at/images/original/4254242/20200414-ABD0033-1-1.jpg",
       "titleSource" : "Handel sperrt am Montag auf, Polizei soll Kundenströme lenken",
       "titleTarget" : "Trade locks up on Monday, police should direct customer flows",
       "url" : "https://kurier.at/wirtschaft/handel-sperrt-am-montag-auf-polizei-soll-kundenstroeme-lenken/401117001"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "Fene2mCr",
-      "imgUrl" : "https://image.kurier.at/images/original/3077217/tatra.jpg",
-      "titleSource" : "Tschechische Tatra mit \"grunsätzlichem Interesse\" an MAN Steyr",
-      "titleTarget" : "Czech Tatras with \"fundamental interest\" in MAN Steyr",
-      "url" : "https://kurier.at/wirtschaft/tschechische-tatra-mit-grunsaetzlichem-interesse-an-man-steyr/401094957"
-=======
       "id" : "ARw8Cbmn",
       "imgUrl" : "https://image.kurier.at/images/original/4250162/46-149827137.jpg",
       "titleSource" : "Rettet die Hühner: Singapur erlaubt Hühnerfleisch aus dem Labor",
       "titleTarget" : "Save the chickens: Singapore allows chicken from the laboratory",
       "url" : "https://kurier.at/wirtschaft/rettet-die-huehner-singapur-erlaubt-huehnerfleisch-aus-dem-labor/401116665"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "LvOmWh39",
-      "titleSource" : "Coronahilfen gehen zulasten der Sparer",
-      "titleTarget" : "Corona aid is at the expense of savers",
-      "url" : "https://www.diepresse.com/5896233/Coronahilfen_Coronahilfen-gehen-zulasten-der-Sparer?from=rss"
-=======
       "id" : "oMIebGc8",
       "imgUrl" : "https://image.kurier.at/images/original/4796535/46-173309101.jpg",
       "titleSource" : "Boeing 737 Max hebt erstmals nach FAA-Freigabe ab",
       "titleTarget" : "Boeing 737 Max takes off for the first time after FAA clearance",
       "url" : "https://kurier.at/wirtschaft/boeing-737-max-hebt-erstmals-nach-faa-freigabe-ab/401117556"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "bSLH5ERm",
-      "imgUrl" : "https://image.kurier.at/images/original/2751389/78470026143869002_BLD_Online.jpg",
-      "titleSource" : "Nur minimale Umsatzeinbußen bei Mayr-Melnhof",
-      "titleTarget" : "Only minimal loss of sales at Mayr-Melnhof",
-      "url" : "https://kurier.at/wirtschaft/nur-minimale-umsatzeinbussen-bei-mayr-melnhof/401094888"
-=======
       "id" : "VV2zi2KD",
       "imgUrl" : "https://image.kurier.at/images/original/4479806/78370011355220902_BLD_Online.jpg",
       "titleSource" : "Lufthansa: Verkauf des LSG-Europageschäfts an Gategroup vollzogen",
       "titleTarget" : "Lufthansa: Sale of LSG's European business to Gategroup completed",
       "url" : "https://kurier.at/wirtschaft/lufthansa-verkauf-des-lsg-europageschaefts-an-gategroup-vollzogen/401117415"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "9KQoocHH",
-      "imgUrl" : "https://image.kurier.at/images/original/4205525/20200318-ABD0044-1-1.jpg",
-      "titleSource" : "Strabag nach drei Quartalen auf Kurs",
-      "titleTarget" : "Strabag on track after three quarters",
-      "url" : "https://kurier.at/wirtschaft/strabag-nach-drei-quartalen-auf-kurs/401094858"
-=======
       "id" : "GiT1cRvA",
       "imgUrl" : "https://image.kurier.at/images/original/4558271/46-166521118-2020-07-30t124632z_1566463297_rc2o3i9v1n3v_rtrmadp_3_audi-ceo-strategy.jpg",
       "titleSource" : "Audi investiert 15 Mrd. Euro in E-Mobilität",
       "titleTarget" : "Audi is investing 15 billion euros in e-mobility",
       "url" : "https://kurier.at/wirtschaft/audi-investiert-15-mrd-euro-in-e-mobilitaet/401117310"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-<<<<<<< HEAD
-      "id" : "mdDGNiuD",
-      "imgUrl" : "https://image.kurier.at/images/original/2447351/46-106865594.jpg",
-      "titleSource" : "Eine Tote bei Zugsunglück: Bedingte Haft für Lokführer",
-      "titleTarget" : "One dead in a train accident: conditional detention for train drivers",
-      "url" : "https://kurier.at/chronik/oesterreich/prozess-um-zugsunglueck-im-bezirk-leoben-lokfuehrer-uebersah-haltesignale/401093901"
-=======
       "id" : "r562w1Ph",
       "imgUrl" : "https://image.kurier.at/images/original/4795329/46-173277328.jpg",
       "titleSource" : "Lockerungen ab 7. Dezember: Das sind die wichtigsten Punkte",
       "titleTarget" : "Easing from December 7th: These are the most important points",
       "url" : "https://kurier.at/chronik/oesterreich/lockerungen-ab-7-dezember-das-sind-die-wichtigsten-punkte/401116848"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "MrLubGmF",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/24/27/crops/w=1280/184475_opener_48027_eurofighter_heer.jpg?s=0e1868fd4716feff36e91202dc92192afe372c6c",
-      "titleSource" : "Eurofighter-Verfahren: Einstellung für Doskozil „bedauerlich“",
-      "titleTarget" : "Eurofighter procedure: setting for Doskozil \"regrettable\"",
-      "url" : "https://burgenland.orf.at/stories/3075632/"
-=======
       "id" : "9Or9ocKV",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/37/crops/w=1280/770895_opener_268037_grenzkontrollen.jpg?s=ba2e84cae28d5d0520183a493ca0386e564eff78",
       "titleSource" : "Quarantäne bei Einreise aus Risikogebiet",
       "titleTarget" : "Quarantine when entering from a risk area",
       "url" : "https://vorarlberg.orf.at/stories/3078745/"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "Mg205qPe",
-      "imgUrl" : "https://image.kurier.at/images/original/3343354/46-95901850.jpg",
-      "titleSource" : "Osttirol: Lämmer von Goldschakal gerissen",
-      "titleTarget" : "East Tyrol: lambs torn by golden jackal",
-      "url" : "https://kurier.at/chronik/oesterreich/osttirol-laemmer-von-goldschakal-gerissen/401095164"
-=======
       "id" : "fGIeTDRf",
       "imgUrl" : "https://image.kurier.at/images/original/4795512/46-173260526.jpg",
       "titleSource" : "Weihnachtsmärkte fallen heuer aus - Skigebiete öffnen erst am 24. Dezember",
       "titleTarget" : "Christmas markets are canceled this year - ski areas only open on December 24th",
       "url" : "https://kurier.at/chronik/oesterreich/weihnachstmaerkte-fallen-heuer-aus-skigebiete-oeffnen-erst-am-24-dezember/401116947"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "z63kBxI5",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/49/26/crops/w=1280/687777_opener_127626_191204_bh_toedlicher_unfall_stegersbach_00.00.14.22.png?s=f6d498f9b67f647a6fd8af0b7dc308b6f97f8b18",
-      "titleSource" : "19 Einbrüche im Burgenland und NÖ geklärt",
-      "titleTarget" : "19 break-ins in Burgenland and Lower Austria resolved",
-      "url" : "https://burgenland.orf.at/stories/3075626/"
-=======
       "id" : "3nmtrjV7",
       "imgUrl" : "https://image.kurier.at/images/original/4795233/46-173268926.jpg",
       "titleSource" : "Bundes-Software für Massentest kommt nicht rechtzeitig",
       "titleTarget" : "Federal software for mass testing isn't coming in time",
       "url" : "https://kurier.at/chronik/oesterreich/bundes-software-fuer-massentest-kommt-nicht-rechtzeitig/401116839"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "ScXIA1VS",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/41/crops/w=1280/744035_opener_257341_abd0024.jpg?s=ba686cf859a471ee9f7d8ca4b11505f7ae4e01ba",
-      "titleSource" : "Weißer Ring will Opferrechte für Betroffene",
-      "titleTarget" : "White Ring wants victims' rights for those affected",
-      "url" : "https://wien.orf.at/stories/3075627/"
-=======
       "id" : "VlgziW2c",
       "imgUrl" : "https://image.kurier.at/images/original/4796259/46-173275627.jpg",
       "titleSource" : "Erster Massentest: Warum es in Annaberg so wenig Positive gab",
       "titleTarget" : "First mass test: Why there were so few positives in Annaberg",
       "url" : "https://kurier.at/chronik/oesterreich/erster-massentest-warum-es-in-annaberg-so-wenig-positive-gab/401117355"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "F8Xzm2pg",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/4/f/5896271/maier1_1605173707802659_v0_l.jpg",
-      "titleSource" : "Video: Hermann Maiers Animationsfigur wirbt für sicheres Skifahren",
-      "titleTarget" : "Video: Hermann Maier's animation figure promotes safe skiing",
-      "url" : "https://www.diepresse.com/5896271/SkiMassnahmen_Video_Hermann-Maiers-Animationsfigur-wirbt-fuer?from=rss"
-=======
       "id" : "vu1Xgc9G",
       "imgUrl" : "https://image.kurier.at/images/original/4796964/46-173238159.jpg",
       "titleSource" : "Massentests: Schon 100.000 Anmeldungen; Intensivmediziner: \"Von Zielwerten noch weit enfernt\"",
       "titleTarget" : "Mass tests: Already 100,000 registrations; Intensive care physician: \"Still a long way from target values\"",
       "url" : "https://kurier.at/chronik/oesterreich/kurz-rechnet-mit-steigenden-infektionszahlen-nach-weihnachten-deutschland-verlaengert-teil-lockdown/401117547"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "W6WPS91M",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/4/f/5896271/maier1_1605173707802659_v0_l.jpg",
-      "titleSource" : "Video: Hermann Maiers Animationsfigur wirbt für sicheres Skifahren",
-      "titleTarget" : "Video: Hermann Maier's animation figure promotes safe skiing",
-      "url" : "https://www.diepresse.com/5896271/Skifahren_Video_Hermann-Maiers-Animationsfigur-wirbt-fuer?from=rss"
-=======
       "id" : "zrOrL3Rl",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/67/crops/w=1280/771289_opener_268167_sessellift.jpg?s=a8401c70f033d348a5b0df1e0dba6e7e107c8131",
       "titleSource" : "Nicht alle Skilifte wollen aufsperren",
       "titleTarget" : "Not all ski lifts want to unlock",
       "url" : "https://vorarlberg.orf.at/stories/3078738/"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-<<<<<<< HEAD
-      "id" : "dL136O2C",
-      "imgUrl" : "https://image.kurier.at/images/original/4754613/46-168313484.jpg",
-      "titleSource" : "Mads Mikkelsen möglicher Grindelwald-Nachfolger für Depp",
-      "titleTarget" : "Mads Mikkelsen possible Grindelwald successor for Depp",
-      "url" : "https://kurier.at/kultur/mads-mikkelsen-moeglicher-grindelwald-nachfolger-fuer-depp/401094903"
-=======
       "id" : "7KtdOHwb",
       "imgUrl" : "https://image.kurier.at/images/original/4223837/46-106070032.jpg",
       "titleSource" : "Museen und Bibliotheken öffnen wieder, Theater bleiben geschlossen",
       "titleTarget" : "Museums and libraries reopen, theaters remain closed",
       "url" : "https://kurier.at/kultur/museen-und-bibliotheken-oeffnen-wieder-theater-bleiben-geschlossen/401116842"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "1zx42ZHo",
-      "imgUrl" : "https://image.kurier.at/images/original/4754634/46-163440138.jpg",
-      "titleSource" : "Neuer Film von Tom Hanks kommt nur in den USA ins Kino",
-      "titleTarget" : "Tom Hanks' new film only hits theaters in the US",
-      "url" : "https://kurier.at/kultur/neuer-film-von-tom-hanks-kommt-nur-in-den-usa-ins-kino/401094924"
-=======
       "id" : "2Xxolcks",
       "imgUrl" : "https://image.kurier.at/images/original/4795152/46-164203882.jpg",
       "titleSource" : "Palfraders Kaiser bekommt eine Tochter - im ORF",
       "titleTarget" : "Palfraders Kaiser has a daughter - on ORF",
       "url" : "https://kurier.at/kultur/medien/palfraders-kaiser-bekommt-eine-tochter-im-orf/401116725"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "VhYdh3hT",
-      "imgUrl" : "https://image.kurier.at/images/original/4753608/46-168725058.jpg",
-      "titleSource" : "Kruder & Dorfmeister: Debütalbum mit 25 Jahren Verspätung",
-      "titleTarget" : "Kruder & Dorfmeister: Debut album 25 years late",
-      "url" : "https://kurier.at/kultur/kruder-dorfmeisters-debuetalbum-1995-downbeat-im-lockdown/401094426"
-=======
       "id" : "dLUU22wY",
       "imgUrl" : "https://image.kurier.at/images/original/4795803/46-145848908.jpg",
       "titleSource" : "Disput um Flüchtlingsboot bei der Venedig-Biennale",
       "titleTarget" : "Dispute over refugee boat at the Venice Biennale",
       "url" : "https://kurier.at/kultur/disput-um-fluechtlingsboot-bei-der-venedig-biennale/401117253"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "z2ysfyje",
-      "imgUrl" : "https://image.kurier.at/images/original/4753914/46-168807099.jpg",
-      "titleSource" : "Ariana Grande: Mehr Pose als Lust in den Bett-Positionen",
-      "titleTarget" : "Ariana Grande: More pose than pleasure in bed positions",
-      "url" : "https://kurier.at/kultur/ariana-grande-mehr-pose-als-lust-in-den-bett-positionen/401094462"
-    }, {
-      "id" : "IabTCGPg",
-      "imgUrl" : "https://image.kurier.at/images/original/4754070/46-70441869.jpg",
-      "titleSource" : "Mayer verteilt wieder Millionen, aber es reicht bei Weitem nicht",
-      "titleTarget" : "Mayer is again distributing millions, but it is nowhere near enough",
-      "url" : "https://kurier.at/kultur/mayer-verteilt-wieder-millionen-aber-es-reicht-bei-weitem-nicht/401094576"
-=======
       "id" : "rvGXUPn8",
       "imgUrl" : "https://image.kurier.at/images/original/4795608/46-173271907.jpg",
       "titleSource" : "\"Bringe das Publikum lieber zum Lachen, als Gänsehaut zu erzeugen\"",
       "titleTarget" : "\"Make the audience laugh rather than give them goose bumps\"",
       "url" : "https://kurier.at/kultur/medien/bringe-das-publikum-lieber-zum-lachen-als-gaensehaut-zu-erzeugen/401117052"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "oLfVXiAK",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/5/e/5896030/A-person-takes-a-photo-as-a-protester-covers-with-a-t-shirt-the-Mary-Wollstonecraft-statue-Mother-of-feminism-by-artist-Maggi-Hambling-in-Newington-Green-London_1605109995999527.jpg",
-      "titleSource" : "Protest gegen Statue von nackter Feministin",
-      "titleTarget" : "Protest against statue of naked feminist",
-      "url" : "https://www.diepresse.com/5896030/Mary-Wollestonecraft_Protest-gegen-Statue-von-nackter-Feministin?from=rss"
-    }, {
-      "id" : "ITWPnlln",
-      "imgUrl" : "https://image.kurier.at/images/original/4753938/46-146853403.jpg",
-      "titleSource" : "Campino hofft auf ein Comeback großer Konzerte",
-      "titleTarget" : "Campino is hoping for a big concert comeback",
-      "url" : "https://kurier.at/kultur/campino-hofft-auf-ein-comeback-grosser-konzerte/401094471"
-=======
       "id" : "bxUxrks3",
       "titleSource" : "\"Lockdown-Bonus\" für freischaffende Künstler wird erhöht",
       "titleTarget" : "\"Lockdown Bonus\" for freelance artists is increased",
@@ -394,7 +177,6 @@
       "titleSource" : "Ski-Streit: \"Als Tiger gesprungen, als Bettvorleger gelandet\"",
       "titleTarget" : "Ski dispute: \"Jumped as a tiger, landed as a rug\"",
       "url" : "https://www.diepresse.com/5906463/Pressestimmen_SkiStreit_Als-Tiger-gesprungen-als-Bettvorleger?from=rss"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     } ]
   }, {
     "category" : "HEALTH",
@@ -402,97 +184,44 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-<<<<<<< HEAD
-      "id" : "pHH6FyPE",
-      "imgUrl" : "https://image.kurier.at/images/original/4753164/46-166646737.jpg",
-      "titleSource" : "Nach Crash bei Polen-Rundfahrt: Groenewegen neun Monate gesperrt",
-      "titleTarget" : "After a crash on the Tour of Poland: Groenewegen closed for nine months",
-      "url" : "https://kurier.at/sport/rad-nach-crash-bei-polen-rundfahrt-groenewegen-neun-monate-gesperrt/401094006"
-=======
       "id" : "F4l1yyH2",
       "imgUrl" : "https://image.kurier.at/images/original/4795203/46-89151310.jpg",
       "titleSource" : "Die Darts-WM in Corona-Zeiten: 1.000 Fans und Alkohol erlaubt",
       "titleTarget" : "The Darts World Cup in Corona times: 1,000 fans and alcohol allowed",
       "url" : "https://kurier.at/sport/die-darts-wm-in-corona-zeiten-1000-fans-und-alkohol-erlaubt/401116752"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "23ZlqT6L",
-      "titleSource" : "Österreich fährt mit zehn Athleten zur EM nach Prag",
-      "titleTarget" : "Austria is going to the EM in Prague with ten athletes",
-      "url" : "https://sport.orf.at/stories/3069251/"
-=======
       "id" : "ecX4LcKO",
       "titleSource" : "Messi für Maradona-Huldigung bestraft",
       "titleTarget" : "Messi punished for paying homage to Maradona",
       "url" : "https://sport.orf.at/stories/3070125/"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "CvNU7V2D",
-      "imgUrl" : "https://image.kurier.at/images/original/4755006/46-168820895.jpg",
-      "titleSource" : "Gespielt trotz positivem Test: Corona-Panne um Kroatiens Kapitän",
-      "titleTarget" : "Played despite a positive test: Corona breakdown for Croatia's captain",
-      "url" : "https://kurier.at/sport/fussball/gespielt-trotz-positivem-test-corona-panne-um-kroatiens-kapitaen-domagoj-vida/401095197"
-=======
       "id" : "pGnO72pp",
       "imgUrl" : "https://image.kurier.at/images/original/4793637/46-168024942.jpg",
       "titleSource" : "Rapid-Legende Panenka: \"Fußball ohne Fans ist nur halb so schön\"",
       "titleTarget" : "Rapid legend Panenka: \"Football without fans is only half as good\"",
       "url" : "https://kurier.at/sport/fussball/rapid-legende-antonin-panenka-ueber-corona-fussball-ohne-fans-ist-nur-halb-so-schoen/401115909"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "q68KOHhk",
-      "imgUrl" : "https://image.kurier.at/images/original/4754931/46-168728754.jpg",
-      "titleSource" : "Barcelona weiter in Nöten: Keine Einigung auf Gehaltssenkung",
-      "titleTarget" : "Barcelona still in distress: no agreement on salary cut",
-      "url" : "https://kurier.at/sport/fussball/barcelona-weiter-in-finanziellen-noeten-keine-einigung-auf-gehaltssenkung/401095116"
-=======
       "id" : "xQnbhFK4",
       "titleSource" : "Covid-19: Tauziehen um faire Wettkämpfe",
       "titleTarget" : "Covid-19: Tug of war for fair competitions",
       "url" : "https://sport.orf.at/stories/3070078/"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "g513kIX7",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/7/c/5896316/D64FCEE5-934D-4FF9-98C1-6231E965332C_v0_h.jpg",
-      "titleSource" : "Droht FC Barcelona Konkurs? Keine Einigung über Gehaltssenkungen",
-      "titleTarget" : "Is FC Barcelona threatened with bankruptcy? No agreement on wage cuts",
-      "url" : "https://www.diepresse.com/5896316/Primera-Division_Droht-FC-Barcelona-Konkurs-Keine-Einigung-ueber?from=rss"
-=======
       "id" : "hOGL3ek4",
       "titleSource" : "Froschberg-Damen in CL-Turnier-Gruppe mit Metz",
       "titleTarget" : "Froschberg women in CL tournament group with Metz",
       "url" : "https://sport.orf.at/stories/3070118/"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "hTGMqG4o",
-      "titleSource" : "Sonderlob von Foda für zwei LASK-Spieler",
-      "titleTarget" : "Special praise from Foda for two LASK players",
-      "url" : "https://sport.orf.at/stories/3069243/"
-=======
       "id" : "Ils0giEE",
       "imgUrl" : "https://image.kurier.at/images/original/4796379/46-170484028.jpg",
       "titleSource" : "Schlierenzauer-Appell: \"Nehmt Corona nicht auf die leichte Schulter\"",
       "titleTarget" : "Schlierenzauer appeal: \"Don't take Corona lightly\"",
       "url" : "https://kurier.at/sport/wintersport/appell-von-gregor-schlierenzauer-nehmt-corona-nicht-auf-die-leichte-schulter/401117427"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     }, {
-<<<<<<< HEAD
-      "id" : "1JwIf0l9",
-      "titleSource" : "Athleten müssen bei Tokio-Einreise nicht in Quarantäne",
-      "titleTarget" : "Athletes do not have to be quarantined when entering Tokyo",
-      "url" : "https://sport.orf.at/stories/3069248/"
-=======
       "id" : "KagsY1K8",
       "imgUrl" : "https://image.kurier.at/images/original/4796376/46-173238753.jpg",
       "titleSource" : "Messi muss nach Jubel zu Ehren Maradonas 600 Euro zahlen",
       "titleTarget" : "Messi has to pay 600 euros after cheering in honor of Maradona",
       "url" : "https://kurier.at/sport/fussball/fussball-messi-fuer-trikotjubel-zu-ehren-maradonas-bestraft/401117424"
->>>>>>> branch 'master' of https://github.com/labsmedia/newbly-news-austria-english.git
     } ]
   } ],
   "country" : "austria",
