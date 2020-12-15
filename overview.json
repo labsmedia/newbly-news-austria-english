@@ -8,23 +8,17 @@
       "titleTarget" : "Anschober relies on testing instead of hard lockdown as in Germany",
       "url" : "https://kurier.at/politik/inland/anschober-setzt-auf-testen-statt-hartem-lockdown-wie-in-deutschland/401129022"
     }, {
-      "id" : "V4OXw4uK",
-      "imgUrl" : "https://image.kurier.at/images/original/4819995/46-165767123.jpg",
-      "titleSource" : "\"Noch nie wurde ein U-Ausschuss so heftig bekämpft\": Halbzeit im Ibiza-Ausschuss",
-      "titleTarget" : "\"Never before has a U-Committee been so fiercely fought\": Half-time in the Ibiza Committee",
-      "url" : "https://kurier.at/politik/inland/noch-nie-wurde-ein-u-ausschuss-so-heftig-bekaempft-halbzeit-im-ibiza-ausschuss/401129064"
-    }, {
       "id" : "iMHKatc0",
       "imgUrl" : "https://image.kurier.at/images/original/1887619/studenten-000_APA_HELMUT%252BFOHRINGER.jpg",
       "titleSource" : "800 Euro: Wegen Corona soll ein neuer Härtefonds Studenten helfen",
       "titleTarget" : "800 euros: Because of Corona, a new hardship fund should help students",
       "url" : "https://kurier.at/politik/inland/800-euro-wegen-corona-soll-ein-neuer-haertefonds-studenten-helfen/401129193"
     }, {
-      "id" : "CVJrfvEC",
-      "imgUrl" : "https://image.kurier.at/images/original/4820682/46-173551638.jpg",
-      "titleSource" : "Österreichs erster Corona-Spürhund: Die goldene Nase von \"Fantasy Forever\"",
-      "titleTarget" : "Austria's first corona sniffer dog: the golden nose of \"Fantasy Forever\"",
-      "url" : "https://kurier.at/politik/inland/oesterreichs-erster-corona-spuerhund-die-goldene-nase-von-fantasy-forever/401129451"
+      "id" : "V4OXw4uK",
+      "imgUrl" : "https://image.kurier.at/images/original/4819995/46-165767123.jpg",
+      "titleSource" : "\"Noch nie wurde ein U-Ausschuss so heftig bekämpft\": Halbzeit im Ibiza-Ausschuss",
+      "titleTarget" : "\"Never before has a U-Committee been so fiercely fought\": Half-time in the Ibiza Committee",
+      "url" : "https://kurier.at/politik/inland/noch-nie-wurde-ein-u-ausschuss-so-heftig-bekaempft-halbzeit-im-ibiza-ausschuss/401129064"
     }, {
       "id" : "1Q5Dni8G",
       "imgUrl" : "https://image.kurier.at/images/original/4819674/46-173321311.jpg",
@@ -42,6 +36,11 @@
       "titleSource" : "Wann muss man sich, wann darf man sich impfen lassen?",
       "titleTarget" : "When do you have to, when can you get vaccinated?",
       "url" : "https://www.diepresse.com/5911463/Impfstrategie_Wann-muss-man-sich-wann-darf-man-sich-impfen-lassen?from=rss"
+    }, {
+      "id" : "XGjPzGhk",
+      "titleSource" : "Nationalrat: Parteien wollen erweitertes Begutachtungsverfahren",
+      "titleTarget" : "National Council: parties want an extended review process",
+      "url" : "https://www.diepresse.com/5911337/Nationalrat_Parteien-wollen-erweitertes-Begutachtungsverfahren?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -52,11 +51,11 @@
       "titleTarget" : "Wilhelm Rasinger - the sir of the capital market is dead",
       "url" : "https://kurier.at/wirtschaft/wilhelm-rasinger-der-sir-des-kapitalmarktes-ist-tot/401128890"
     }, {
-      "id" : "1GGaOFl6",
-      "imgUrl" : "https://image.kurier.at/images/original/4819140/46-145411544.jpg",
-      "titleSource" : "Forstwirtschaft: Holzpreise sind im Keller",
-      "titleTarget" : "Forestry: Wood prices are in the basement",
-      "url" : "https://kurier.at/wirtschaft/forstwirtschaft-holzpreise-sind-im-keller/401128440"
+      "id" : "f7A6PSPb",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/2/6/5/5911141/-THEMENBILD--CORONA-EINKAUFSSTRASSE--HANDEL_1607929677857890_v0_l.jpg",
+      "titleSource" : "Österreicher bei finanziellem Wohlergehen europaweit auf Rang 2",
+      "titleTarget" : "Austrians in second place in Europe for financial well-being",
+      "url" : "https://www.diepresse.com/5911141/Wohlstandsbarometer_Oesterreicher-bei-finanziellem-Wohlergehen?from=rss"
     }, {
       "id" : "2zhMoCWX",
       "imgUrl" : "https://image.kurier.at/images/original/1675539/46-28518711.jpg",
@@ -64,17 +63,11 @@
       "titleTarget" : "Counterfeit champagne and olive oil production facility discovered",
       "url" : "https://kurier.at/wirtschaft/produktionsstaette-fuer-gefaelschten-champagner-und-olivenoel-entdeckt/401129037"
     }, {
-      "id" : "f7A6PSPb",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/2/6/5/5911141/-THEMENBILD--CORONA-EINKAUFSSTRASSE--HANDEL_1607929677857890_v0_l.jpg",
-      "titleSource" : "Österreicher bei finanziellem Wohlergehen europaweit auf Rang 2",
-      "titleTarget" : "Austrians in second place in Europe for financial well-being",
-      "url" : "https://www.diepresse.com/5911141/Wohlstandsbarometer_Oesterreicher-bei-finanziellem-Wohlergehen?from=rss"
-    }, {
-      "id" : "jUaiEBkm",
-      "imgUrl" : "https://image.kurier.at/images/original/4795320/46-106615492.jpg",
-      "titleSource" : "Die Österreicher sind finanziell gut aufgestellt: Rang zwei in Europa",
-      "titleTarget" : "The Austrians are financially well positioned: second in Europe",
-      "url" : "https://kurier.at/wirtschaft/die-oesterreicher-sind-finanziell-gut-aufgestellt/401128452"
+      "id" : "lWoG6sXh",
+      "imgUrl" : "https://image.kurier.at/images/original/4566017/46-163679547.jpg",
+      "titleSource" : "ÖBB betreiben erstmals Nahverkehr zwischen Bratislava und Komarno",
+      "titleTarget" : "ÖBB operate local transport between Bratislava and Komarno for the first time",
+      "url" : "https://kurier.at/wirtschaft/oebb-betreiben-erstmals-nahverkehr-zwischen-bratislava-und-komarno/401128887"
     }, {
       "id" : "oSSNwrZr",
       "imgUrl" : "https://image.kurier.at/images/original/4818720/46-173504825.jpg",
@@ -87,6 +80,12 @@
       "titleSource" : "Prime Video: Amazon und Sky verkünden Partnerschaft",
       "titleTarget" : "Prime Video: Amazon and Sky announce partnership",
       "url" : "https://kurier.at/wirtschaft/amazon-und-sky-verkuenden-partnerschaft/401128644"
+    }, {
+      "id" : "6saioDJS",
+      "imgUrl" : "https://image.kurier.at/images/original/4820982/46-173381890.jpg",
+      "titleSource" : "VW-Aufsichtsrat beschließt Neuzuschnitt des Vorstands, Diess bleibt",
+      "titleTarget" : "VW supervisory board decides to redesign the executive board, Diess remains",
+      "url" : "https://kurier.at/wirtschaft/vw-aufsichtsrat-beschliesst-neuzuschnitt-des-vorstands-diess-bleibt/401129637"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -97,22 +96,17 @@
       "titleTarget" : "15-year-old Styrian complains that a mask is required at school",
       "url" : "https://kurier.at/chronik/oesterreich/15-jaehrige-steirerin-klagt-gegen-maskenpflicht-in-der-schule/401128707"
     }, {
+      "id" : "MUjN8Gc3",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/37/48/crops/w=1280/682411_opener_235648_coronavirustest.jpg?s=eb6dab4ef02bb885772942e03a26b2a2e1a2a4e9",
+      "titleSource" : "LH Kaiser will verlängerte Weihnachtsferien",
+      "titleTarget" : "LH Kaiser wants extended Christmas holidays",
+      "url" : "https://kaernten.orf.at/stories/3080560/"
+    }, {
       "id" : "MdJq2R1u",
       "imgUrl" : "https://image.kurier.at/images/original/4820496/46-173548302.jpg",
       "titleSource" : "Anschober setzt statt hartem Lockdown auf Testen; Massentests in Wien: Favoritner blieben daheim",
       "titleTarget" : "2,588 new infections in Austria; Free trials are coming before Christmas",
       "url" : "https://kurier.at/chronik/oesterreich/gratis-tests-vor-weihnachten-kommen-massentests-4000-infizierte-bei-zwei-millionen-tests/401128383"
-    }, {
-      "id" : "GYPneJT7",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/80/crops/w=1280/784292_opener_273080_meldungsliste8_4.jpg?s=287833434272b8e41db27176ce1ffa244d95a39c",
-      "titleSource" : "Spürhunde sollen CoV-Infizierte erschnüffeln",
-      "titleTarget" : "Sniffer dogs should sniff out CoV infected people",
-      "url" : "https://wien.orf.at/stories/3080537/"
-    }, {
-      "id" : "0GY6rB1l",
-      "titleSource" : "Niederösterreich für freiwillige Impfung",
-      "titleTarget" : "Lower Austria for voluntary vaccination",
-      "url" : "https://noe.orf.at/stories/3080422/"
     }, {
       "id" : "7NpS5rVi",
       "imgUrl" : "https://image.kurier.at/images/original/4778679/46-168465991.jpg",
@@ -131,6 +125,12 @@
       "titleSource" : "2.588 neue Corona-Infektionen in Österreich",
       "titleTarget" : "2,588 new corona infections in Austria",
       "url" : "https://kurier.at/chronik/oesterreich/2588-neue-corona-infektionen-in-oesterreich/401128647"
+    }, {
+      "id" : "4xg9PdJy",
+      "imgUrl" : "https://image.kurier.at/images/original/4820646/46-169057524.jpg",
+      "titleSource" : "Klare Absage an Impfpflicht aus Salzburg",
+      "titleTarget" : "Clear rejection of mandatory vaccination from Salzburg",
+      "url" : "https://kurier.at/chronik/oesterreich/klare-absage-an-impfpflicht-aus-salzburg/401129445"
     } ]
   }, {
     "category" : "CULTURE",
@@ -153,17 +153,17 @@
       "titleTarget" : "With guinea pigs through the new year",
       "url" : "https://kurier.at/kultur/mit-meerschweinchen-durchs-neue-jahr/401128689"
     }, {
-      "id" : "QJohsMVl",
+      "id" : "jXhLQH1A",
       "imgUrl" : "https://image.kurier.at/images/original/4819005/46-173537863.jpg",
-      "titleSource" : "John le Carré starb mit 89 Jahren an Lungenentzündung",
-      "titleTarget" : "John le Carré died of pneumonia at the age of 89",
-      "url" : "https://kurier.at/kultur/john-le-carre-starb-mit-89-jahren-an-lungenentzuendung/401128344"
+      "titleSource" : "Nachruf auf John le Carré: Diesseits von Gut und Böse",
+      "titleTarget" : "Obituary for John le Carré: This side of good and bad",
+      "url" : "https://kurier.at/kultur/nachruf-auf-john-le-carre-diesseits-von-gut-und-boese/401129430"
     }, {
-      "id" : "y9LBGj5Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4818987/46-173502940.jpg",
-      "titleSource" : "Netrebkos erste Wiener Tosca: Ein Triumph",
-      "titleTarget" : "Netrebko's first Viennese Tosca: a triumph",
-      "url" : "https://kurier.at/kultur/netrebkos-erste-wiener-tosca-ein-triumph/401128332"
+      "id" : "prpgWfka",
+      "imgUrl" : "https://image.kurier.at/images/original/4820610/46-163727648.jpg",
+      "titleSource" : "\"Danke für nichts, 2020\": Jede Menge satirische TV-Jahresrückblicke",
+      "titleTarget" : "\"Thanks for nothing, 2020\": Lots of satirical TV annual reviews",
+      "url" : "https://kurier.at/kultur/medien/danke-fuer-nichts-2020-jede-menge-satirische-tv-jahresrueckblicke/401129328"
     }, {
       "id" : "weMfqIKa",
       "imgUrl" : "https://image.kurier.at/images/original/4819050/bildschirmfoto_2020-12-14_um_05.20.02.png",
@@ -183,12 +183,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "j3UbPt3O",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/1/8/5911064/4920A56B-6376-4742-8810-C69854239337_v0_h.jpg",
-      "titleSource" : "Otto Bari ist tot: Er war ein Vulkan an der Seitenlinie",
-      "titleTarget" : "Otto Bari is dead: he was a volcano on the sidelines",
-      "url" : "https://www.diepresse.com/5911064/Nachruf_Otto-Baric-ist-tot_Er-war-ein-Vulkan-an-der-Seitenlinie?from=rss"
-    }, {
       "id" : "XaZ2IeX1",
       "titleSource" : "Shiffrin gewinnt zweiten RTL in Courchevel",
       "titleTarget" : "Shiffrin wins second RTL in Courchevel",
@@ -200,26 +194,32 @@
       "titleTarget" : "Rapid runs out of juice: \"We're at the limit, actually over\"",
       "url" : "https://kurier.at/sport/fussball/rapid-geht-der-saft-aus-wir-sind-am-limit-eigentlich-drueber/401128269"
     }, {
-      "id" : "lrp6Ly9P",
-      "titleSource" : "Zwölfjähriger Wels-Spieler gewinnt sensationell CL-Partie",
-      "titleTarget" : "Twelve-year-old catfish player sensationally wins CL game",
-      "url" : "https://sport.orf.at/stories/3070639/"
-    }, {
       "id" : "r1GEXgcO",
       "titleSource" : "Hohe Hürden für WAC und „Bullen“",
       "titleTarget" : "High hurdles for WAC and \"cops\"",
       "url" : "https://sport.orf.at/stories/3070665/"
-    }, {
-      "id" : "nK1QPavv",
-      "titleSource" : "Erster Sieg im Europacup für Lahnsteiner",
-      "titleTarget" : "First victory in the European Cup for Lahnsteiner",
-      "url" : "https://sport.orf.at/stories/3070664/"
     }, {
       "id" : "lxUlrz73",
       "imgUrl" : "https://image.kurier.at/images/original/4819785/1.jpg",
       "titleSource" : "David Alaba sorgt für Freude im St. Anna Kinderspital",
       "titleTarget" : "David Alaba brings joy to the St. Anna Children's Hospital",
       "url" : "https://kurier.at/sport/fussball/david-alaba-sorgt-fuer-freude-im-st-anna-kinderspital/401128980"
+    }, {
+      "id" : "WRXEj48n",
+      "titleSource" : "Shiffrin feiert emotionalen Comebacksieg",
+      "titleTarget" : "Shiffrin celebrates emotional comeback victory",
+      "url" : "https://sport.orf.at/stories/3070658/"
+    }, {
+      "id" : "Ec3xceWB",
+      "imgUrl" : "https://image.kurier.at/images/original/4819530/46-145624957.jpg",
+      "titleSource" : "Trauer um Trainer-Legende: Ex-Red-Bull-Fußballchef ist tot",
+      "titleTarget" : "Mourning the legend of the coach: Ex-Red Bull football boss is dead",
+      "url" : "https://kurier.at/sport/fussball/einen-tag-nach-otto-baric-frankreichs-fussball-trauert-auch-um-legende-gerard-houllier/401128782"
+    }, {
+      "id" : "nK1QPavv",
+      "titleSource" : "Erster Sieg im Europacup für Lahnsteiner",
+      "titleTarget" : "First victory in the European Cup for Lahnsteiner",
+      "url" : "https://sport.orf.at/stories/3070664/"
     } ]
   } ],
   "country" : "austria",
