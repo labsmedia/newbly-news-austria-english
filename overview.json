@@ -77,32 +77,38 @@
       "titleTarget" : "New vaccines: State funding only subject to conditions?",
       "url" : "https://kurier.at/wirtschaft/impfstoff-staatliche-foerderung-nur-noch-gegen-auflagen/401191405"
     }, {
-      "id" : "z4LeGuzr",
-      "imgUrl" : "https://image.kurier.at/images/original/2069602/46-68326690.jpg",
-      "titleSource" : "Nivea-Mutter Beiersdorf mit Umsatzrückgang im Corona-Jahr",
-      "titleTarget" : "Nivea parent Beiersdorf with sales decline in the Corona year",
-      "url" : "https://kurier.at/wirtschaft/nivea-mutter-beiersdorf-mit-umsatzrueckgang-im-corona-jahr/401191867"
+      "id" : "z20DQdzh",
+      "imgUrl" : "https://image.kurier.at/images/original/4904017/46-174222579.jpg",
+      "titleSource" : "AK und ÖGB sehen steuerrechtlichen \"Patzer\" im Homeoffice-Gesetz",
+      "titleTarget" : "AK and ÖGB see tax law \"flaws\" in the home office law",
+      "url" : "https://kurier.at/wirtschaft/ak-und-oegb-sehen-steuerrechtlichen-patzer-im-homeoffice-gesetz/401191234"
     }, {
-      "id" : "39aYlgrY",
-      "imgUrl" : "https://image.kurier.at/images/original/4803495/78370011357833074_BLD_Online.jpg",
-      "titleSource" : "Lufthansa baut ihre Pilotenausbildung um",
-      "titleTarget" : "Lufthansa is restructuring its pilot training",
-      "url" : "https://kurier.at/wirtschaft/lufthansa-baut-ihre-pilotenausbildung-um/401191816"
+      "id" : "iapCrWFp",
+      "imgUrl" : "https://image.kurier.at/images/original/4062498/78370011352679120_BLD_Online.jpg",
+      "titleSource" : "Inspektionen von Boeing 787 \"Dreamliner\" angeordnet",
+      "titleTarget" : "Inspections of Boeing 787 \"Dreamliner\" arranged",
+      "url" : "https://kurier.at/wirtschaft/inspektionen-von-boeing-787-dreamliner-angeordnet/401192101"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "id" : "1oId1oh0",
+      "imgUrl" : "https://image.kurier.at/images/original/4945594/46-165443439.jpg",
+      "titleSource" : "Corona-Notstand in der Slowakei: Bundesheer-Soldaten sollen helfen",
+      "titleTarget" : "Corona emergency in Slovakia: Armed Forces soldiers should help",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-notstand-in-der-slowakei-bundesheer-soldaten-sollen-helfen/401191792"
+    }, {
       "id" : "fICOv1YO",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "1.735 neue Corona-Infektionen in Österreich",
       "titleTarget" : "1,735 new corona infections in Austria",
       "url" : "https://kurier.at/chronik/oesterreich/1735-neue-corona-infektionen-in-oesterreich/401190997"
     }, {
-      "id" : "1oId1oh0",
-      "imgUrl" : "https://image.kurier.at/images/original/4945594/46-165443439.jpg",
-      "titleSource" : "Corona-Notstand in der Slowakei: Bundesheer-Soldaten sollen helfen",
-      "titleTarget" : "Corona emergency in Slovakia: Armed Forces soldiers should help",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-notstand-in-der-slowakei-bundesheer-soldaten-sollen-helfen/401191792"
+      "id" : "5rRj6vhm",
+      "imgUrl" : "https://image.kurier.at/images/original/4944454/46-175777021.jpg",
+      "titleSource" : "Causa Sigi Maurer: Die ungehörte Geschichte  des Zeugen Willi W.",
+      "titleTarget" : "Causa Sigi Maurer: The unheard story of the witness Willi W.",
+      "url" : "https://kurier.at/chronik/oesterreich/causa-sigi-maurer-die-ungehoerte-geschichte-des-zeugen-willi-w/401191825"
     }, {
       "id" : "piXMokK7",
       "imgUrl" : "https://image.kurier.at/images/original/4936261/20210213-ABD0052-1-1.jpg",
@@ -110,49 +116,49 @@
       "titleTarget" : "Short-time work will be extended by three months until the end of June + 1,735 new infections in Austria",
       "url" : "https://kurier.at/chronik/oesterreich/neuinfektionen-vorige-woche-weltweit-um-16-prozent-zurueckgegangen/401190910"
     }, {
+      "id" : "jC6vlrZh",
+      "imgUrl" : "https://image.kurier.at/images/original/4945273/46-173713162.jpg",
+      "titleSource" : "Corona-Infizierte Person reiste mit Zug von Wien nach Graz",
+      "titleTarget" : "Corona infected person traveled by train from Vienna to Graz",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-infizierte-person-reiste-mit-zug-von-wien-nach-graz/401191651"
+    }, {
       "id" : "QBNo81XQ",
       "imgUrl" : "https://image.kurier.at/images/original/4942447/46-175734871.jpg",
       "titleSource" : "Einreise nach D: Bescheinigung für Tiroler Pendler ab Freitag nötig",
       "titleTarget" : "Entry to D: Certificate required for Tyrolean commuters from Friday",
       "url" : "https://kurier.at/chronik/oesterreich/einreise-nach-d-bescheinigung-fuer-tiroler-pendler-ab-freitag-noetig/401191204"
     }, {
-      "id" : "P7XQWpBS",
-      "imgUrl" : "https://image.kurier.at/images/original/4943557/46-175649572.jpg",
-      "titleSource" : "Rätselraten um Schönbrunn: Ein neuer Name ist gefallen",
-      "titleTarget" : "The guesswork around Schönbrunn: a new name has come up",
-      "url" : "https://kurier.at/chronik/oesterreich/raetselraten-um-schoenbrunn-ein-neuer-name-ist-gefallen/401190694"
-    }, {
       "id" : "e3zdehrh",
       "imgUrl" : "https://image.kurier.at/images/original/4943614/46-166775670.jpg",
       "titleSource" : "Die Mühen nach Doskozils Wahlsieg",
       "titleTarget" : "The troubles after Doskozil's election victory",
       "url" : "https://kurier.at/chronik/oesterreich/die-muehen-nach-doskozils-wahlsieg/401190736"
-    }, {
-      "id" : "PjQtiKI6",
-      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
-      "titleSource" : "Versuchte Kindesentführung in der Oststeiermark angezeigt",
-      "titleTarget" : "Attempted child abduction reported in Eastern Styria",
-      "url" : "https://kurier.at/chronik/oesterreich/versuchte-kindesentfuehrung-in-der-oststeiermark-angezeigt/401191696"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "qWZXnxRD",
+      "titleSource" : "Stereo-Total-Sängerin und Künstlerin Francoise Cactus gestorben",
+      "titleTarget" : "Stereo-Total singer and artist Francoise Cactus has died",
+      "url" : "https://kurier.at/kultur/stereo-total-saengerin-und-kuenstlerin-francoise-cactus-gestorben/401192002"
+    }, {
       "id" : "CFHfDh25",
       "imgUrl" : "https://image.kurier.at/images/original/4944970/01-dpv-maria_eichhorn.jpg",
       "titleSource" : "Maria Eichhorn vertritt Deutschland auf der Biennale Venedig",
       "titleTarget" : "Maria Eichhorn represents Germany at the Venice Biennale",
       "url" : "https://kurier.at/kultur/maria-eichhorn-vertritt-deutschland-auf-der-biennale-venedig/401191531"
     }, {
+      "id" : "jVsejVHd",
+      "imgUrl" : "https://image.kurier.at/images/original/4946047/46-175850028.jpg",
+      "titleSource" : "Facebook sperrt im Streit mit Australien alle Nachrichtenseiten",
+      "titleTarget" : "Facebook blocks all news sites in the dispute with Australia",
+      "url" : "https://kurier.at/kultur/medien/facebook-sperrt-im-streit-mit-australien-alle-nachrichtenseiten/401192065"
+    }, {
       "id" : "naL06P8R",
       "imgUrl" : "https://image.kurier.at/images/original/4943635/46-175742439.jpg",
       "titleSource" : "Clap Your Hands Say Yeah: Politik-Songs gegen die Gier nach Macht",
       "titleTarget" : "Clap Your Hands Say Yeah: Political songs against greed for power",
       "url" : "https://kurier.at/kultur/clap-your-hands-say-yeah-politik-songs-gegen-die-gier-nach-macht/401190745"
-    }, {
-      "id" : "qWZXnxRD",
-      "titleSource" : "Stereo-Total-Sängerin und Künstlerin Francoise Cactus gestorben",
-      "titleTarget" : "Stereo-Total singer and artist Francoise Cactus has died",
-      "url" : "https://kurier.at/kultur/stereo-total-saengerin-und-kuenstlerin-francoise-cactus-gestorben/401192002"
     }, {
       "id" : "V1lYPIPF",
       "imgUrl" : "https://image.kurier.at/images/original/4943533/46-175761658.jpg",
@@ -169,12 +175,6 @@
       "titleTarget" : "Pathologist draws conclusions from autopsies of 100 corona deaths",
       "url" : "https://kurier.at/wissen/gesundheit/pathologe-zieht-schluesse-aus-obduktionen-von-100-corona-toten/401191006"
     }, {
-      "id" : "vEIYgHwg",
-      "imgUrl" : "https://image.kurier.at/images/original/4943734/46-174233979.jpg",
-      "titleSource" : "Christian Drosten: Weiterhin auf Astra Zeneca setzen",
-      "titleTarget" : "Christian Drosten: Continue to rely on Astra Zeneca",
-      "url" : "https://kurier.at/wissen/gesundheit/christian-drosten-weiterhin-auf-astrazeneca-setzen/401190805"
-    }, {
       "id" : "TgnDhDo8",
       "imgUrl" : "https://image.kurier.at/images/original/4941280/corona.jpg",
       "titleSource" : "Seltene Corona-Mutation erstmals in Italien nachgewiesen",
@@ -186,6 +186,12 @@
       "titleSource" : "Österreich bei Test-Zahlen unter den Weltmeistern",
       "titleTarget" : "Austria among the world champions in test numbers",
       "url" : "https://kurier.at/wissen/gesundheit/oesterreich-bei-test-zahlen-unter-den-weltmeistern/401191303"
+    }, {
+      "id" : "ExPCUAS5",
+      "imgUrl" : "https://image.kurier.at/images/original/4669879/46-143276984.jpg",
+      "titleSource" : "Unsere Neandertaler-Gene wirken sich auf Covid-Erkrankungen aus",
+      "titleTarget" : "Our Neanderthal genes affect Covid diseases",
+      "url" : "https://kurier.at/wissen/gesundheit/neandertaler-gene-wirken-sich-auf-covid-erkrankung-aus/401191171"
     }, {
       "id" : "DsSHimtZ",
       "imgUrl" : "https://image.kurier.at/images/original/4912075/46-175101814.jpg",
@@ -214,17 +220,23 @@
       "titleTarget" : "LASK advertises Austria striker Christoph Monschein",
       "url" : "https://kurier.at/sport/fussball/bundesliga-der-lask-wirbt-um-austria-stuermer-christoph-monschein/401191417"
     }, {
+      "id" : "gbyhIbo2",
+      "imgUrl" : "https://image.kurier.at/images/original/4945180/46-175783537.jpg",
+      "titleSource" : "Nach 0:2-Rückstand: Tsitsipas ringt Tennis-Star Nadal nieder",
+      "titleTarget" : "After 0-2 deficit: Tsitsipas wrestles tennis star Nadal",
+      "url" : "https://kurier.at/sport/tennis/nach-02-rueckstand-stefano-tsitsipas-ringt-tennis-star-rafael-nadal-nieder/401191555"
+    }, {
       "id" : "YKA8UOcd",
       "imgUrl" : "https://image.kurier.at/images/original/4944076/46-175712753.jpg",
       "titleSource" : "Nach dem Aus in Australien fällt Thiem aus den Top 3 der Welt",
       "titleTarget" : "After leaving Australia, Thiem falls out of the top 3 in the world",
       "url" : "https://kurier.at/sport/tennis/aus-bei-den-australian-open-tennis-star-dominic-thiem-aus-den-top-3-der-welt/401191021"
     }, {
-      "id" : "gbyhIbo2",
-      "imgUrl" : "https://image.kurier.at/images/original/4945180/46-175783537.jpg",
-      "titleSource" : "Nach 0:2-Rückstand: Tsitsipas ringt Tennis-Star Nadal nieder",
-      "titleTarget" : "After 0-2 deficit: Tsitsipas wrestles tennis star Nadal",
-      "url" : "https://kurier.at/sport/tennis/nach-02-rueckstand-stefano-tsitsipas-ringt-tennis-star-rafael-nadal-nieder/401191555"
+      "id" : "dHOhO7wY",
+      "imgUrl" : "https://image.kurier.at/images/original/4945411/46-79604701.jpg",
+      "titleSource" : "Der Amateursport geht auf die Barrikaden und fordert Öffnungen",
+      "titleTarget" : "The amateur sport goes on the barricades and demands openings",
+      "url" : "https://kurier.at/sport/kritik-an-corona-massnahmen-der-amateursport-geht-auf-die-barrikaden-und-fordert-oeffnungen/401191690"
     }, {
       "id" : "okup4lr1",
       "imgUrl" : "https://image.kurier.at/images/original/4944598/46-175559383.jpg",
@@ -232,23 +244,17 @@
       "titleTarget" : "ASKÖ also criticizes government: \"health policy rampage\"",
       "url" : "https://kurier.at/sport/auch-askoe-kritisiert-corona-management-der-regierung-gesundheitspolitischer-amoklauf/401191282"
     }, {
-      "id" : "qj8jXPZf",
-      "imgUrl" : "https://image.kurier.at/images/original/4943173/46-175734016.jpg",
-      "titleSource" : "Hubertus Hohenlohe und sein adeliger Ski-WM-Rekord",
-      "titleTarget" : "Hubertus Hohenlohe and his aristocratic World Ski Championships record",
-      "url" : "https://kurier.at/sport/wintersport/hubertus-hohenlohe-und-sein-adeliger-ski-wm-rekord-in-cortina/401190538"
+      "id" : "RkU1N7Xf",
+      "imgUrl" : "https://image.kurier.at/images/original/4945876/46-175251913.jpg",
+      "titleSource" : "Pertl ergattert letztes WM-Slalom-Ticket im ÖSV-Team",
+      "titleTarget" : "Pertl gets the last World Cup slalom ticket in the ÖSV team",
+      "url" : "https://kurier.at/sport/wintersport/cortina-dampezzo-adrian-pertl-ergattert-letztes-wm-slalom-ticket-im-oesv-team/401191954"
     }, {
-      "id" : "ooneFVlD",
-      "imgUrl" : "https://image.kurier.at/images/original/4945552/46-175814400.jpg",
-      "titleSource" : "ÖSV-Biathlet Eder im WM-Einzel Siebenter, Laegreid holte Gold",
-      "titleTarget" : "ÖSV biathlete Eder seventh in the World Championship singles, Laegreid took gold",
-      "url" : "https://kurier.at/sport/wintersport/oesv-biathlet-eder-im-wm-einzel-siebenter-laegreid-holte-gold/401191777"
-    }, {
-      "id" : "JgfixI0j",
-      "imgUrl" : "https://image.kurier.at/images/original/4945540/46-173460349.jpg",
-      "titleSource" : "\"Dürfen träumen\": Schumacher träumt von Podium im Premierenjahr",
-      "titleTarget" : "\"May dream\": Schumacher dreams of a podium in the premiere year",
-      "url" : "https://kurier.at/sport/motorsport/duerfen-traeumen-mick-schumacher-traeumt-von-podium-im-premierenjahr-mit-haas/401191759"
+      "id" : "VzWqgCly",
+      "imgUrl" : "https://image.kurier.at/images/original/4942357/46-166973485.jpg",
+      "titleSource" : "Salary Cap oder Superliga? Wie Corona den Fußball verändert",
+      "titleTarget" : "Salary cap or super league? How Corona is changing football",
+      "url" : "https://kurier.at/sport/fussball/salary-cap-oder-superliga-wie-corona-den-fussball-veraendert/401190181"
     } ]
   } ],
   "country" : "austria",
