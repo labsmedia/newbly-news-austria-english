@@ -2,35 +2,35 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "MKfT9Gdr",
-      "imgUrl" : "https://image.kurier.at/images/original/4940455/46-165515046.jpg",
-      "titleSource" : "\"... nach der Opernball-Lady jetzt auch Taschner. Der ist wirklich kein Gewinn\"",
-      "titleTarget" : "\"... after the opera ball lady, now Taschner too. He's really no profit\"",
-      "url" : "https://kurier.at/politik/inland/nach-der-opernball-lady-jetzt-auch-taschner-der-ist-wirklich-kein-gewinn/401192515"
-    }, {
       "id" : "HuIExSmz",
       "imgUrl" : "https://image.kurier.at/images/original/4937506/46-158544082.jpg",
       "titleSource" : "Causa Blümel: Martina Kurz bestätigt, \"Kurz\" zu sein",
       "titleTarget" : "Causa Blümel: Martina Kurz confirms that she is \"Kurz\"",
       "url" : "https://kurier.at/politik/inland/causa-bluemel-martina-kurz-bestaetigt-kurz-zu-sein/401192476"
     }, {
-      "id" : "QTXNqAAL",
-      "imgUrl" : "https://image.kurier.at/images/original/4944856/20210217-ABD0055-1-1.jpg",
-      "titleSource" : "Anschober über Pflege: \"Niemanden alleine lassen\"",
-      "titleTarget" : "Anschober about care: \"Don't leave anyone alone\"",
-      "url" : "https://kurier.at/politik/inland/anschober-ueber-pflege-niemanden-alleine-lassen/401192311"
+      "id" : "AD3ngGoV",
+      "imgUrl" : "https://image.kurier.at/images/original/4921252/46-174213581.jpg",
+      "titleSource" : "FPÖ schießt sich auf Verfassungsministerin Edtstadler ein",
+      "titleTarget" : "FPÖ shoots down constitution minister Edtstadler",
+      "url" : "https://kurier.at/politik/inland/fpoe-schiesst-sich-auf-verfassungsministerin-edtstadler-ein/401192173"
     }, {
-      "id" : "m4FGDz8h",
-      "imgUrl" : "https://image.kurier.at/images/original/4942906/20210216-ABD0106-1-1.jpg",
-      "titleSource" : "Blümel bleibt Finanzminister: \"Der türkise Hut brennt lichterloh\"",
-      "titleTarget" : "Blümel remains finance minister: \"The turquoise hat is burning brightly\"",
-      "url" : "https://kurier.at/politik/inland/sondersitzung-zur-causa-bluemel-im-live-stream/401190280"
+      "id" : "kbeB8myn",
+      "imgUrl" : "https://image.kurier.at/images/original/4877769/46-174059202.jpg",
+      "titleSource" : "Corona: Kaiser erntete mit Idee für Geimpften-Armband Shitstorm",
+      "titleTarget" : "Corona: Kaiser reaped Shitstorm with an idea for a vaccinated bracelet",
+      "url" : "https://kurier.at/politik/inland/corona-kaiser-erntete-mit-idee-fuer-geimpften-armband-shitstorm/401191189"
     }, {
-      "id" : "4huXHxdK",
-      "imgUrl" : "https://image.kurier.at/images/original/4792722/20201201-ABD0041-1-1.jpg",
-      "titleSource" : "Jetzt doch Milde bei Uni-Reform – aber für Plagiate gibt’s saftige Strafen",
-      "titleTarget" : "Now the university reform is mild - but there are hefty penalties for plagiarism",
-      "url" : "https://kurier.at/politik/inland/jetzt-doch-milde-bei-uni-reform-aber-fuer-plagiate-gibts-saftige-strafen/401190712"
+      "id" : "GFzK3Pqh",
+      "imgUrl" : "https://image.kurier.at/images/original/4924768/20210208-ABD0039-1-1.jpg",
+      "titleSource" : "536 positiv getestete Personen bei Schul-Testungen",
+      "titleTarget" : "536 people tested positive in school tests",
+      "url" : "https://kurier.at/politik/inland/tests-an-schulen-in-ganz-oesterreich-536-personen-positiv/401191810"
+    }, {
+      "id" : "NKXK85aD",
+      "imgUrl" : "https://image.kurier.at/images/original/4944463/46-175744297.jpg",
+      "titleSource" : "Die vielen \"entscheidenden Wochen\" des Rudolf Anschober",
+      "titleTarget" : "The many \"decisive weeks\" of Rudolf Anschober",
+      "url" : "https://kurier.at/politik/inland/die-vielen-entscheidenden-wochen-des-rudi-anschober/401190829"
     }, {
       "id" : "WPj18TZS",
       "imgUrl" : "https://image.kurier.at/images/original/4070829/20200122-ABD0007-1-1.jpg",
@@ -38,44 +38,20 @@
       "titleTarget" : "Edtstadler sees no attack on justice",
       "url" : "https://kurier.at/politik/inland/edtstadler-sieht-keine-attacke-auf-justiz/401190856"
     }, {
-      "id" : "Tn1EsqPU",
-      "imgUrl" : "https://image.kurier.at/images/original/48786/Mariahilfer-000_KURIER%252B_gnedt%252Bmartin.jpg",
-      "titleSource" : "Zuwanderung: Wieder 6.020 Quotenplätze",
-      "titleTarget" : "Immigration: Again 6,020 quota places",
-      "url" : "https://kurier.at/politik/inland/zuwanderung-wieder-6020-quotenplaetze/401190928"
+      "id" : "3SynorS1",
+      "imgUrl" : "https://image.kurier.at/images/original/4922092/46-175482498.jpg",
+      "titleSource" : "Alle Webseiten des Innenministeriums nicht erreichbar",
+      "titleTarget" : "All websites of the Ministry of the Interior cannot be reached",
+      "url" : "https://kurier.at/politik/inland/alle-webseiten-des-innenministeriums-nicht-erreichbar/401191081"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "Ubl7aj7x",
-      "imgUrl" : "https://image.kurier.at/images/original/3703325/78370011350034666_BLD_Online.jpg",
-      "titleSource" : "Drei Viertel weniger Umsatz bei DO&CO",
-      "titleTarget" : "Three quarters less sales at DO&CO",
-      "url" : "https://kurier.at/wirtschaft/drei-viertel-weniger-umsatz-bei-doco/401192458"
-    }, {
-      "id" : "WcDFraO6",
-      "imgUrl" : "https://image.kurier.at/images/original/3872660/78350011451309568_BLD_Online.jpg",
-      "titleSource" : "Nestle verkauft Wassersparte in Nordamerika",
-      "titleTarget" : "Nestle sells water business in North America",
-      "url" : "https://kurier.at/wirtschaft/nestle-verkauft-wassersparte-in-nordamerika/401190976"
-    }, {
-      "id" : "4IMmRMDV",
-      "imgUrl" : "https://image.kurier.at/images/original/4904017/46-174222579.jpg",
-      "titleSource" : "AK und ÖGB sehen steuerrechtlichen \"Patzer\" im Homeoffice-Gesetz",
-      "titleTarget" : "AK and ÖGB see tax law \"flaws\" in the home office law",
-      "url" : "https://kurier.at/wirtschaft/ak-und-oegb-sehen-steuerrechtlichen-patzer-im-homeoffice-gesetz/401191234"
-    }, {
-      "id" : "GhWB3QeK",
-      "imgUrl" : "https://image.kurier.at/images/original/4885176/46-171844376.jpg",
-      "titleSource" : "Staatliche Hilfe wirkt: Pleiten 2020 um 38 Prozent gesunken",
-      "titleTarget" : "State aid works: bankruptcies in 2020 fell by 38 percent",
-      "url" : "https://kurier.at/wirtschaft/staatliche-hilfe-hilft-pleiten-2020-um-38-prozent-gesunken/401191378"
-    }, {
-      "id" : "gPzKP1ZB",
-      "imgUrl" : "https://image.kurier.at/images/original/4944724/46-175778709.jpg",
-      "titleSource" : "Neue Impfstoffe: Staatliche Förderung nur noch gegen Auflagen?",
-      "titleTarget" : "New vaccines: State funding only subject to conditions?",
-      "url" : "https://kurier.at/wirtschaft/impfstoff-staatliche-foerderung-nur-noch-gegen-auflagen/401191405"
+      "id" : "aR2kOB1h",
+      "imgUrl" : "https://image.kurier.at/images/original/4123119/81710357853166968_BLD_Online.jpg",
+      "titleSource" : "Facebook blockiert Zugang zu Nachrichten in Australien",
+      "titleTarget" : "Facebook blocks access to news in Australia",
+      "url" : "https://kurier.at/wirtschaft/facebook-blockiert-zugang-zu-nachrichten-in-australien/401192164"
     }, {
       "id" : "xCbSZtuO",
       "imgUrl" : "https://image.kurier.at/images/original/1861326/IKEAKatalog2011App_400x280.jpg",
@@ -83,173 +59,173 @@
       "titleTarget" : "After a successful test run: Ikea furniture from the Billa parking lot",
       "url" : "https://kurier.at/wirtschaft/nach-erfolgreichem-testlauf-ikea-moebel-vom-billa-parkplatz/401191504"
     }, {
-      "id" : "eMMtyS9d",
-      "imgUrl" : "https://image.kurier.at/images/original/4803495/78370011357833074_BLD_Online.jpg",
-      "titleSource" : "Lufthansa baut ihre Pilotenausbildung um",
-      "titleTarget" : "Lufthansa is restructuring its pilot training",
-      "url" : "https://kurier.at/wirtschaft/lufthansa-baut-ihre-pilotenausbildung-um/401191816"
+      "id" : "4IMmRMDV",
+      "imgUrl" : "https://image.kurier.at/images/original/4904017/46-174222579.jpg",
+      "titleSource" : "AK und ÖGB sehen steuerrechtlichen \"Patzer\" im Homeoffice-Gesetz",
+      "titleTarget" : "AK and ÖGB see tax law \"flaws\" in the home office law",
+      "url" : "https://kurier.at/wirtschaft/ak-und-oegb-sehen-steuerrechtlichen-patzer-im-homeoffice-gesetz/401191234"
+    }, {
+      "id" : "gPzKP1ZB",
+      "imgUrl" : "https://image.kurier.at/images/original/4944724/46-175778709.jpg",
+      "titleSource" : "Neue Impfstoffe: Staatliche Förderung nur noch gegen Auflagen?",
+      "titleTarget" : "New vaccines: State funding only subject to conditions?",
+      "url" : "https://kurier.at/wirtschaft/impfstoff-staatliche-foerderung-nur-noch-gegen-auflagen/401191405"
+    }, {
+      "id" : "KyOGc3qi",
+      "imgUrl" : "https://image.kurier.at/images/original/4945726/46-147916956.jpg",
+      "titleSource" : "Sommerurlaub: „Flüge auf die Wunschinsel nicht endlos verfügbar“",
+      "titleTarget" : "Summer vacation: \"Flights to the dream island are not available endlessly\"",
+      "url" : "https://kurier.at/wirtschaft/sommerurlaub-fluege-auf-die-wunschinsel-nicht-endlos-verfuegbar/401191834"
+    }, {
+      "id" : "MNQacz7A",
+      "imgUrl" : "https://image.kurier.at/images/original/4767300/46-83294557.jpg",
+      "titleSource" : "Wo sich Wohnen im Corona-Jahr 2020 besonders verteuert hat",
+      "titleTarget" : "Where living became particularly expensive in the Corona year 2020",
+      "url" : "https://kurier.at/wirtschaft/wo-sich-wohnen-im-corona-jahr-2020-besonders-verteuert-hat/401192179"
+    }, {
+      "id" : "qKK4Ls2R",
+      "imgUrl" : "https://image.kurier.at/images/original/6441/krankenhaus-elga.jpg",
+      "titleSource" : "AMS testet: Sind Sie geeignet für den Pflegeberuf?",
+      "titleTarget" : "AMS tests: Are you suitable for the nursing profession?",
+      "url" : "https://kurier.at/wirtschaft/ams-testet-sind-sie-geeignet-fuer-den-pflegeberuf/401193202"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "id" : "XSUW0r5j",
+      "imgUrl" : "https://image.kurier.at/images/original/4946446/46-175358852.jpg",
+      "titleSource" : "Kommt jetzt die FFP2-Maske im Freien?",
+      "titleTarget" : "Is the FFP2 mask coming out now?",
+      "url" : "https://kurier.at/chronik/oesterreich/kommt-jetzt-die-ffp2-maske-im-freien/401192314"
+    }, {
       "id" : "AyNo9R7b",
       "imgUrl" : "https://image.kurier.at/images/original/4946761/46-80027546.jpg",
       "titleSource" : "Graz bekommt U-Bahn - ohne Fahrer",
       "titleTarget" : "Graz gets the subway - without a driver",
       "url" : "https://kurier.at/chronik/oesterreich/graz-bekommt-vollautomatisierte-u-bahn/401192440"
     }, {
-      "id" : "RFDumns2",
-      "imgUrl" : "https://image.kurier.at/images/original/4946557/46-168327002.jpg",
-      "titleSource" : "Schwere Komplikationen: Semmering-Basistunnel kommt zwei Jahre später",
-      "titleTarget" : "Serious complications: Semmering base tunnel comes two years later",
-      "url" : "https://kurier.at/chronik/oesterreich/schwere-komplikationen-semmering-basistunnel-kommt-zwei-jahre-spaeter/401192443"
+      "id" : "qNVbIhz9",
+      "imgUrl" : "https://image.kurier.at/images/original/4946548/46-111079221.jpg",
+      "titleSource" : "Störungen bei Festnetz-Internet von A1 behoben",
+      "titleTarget" : "Fixed problems with fixed line internet from A1",
+      "url" : "https://kurier.at/chronik/oesterreich/stoerungen-bei-festnetz-internet-von-a1/401192389"
     }, {
-      "id" : "KaG2bJh3",
-      "imgUrl" : "https://image.kurier.at/images/original/4017525/78350011452356154_BLD_Online.jpg",
-      "titleSource" : "Alpengasthaus im Tiroler Unterland komplett niedergebrannt",
-      "titleTarget" : "Alpine inn in the Tyrolean lowlands burned down completely",
-      "url" : "https://kurier.at/chronik/oesterreich/alpengasthaus-im-tiroler-unterland-komplett-niedergebrannt/401192464"
+      "id" : "JXhu63pe",
+      "imgUrl" : "https://image.kurier.at/images/original/4948105/46-175868852.jpg",
+      "titleSource" : "Rekordzahl an PCR-Tests erklärt hohe Infektionszahl",
+      "titleTarget" : "Record number of PCR tests explains high number of infections",
+      "url" : "https://kurier.at/chronik/oesterreich/1967-neue-corona-infektionen-in-oesterreich/401192230"
     }, {
-      "id" : "bdjl6w24",
-      "imgUrl" : "https://image.kurier.at/images/original/4726938/78350011457226414_BLD_Online.jpg",
-      "titleSource" : "Bewohner von Ischgl haben weiterhin Corona-Antikörper",
-      "titleTarget" : "Ischgl residents still have corona antibodies",
-      "url" : "https://kurier.at/chronik/oesterreich/bewohner-von-ischgl-haben-weiterhin-corona-antikoerper/401192455"
+      "id" : "AMmJXPLX",
+      "imgUrl" : "https://image.kurier.at/images/original/4945594/46-165443439.jpg",
+      "titleSource" : "Corona-Notstand in der Slowakei: Bundesheer-Soldaten sollen helfen",
+      "titleTarget" : "Corona emergency in Slovakia: Armed Forces soldiers should help",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-notstand-in-der-slowakei-bundesheer-soldaten-sollen-helfen/401191792"
     }, {
-      "id" : "eqHxMjuB",
-      "imgUrl" : "https://image.kurier.at/images/original/3294644/78350011447168768_BLD_Online.jpg",
-      "titleSource" : "Schwerer Auffahrunfall auf A9 bei Graz: Ein Toter, eine Schwerverletzte",
-      "titleTarget" : "Serious rear-end collision on the A9 near Graz: one dead, one seriously injured",
-      "url" : "https://kurier.at/chronik/oesterreich/schwerer-auffahrunfall-auf-a9-bei-graz-ein-toter-eine-schwerverletzte/401190973"
+      "id" : "Fn5s40Vg",
+      "imgUrl" : "https://image.kurier.at/images/original/4946095/46-76989337.jpg",
+      "titleSource" : "Pharmakologe über Astra Zeneca: \"Würde nicht auf anderen Impfstoff warten\"",
+      "titleTarget" : "Pharmacologist on Astra Zeneca: \"Wouldn't wait for another vaccine\"",
+      "url" : "https://kurier.at/chronik/oesterreich/pharmakologe-ueber-astra-zeneca-wuerde-nicht-auf-anderen-impfstoff-warten/401192110"
     }, {
-      "id" : "egVg3Ryy",
-      "imgUrl" : "https://image.kurier.at/images/original/4942447/46-175734871.jpg",
-      "titleSource" : "Einreise nach D: Bescheinigung für Tiroler Pendler ab Freitag nötig",
-      "titleTarget" : "Entry to D: Certificate required for Tyrolean commuters from Friday",
-      "url" : "https://kurier.at/chronik/oesterreich/einreise-nach-d-bescheinigung-fuer-tiroler-pendler-ab-freitag-noetig/401191204"
-    }, {
-      "id" : "9IfQSzfh",
-      "imgUrl" : "https://image.kurier.at/images/original/4944523/46-166488891.jpg",
-      "titleSource" : "Wie die Corona-Krise den Urlaub beeinflusste",
-      "titleTarget" : "How the Corona Crisis Affected Vacation",
-      "url" : "https://kurier.at/chronik/oesterreich/wie-die-corona-krise-den-urlaub-beeinflusste/401191267"
+      "id" : "D900P1HD",
+      "imgUrl" : "https://image.kurier.at/images/original/4944454/46-175777021.jpg",
+      "titleSource" : "Causa Sigi Maurer: Die ungehörte Geschichte  des Zeugen Willi W.",
+      "titleTarget" : "Causa Sigi Maurer: The unheard story of the witness Willi W.",
+      "url" : "https://kurier.at/chronik/oesterreich/causa-sigi-maurer-die-ungehoerte-geschichte-des-zeugen-willi-w/401191825"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "OH8kmfIw",
-      "imgUrl" : "https://image.kurier.at/images/original/4946644/46-83952741.jpg",
-      "titleSource" : "\"Tendenz zur Stagnation\": Wiener Theaterjury kürzt bei Musiktheater",
-      "titleTarget" : "\"Tendency towards stagnation\": Viennese theater jury cuts in music theater",
-      "url" : "https://kurier.at/kultur/tendenz-zur-stagnation-wiener-theaterjury-kuerzt-bei-musiktheater/401192428"
-    }, {
-      "id" : "9hWS0mwb",
-      "titleSource" : "„Jerusalema Challenge“: Kritik an Gebührenforderung des Musiklabels Warner",
-      "titleTarget" : "“Jerusalema Challenge”: Criticism of the fee claim by the music label Warner",
-      "url" : "https://kurier.at/kultur/jerusalema-challenge-kritik-an-gebuehrenforderung-des-musiklabels-warner/401190064"
-    }, {
-      "id" : "p5PbmOO1",
-      "imgUrl" : "https://image.kurier.at/images/original/4942204/orf_kurier_20210216120030.jpg",
-      "titleSource" : "\"Starmania 21\": Kandidaten stehen fest",
-      "titleTarget" : "\"Starmania 21\": Candidates have been chosen",
-      "url" : "https://kurier.at/kultur/medien/starmania-21-kandidaten-stehen-fest/401190136"
-    }, {
-      "id" : "vCrnVHk7",
-      "imgUrl" : "https://image.kurier.at/images/original/4942225/46-175756643.jpg",
-      "titleSource" : "\"The Masked Singer Austria\": Verhaltener Start mit einer Wildsau",
-      "titleTarget" : "\"The Masked Singer Austria\": Restrained start with a wild boar",
-      "url" : "https://kurier.at/kultur/medien/the-masked-singer-austria-verhaltener-start-mit-einer-wildsau/401190172"
-    }, {
-      "id" : "a9XIfBY5",
-      "imgUrl" : "https://image.kurier.at/images/original/4942174/lovevictor_101_090619_7966r_f.jpg",
-      "titleSource" : "Disney+ baut Programm aus – und wird teurer",
-      "titleTarget" : "Disney + is expanding its program - and becoming more expensive",
-      "url" : "https://kurier.at/kultur/medien/disney-baut-programm-aus-und-wird-teurer/401190157"
-    }, {
       "id" : "QACEpLEB",
       "imgUrl" : "https://image.kurier.at/images/original/4943602/46-175761706.jpg",
       "titleSource" : "\"Nobel war seine ganze Person\": Arik Brauer in Wien verabschiedet",
       "titleTarget" : "\"Nobel was his whole person\": Arik Brauer said goodbye in Vienna",
       "url" : "https://kurier.at/kultur/nobel-war-seine-ganze-person-arik-brauer-in-wien-verabschiedet/401190727"
     }, {
+      "id" : "nd81wgnv",
+      "imgUrl" : "https://image.kurier.at/images/original/4945840/46-175781028.jpg",
+      "titleSource" : "Wrabetz stimmt ORF-Information auf Groß-Umbau ein",
+      "titleTarget" : "Wrabetz agrees ORF information on major renovation",
+      "url" : "https://kurier.at/kultur/wrabetz-stimmt-orf-information-auf-gross-umbau-ein/401191921"
+    }, {
+      "id" : "2UepEzhi",
+      "imgUrl" : "https://image.kurier.at/images/original/4944970/01-dpv-maria_eichhorn.jpg",
+      "titleSource" : "Maria Eichhorn vertritt Deutschland auf der Biennale Venedig",
+      "titleTarget" : "Maria Eichhorn represents Germany at the Venice Biennale",
+      "url" : "https://kurier.at/kultur/maria-eichhorn-vertritt-deutschland-auf-der-biennale-venedig/401191531"
+    }, {
+      "id" : "sAvnLKFQ",
+      "titleSource" : "Stereo-Total-Sängerin und Künstlerin Francoise Cactus gestorben",
+      "titleTarget" : "Stereo-Total singer and artist Francoise Cactus has died",
+      "url" : "https://kurier.at/kultur/stereo-total-saengerin-und-kuenstlerin-francoise-cactus-gestorben/401192002"
+    }, {
       "id" : "GRcv5GXd",
       "imgUrl" : "https://image.kurier.at/images/original/4943608/46-175764750.jpg",
       "titleSource" : "Spanischer Dichter Margarit mit 82 gestorben",
       "titleTarget" : "Spanish poet Margarit died at 82",
       "url" : "https://kurier.at/kultur/spanischer-dichter-margarit-mit-82-gestorben/401190739"
+    }, {
+      "id" : "ZfE2RdY7",
+      "imgUrl" : "https://image.kurier.at/images/original/4943635/46-175742439.jpg",
+      "titleSource" : "Clap Your Hands Say Yeah: Politik-Songs gegen die Gier nach Macht",
+      "titleTarget" : "Clap Your Hands Say Yeah: Political songs against greed for power",
+      "url" : "https://kurier.at/kultur/clap-your-hands-say-yeah-politik-songs-gegen-die-gier-nach-macht/401190745"
+    }, {
+      "id" : "d3Uga2Ve",
+      "imgUrl" : "https://image.kurier.at/images/original/4946047/46-175850028.jpg",
+      "titleSource" : "Facebook sperrt im Streit mit Australien alle Nachrichtenseiten",
+      "titleTarget" : "Facebook blocks all news sites in the dispute with Australia",
+      "url" : "https://kurier.at/kultur/medien/facebook-sperrt-im-streit-mit-australien-alle-nachrichtenseiten/401192065"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "aTMY3uGi",
-      "imgUrl" : "https://image.kurier.at/images/original/4947058/46-175861991.jpg",
-      "titleSource" : "Hoffnung in Sprays als Corona-Virenblocker",
-      "titleTarget" : "Hope in sprays as a corona virus blocker",
-      "url" : "https://kurier.at/wissen/gesundheit/hoffnung-in-sprays-als-corona-virenblocker/401192533"
+      "id" : "KoC1Wbcd",
+      "imgUrl" : "https://image.kurier.at/images/original/4897426/46-174658412.jpg",
+      "titleSource" : "Völlig neue Virusmutation in Finnland entdeckt",
+      "titleTarget" : "Completely new virus mutation discovered in Finland",
+      "url" : "https://kurier.at/wissen/gesundheit/voellig-neue-virusmutation-in-finnland-entdeckt/401192737"
     }, {
-      "id" : "I0osQVRU",
-      "imgUrl" : "https://image.kurier.at/images/original/4947145/46-175482819.jpg",
-      "titleSource" : "Corona: Studie zeigt positiven Effekt von Blutverdünnungsmitteln",
-      "titleTarget" : "Corona: Study shows positive effect of blood thinners",
-      "url" : "https://kurier.at/wissen/gesundheit/corona-studie-zeigt-positiven-effekt-von-blutverduennungsmitteln/401192605"
+      "id" : "3aWs6FQJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4547879/78350011455714584_BLD_Online.jpg",
+      "titleSource" : "Pathologe zieht Schlüsse aus Obduktionen von 100 Corona-Toten",
+      "titleTarget" : "Pathologist draws conclusions from autopsies of 100 corona deaths",
+      "url" : "https://kurier.at/wissen/gesundheit/pathologe-zieht-schluesse-aus-obduktionen-von-100-corona-toten/401191006"
     }, {
-      "id" : "JxNgLN0A",
-      "imgUrl" : "https://image.kurier.at/images/original/2882295/46-121094910.jpg",
-      "titleSource" : "Covid-19: Erkrankung kann sich auch auf die Augen auswirken",
-      "titleTarget" : "Covid-19: disease can also affect the eyes",
-      "url" : "https://kurier.at/wissen/gesundheit/covid-19-erkrankung-kann-sich-auch-auf-die-augen-auswirken/401192275"
+      "id" : "b6X9ynDb",
+      "imgUrl" : "https://image.kurier.at/images/original/4943734/46-174233979.jpg",
+      "titleSource" : "Christian Drosten: Weiterhin auf Astra Zeneca setzen",
+      "titleTarget" : "Christian Drosten: Continue to rely on Astra Zeneca",
+      "url" : "https://kurier.at/wissen/gesundheit/christian-drosten-weiterhin-auf-astrazeneca-setzen/401190805"
     }, {
-      "id" : "tSYRKRoS",
-      "imgUrl" : "https://image.kurier.at/images/original/4946596/46-175714425.jpg",
-      "titleSource" : "Pfizer- und Moderna-Impfstoffe verlieren an Wirkung bei Südafrika-Variante",
-      "titleTarget" : "Pfizer and Moderna vaccines lose their effectiveness in the South African variant",
-      "url" : "https://kurier.at/wissen/gesundheit/pfizer-und-moderna-impfstoffe-verlieren-an-wirkung-bei-suedafrika-variante/401192365"
+      "id" : "IkHf8V0Z",
+      "imgUrl" : "https://image.kurier.at/images/original/4942597/46-175745331.jpg",
+      "titleSource" : "Neue Coronavirus-Variante in Großbritannien aufgetaucht",
+      "titleTarget" : "New coronavirus variant has appeared in the UK",
+      "url" : "https://kurier.at/wissen/gesundheit/neue-coronavirus-variante-in-grossbritannien-aufgetaucht/401190325"
     }, {
-      "id" : "KqhOAroX",
-      "imgUrl" : "https://image.kurier.at/images/original/4941469/46-175719791.jpg",
-      "titleSource" : "Südafrika will eine Million Dosen Astra Zeneca zurückgeben",
-      "titleTarget" : "South Africa wants to return a million cans of Astra Zeneca",
-      "url" : "https://kurier.at/wissen/gesundheit/suedafrika-will-eine-million-dosen-astra-zeneca-zurueckgeben/401189692"
+      "id" : "uJCEYEwZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4942762/46-175718163.jpg",
+      "titleSource" : "Nebenwirkungen werden am öftesten bei Astra Zeneca gemeldet",
+      "titleTarget" : "Side effects are most often reported to Astra Zeneca",
+      "url" : "https://kurier.at/wissen/gesundheit/nebenwirkungen-werden-am-oeftesten-bei-astra-zeneca-gemeldet/401190397"
     }, {
-      "id" : "mftpPArk",
-      "imgUrl" : "https://image.kurier.at/images/original/4930363/46-174875238.jpg",
-      "titleSource" : "Zahl der bestätigten Fälle der Südafrika-Variante nimmt weiter zu",
-      "titleTarget" : "The number of confirmed cases of the South Africa variant continues to increase",
-      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-oesterreich-zahl-der-bestaetigten-faelle-der-suedafrika-variante-nimmt-weiter-zu/401189851"
+      "id" : "0ifvJXfw",
+      "imgUrl" : "https://image.kurier.at/images/original/4947289/46-175783615.jpg",
+      "titleSource" : "Corona: Wissenschafter drängen auf Verschiebung der zweiten Impfdosis",
+      "titleTarget" : "Corona: Scientists are pushing for the second vaccination dose to be postponed",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-wissenschafter-draengen-auf-verschiebung-der-zweiten-impfdosis/401192635"
     }, {
-      "id" : "WX6j1wip",
-      "imgUrl" : "https://image.kurier.at/images/original/4299017/81670356454484356_BLD_Online.jpg",
-      "titleSource" : "Blutverdünnungsmittel reduzieren Covid-Sterblichkeit um 34 Prozent",
-      "titleTarget" : "Blood thinners reduce Covid mortality by 34 percent",
-      "url" : "https://kurier.at/wissen/gesundheit/blutverduennungsmittel-reduzieren-covid-sterblichkeit-um-34-prozent/401190034"
+      "id" : "zz0qkmCq",
+      "imgUrl" : "https://image.kurier.at/images/original/4560695/46-166483316.jpg",
+      "titleSource" : "Österreich bei Test-Zahlen unter den Weltmeistern",
+      "titleTarget" : "Austria among the world champions in test numbers",
+      "url" : "https://kurier.at/wissen/gesundheit/oesterreich-bei-test-zahlen-unter-den-weltmeistern/401191303"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "ZDsAlqCE",
-      "imgUrl" : "https://image.kurier.at/images/original/4946809/46-175513184.jpg",
-      "titleSource" : "Ungültiger Corona-Test: Vorläufiges Flugverbot für Marita Kramer",
-      "titleTarget" : "Invalid corona test: Temporary flight ban for Marita Kramer",
-      "url" : "https://kurier.at/sport/wintersport/ungueltiger-corona-test-vorlaeufiges-flugverbot-fuer-marita-kramer/401192512"
-    }, {
-      "id" : "kA6kQTMW",
-      "imgUrl" : "https://image.kurier.at/images/original/4942357/46-166973485.jpg",
-      "titleSource" : "Salary Cap oder Superliga? Wie Corona den Fußball verändert",
-      "titleTarget" : "Salary cap or super league? How Corona is changing football",
-      "url" : "https://kurier.at/sport/fussball/salary-cap-oder-superliga-wie-corona-den-fussball-veraendert/401190181"
-    }, {
-      "id" : "EJy6z7Ru",
-      "imgUrl" : "https://image.kurier.at/images/original/4945540/46-173460349.jpg",
-      "titleSource" : "\"Dürfen träumen\": Schumacher träumt von Podium im Premierenjahr",
-      "titleTarget" : "\"May dream\": Schumacher dreams of a podium in the premiere year",
-      "url" : "https://kurier.at/sport/motorsport/duerfen-traeumen-mick-schumacher-traeumt-von-podium-im-premierenjahr-mit-haas/401191759"
-    }, {
-      "id" : "2C5uT4SM",
-      "imgUrl" : "https://image.kurier.at/images/original/4945552/46-175814400.jpg",
-      "titleSource" : "ÖSV-Biathlet Eder im WM-Einzel Siebenter, Laegreid holte Gold",
-      "titleTarget" : "ÖSV biathlete Eder seventh in the World Championship singles, Laegreid took gold",
-      "url" : "https://kurier.at/sport/wintersport/oesv-biathlet-eder-im-wm-einzel-siebenter-laegreid-holte-gold/401191777"
-    }, {
       "id" : "laNN7g7r",
       "imgUrl" : "https://image.kurier.at/images/original/4944766/46-167616105.jpg",
       "titleSource" : "Der LASK wirbt um Austria-Stürmer Christoph Monschein",
@@ -262,11 +238,35 @@
       "titleTarget" : "The amateur sport goes on the barricades and demands openings",
       "url" : "https://kurier.at/sport/kritik-an-corona-massnahmen-der-amateursport-geht-auf-die-barrikaden-und-fordert-oeffnungen/401191690"
     }, {
-      "id" : "xuEeP1Xv",
-      "imgUrl" : "https://image.kurier.at/images/original/4945846/46-166955155.jpg",
-      "titleSource" : "Die Youth-League wird wegen Corona nicht zu Ende gespielt",
-      "titleTarget" : "The Youth League will not be played to the end due to Corona",
-      "url" : "https://kurier.at/sport/fussball/die-uefa-youth-league-wird-wegen-corona-nicht-zu-ende-gespielt/401191930"
+      "id" : "XhJPqeF6",
+      "imgUrl" : "https://image.kurier.at/images/original/4947922/46-175868271.jpg",
+      "titleSource" : "Liensberger holt nächste Medaille für Österreich bei Ski-WM",
+      "titleTarget" : "Liensberger wins the next medal for Austria at the World Ski Championships",
+      "url" : "https://kurier.at/sport/wintersport/liensberger-sorgt-fuer-naechste-medaille-fuer-oesterreich-bei-ski-wm/401192251"
+    }, {
+      "id" : "tNDAagcm",
+      "imgUrl" : "https://image.kurier.at/images/original/4947007/46-175861686.jpg",
+      "titleSource" : "Ski-WM live: Gibt es im Damen-Riesentorlauf nächste Medaille?",
+      "titleTarget" : "Ski World Cup live: will there be the next medal in the women's giant slalom?",
+      "url" : "https://kurier.at/sport/wintersport/ski-wm-live-so-stehts-bei-riesentorlauf-der-damen/401192251"
+    }, {
+      "id" : "Vi30qPBK",
+      "imgUrl" : "https://image.kurier.at/images/original/4945876/46-175251913.jpg",
+      "titleSource" : "Pertl ergattert letztes WM-Slalom-Ticket im ÖSV-Team",
+      "titleTarget" : "Pertl gets the last World Cup slalom ticket in the ÖSV team",
+      "url" : "https://kurier.at/sport/wintersport/cortina-dampezzo-adrian-pertl-ergattert-letztes-wm-slalom-ticket-im-oesv-team/401191954"
+    }, {
+      "id" : "7BpqdoKV",
+      "imgUrl" : "https://image.kurier.at/images/original/4946512/46-167995982.jpg",
+      "titleSource" : "ÖFB-Teamspieler Hinteregger: \"Lieber eine Kiste Bier als Handy\"",
+      "titleTarget" : "ÖFB team player Hinteregger: \"Better a case of beer than a cell phone\"",
+      "url" : "https://kurier.at/sport/fussball/oefb-teamspieler-hinteregger-bei-die-abstauber-lieber-eine-kiste-bier-als-handy/401192359"
+    }, {
+      "id" : "ZDsAlqCE",
+      "imgUrl" : "https://image.kurier.at/images/original/4946809/46-175513184.jpg",
+      "titleSource" : "Ungültiger Corona-Test: Vorläufiges Flugverbot für Marita Kramer",
+      "titleTarget" : "Invalid corona test: Temporary flight ban for Marita Kramer",
+      "url" : "https://kurier.at/sport/wintersport/ungueltiger-corona-test-vorlaeufiges-flugverbot-fuer-marita-kramer/401192512"
     } ]
   } ],
   "country" : "austria",
