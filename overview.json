@@ -2,29 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "yzuEGPGn",
-      "imgUrl" : "https://image.kurier.at/images/original/4949470/46-175871404.jpg",
-      "titleSource" : "\"Das ist unfassbar\": Opposition und Grüne empört über Wöginger",
-      "titleTarget" : "\"That is unbelievable\": Opposition and Greens outraged by Wöginger",
-      "url" : "https://kurier.at/politik/inland/das-ist-unfassbar-opposition-und-gruene-empoert-ueber-woeginger/401193616"
-    }, {
       "id" : "6M18u4Of",
       "imgUrl" : "https://image.kurier.at/images/original/4949980/46-174177936.jpg",
       "titleSource" : "Sobotka machtlos gegenüber Maskenverweigerern im Parlament",
       "titleTarget" : "Sobotka is powerless against mask refusers in parliament",
       "url" : "https://kurier.at/politik/inland/sobotka-machtlos-gegenueber-maskenverweigerern-im-parlament/401193877"
-    }, {
-      "id" : "gJpTI9rW",
-      "imgUrl" : "https://image.kurier.at/images/original/4950256/20210219-ABD0024-1-1.jpg",
-      "titleSource" : "Anschober: Strategie für Leben mit Corona in Arbeit",
-      "titleTarget" : "Anschober: Strategy for living with Corona in progress",
-      "url" : "https://kurier.at/politik/inland/ein-jahr-pandemie-anschober-laedt-zu-traurigem-jubilaeum/401193757"
-    }, {
-      "id" : "UjL5cPHA",
-      "imgUrl" : "https://image.kurier.at/images/original/4843911/46-173648849.jpg",
-      "titleSource" : "Corona und der Zick-Zack-Kurs der Regierung",
-      "titleTarget" : "Corona and the government's zigzag course",
-      "url" : "https://kurier.at/politik/inland/corona-und-der-zick-zack-kurs-der-regierung/401193508"
     }, {
       "id" : "JZztBicj",
       "imgUrl" : "https://image.kurier.at/images/original/4950979/46-175892586.jpg",
@@ -38,11 +20,29 @@
       "titleTarget" : "New law for freedom of information: The highest court is also becoming more transparent",
       "url" : "https://kurier.at/politik/inland/informationsfreiheit-regierung-bei-entwurf-einig/401194439"
     }, {
+      "id" : "vxubMOlm",
+      "imgUrl" : "https://image.kurier.at/images/original/4070829/20200122-ABD0007-1-1.jpg",
+      "titleSource" : "Edtstadler gegen WKStA: \"Lange Verfahrensdauer ist unerträglich\"",
+      "titleTarget" : "Edtstadler against WKStA: \"Long duration of proceedings is unbearable\"",
+      "url" : "https://kurier.at/politik/inland/oevp-gegen-wksta-edtstadler-gibt-statement-ab/401194003"
+    }, {
       "id" : "vpaup5XD",
       "imgUrl" : "https://image.kurier.at/images/original/4623539/78350011456348586_BLD_Online.jpg",
       "titleSource" : "ÖVP-Bundesrat Himmer wegen Untreue angeklagt",
       "titleTarget" : "ÖVP Federal Councilor Himmer charged with breach of trust",
       "url" : "https://kurier.at/politik/inland/oevp-bundesrat-himmer-wegen-untreue-angeklagt/401193919"
+    }, {
+      "id" : "yTLzL6hc",
+      "imgUrl" : "https://image.kurier.at/images/original/3379447/78350011447779036_BLD_Online.jpg",
+      "titleSource" : "Petition: Namhafte Juristen verurteilen \"politische Angriffe\"",
+      "titleTarget" : "Petition: Well-known lawyers condemn \"political attacks\"",
+      "url" : "https://kurier.at/politik/inland/petition-namhafte-juristen-verurteilen-politische-angriffe/401194135"
+    }, {
+      "id" : "YNtL5kWR",
+      "imgUrl" : "https://image.kurier.at/images/original/4505705/81550639555389680_BLD_Online.jpg",
+      "titleSource" : "Unbestechlich: WKStA lehnt Süßigkeiten von Twitter-Usern ab",
+      "titleTarget" : "Incorruptible: WKStA rejects sweets from Twitter users",
+      "url" : "https://kurier.at/politik/inland/unbestechlich-wksta-lehnt-suessigkeiten-von-twitter-usern-ab/401194427"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,29 +53,17 @@
       "titleTarget" : "Kurz holds out the prospect of opening up the catering industry with entry tests",
       "url" : "https://kurier.at/wirtschaft/bundeskanzler-kurz-zur-situation-der-gastronomie/401193985"
     }, {
-      "id" : "FqFOO2zP",
-      "imgUrl" : "https://image.kurier.at/images/original/4949464/46-175781887.jpg",
-      "titleSource" : "Biontech wollte \"unseriösen\" Preis für eine Dosis",
-      "titleTarget" : "Biontech wanted a \"dubious\" price for a dose",
-      "url" : "https://kurier.at/wirtschaft/biontech-wollte-unserioesen-preis-fuer-eine-dosis/401193619"
-    }, {
       "id" : "UWsYdd1N",
       "imgUrl" : "https://image.kurier.at/images/original/4846101/20201229-ABD0065-1-1.jpg",
       "titleSource" : "Kein Skigebiet \"auch nur annähernd\" kostendeckend",
       "titleTarget" : "No ski area \"even remotely\" covers costs",
       "url" : "https://kurier.at/wirtschaft/kein-skigebiet-auch-nur-annaehernd-kostendeckend/401194015"
     }, {
-      "id" : "bhAcvVfJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4884720/20210120-ABD0191-1-1.jpg",
-      "titleSource" : "Kritik an Homeoffice-Gesetz: \"Im Eilverfahren durchgepeitscht\"",
-      "titleTarget" : "Criticism of the home office law: \"Whipped through in an urgent procedure\"",
-      "url" : "https://kurier.at/wirtschaft/kritik-an-homeoffice-gesetz-im-eilverfahren-durchgepeitscht/401194316"
-    }, {
-      "id" : "pfp8bJt9",
-      "imgUrl" : "https://image.kurier.at/images/original/4245830/81811351054091580_BLD_Online.jpg",
-      "titleSource" : "Ökonom Felbermayr: \"Der Staat kann nicht alle retten\"",
-      "titleTarget" : "Economist Felbermayr: \"The state cannot save everyone\"",
-      "url" : "https://kurier.at/wirtschaft/oekonom-gabriel-felbermayr-der-staat-kann-nicht-alle-retten/401194658"
+      "id" : "SRlbNvH2",
+      "imgUrl" : "https://image.kurier.at/images/original/4942981/46-175760936.jpg",
+      "titleSource" : "Bitcoin braucht mehr Strom als ganz Argentinien",
+      "titleTarget" : "Bitcoin needs more electricity than all of Argentina",
+      "url" : "https://kurier.at/wirtschaft/bitcoin-braucht-mehr-strom-als-ganz-argentinien/401194691"
     }, {
       "id" : "vgWS0qCX",
       "imgUrl" : "https://image.kurier.at/images/original/4950175/46-175872826.jpg",
@@ -83,95 +71,107 @@
       "titleTarget" : "Novomatic is reorganizing its structure",
       "url" : "https://kurier.at/wirtschaft/novomatic-ordnet-seine-struktur-neu/401193958"
     }, {
-      "id" : "2qWHh7My",
-      "imgUrl" : "https://image.kurier.at/images/original/4951616/46-168320899.jpg",
-      "titleSource" : "Fertinger-Gruppe übernimmt NÖ Kühlkondensatorspezialisten",
-      "titleTarget" : "Fertinger Group takes over cooling condenser specialists from Lower Austria",
-      "url" : "https://kurier.at/wirtschaft/fertinger-gruppe-uebernimmt-noe-kuehlkondensatorspezialisten/401194376"
+      "id" : "pfp8bJt9",
+      "imgUrl" : "https://image.kurier.at/images/original/4245830/81811351054091580_BLD_Online.jpg",
+      "titleSource" : "Ökonom Felbermayr: \"Der Staat kann nicht alle retten\"",
+      "titleTarget" : "Economist Felbermayr: \"The state cannot save everyone\"",
+      "url" : "https://kurier.at/wirtschaft/oekonom-gabriel-felbermayr-der-staat-kann-nicht-alle-retten/401194658"
+    }, {
+      "id" : "bhAcvVfJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4884720/20210120-ABD0191-1-1.jpg",
+      "titleSource" : "Kritik an Homeoffice-Gesetz: \"Im Eilverfahren durchgepeitscht\"",
+      "titleTarget" : "Criticism of the home office law: \"Whipped through in an urgent procedure\"",
+      "url" : "https://kurier.at/wirtschaft/kritik-an-homeoffice-gesetz-im-eilverfahren-durchgepeitscht/401194316"
+    }, {
+      "id" : "d0KRIGQr",
+      "imgUrl" : "https://image.kurier.at/images/original/4949407/46-175777272.jpg",
+      "titleSource" : "Modehandel: Händler sitzen auf Bergen unverkaufter Ware",
+      "titleTarget" : "Fashion trade: dealers sit on mountains of unsold goods",
+      "url" : "https://kurier.at/wirtschaft/karriere/modehandel-haendler-sitzen-auf-bergen-unverkaufter-ware/401193580"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "GGAoRLRZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.818 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1,818 new corona infections in Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/1818-neue-corona-infektionen-in-oesterreich/401193742"
-    }, {
-      "id" : "8KwClEda",
-      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
-      "titleSource" : "Kärntner Polizistin soll negative Corona-Tests angeboten haben",
-      "titleTarget" : "Carinthian police officer is said to have offered negative corona tests",
-      "url" : "https://kurier.at/chronik/oesterreich/kaerntner-polizistin-soll-negative-corona-tests-angeboten-haben/401193847"
-    }, {
-      "id" : "FV2bpeUk",
-      "imgUrl" : "https://image.kurier.at/images/original/4949551/46-175641618.jpg",
-      "titleSource" : "Österreich hat Corona \"völlig unterschätzt\"",
-      "titleTarget" : "Austria \"completely underestimated\" Corona",
-      "url" : "https://kurier.at/chronik/oesterreich/oesterreich-hat-corona-voellig-unterschaetzt/401193670"
-    }, {
       "id" : "LhLnnncK",
       "imgUrl" : "https://image.kurier.at/images/original/4947367/46-175863271.jpg",
       "titleSource" : "Heftige Kritik an den Grazer U-Bahn-Plänen",
       "titleTarget" : "Strong criticism of the Graz subway plans",
       "url" : "https://kurier.at/chronik/oesterreich/heftige-kritik-an-den-grazer-u-bahn-plaenen/401194340"
     }, {
-      "id" : "ryx1UCIr",
-      "imgUrl" : "https://image.kurier.at/images/original/4924702/20210208-ABD0026-1-1.jpg",
-      "titleSource" : "Elf-Punkte-Plan soll Covid-Ausbreitung in Hermagor stoppen",
-      "titleTarget" : "Eleven-point plan to stop the spread of Covid in Hermagor",
-      "url" : "https://kurier.at/chronik/oesterreich/elf-punkte-plan-soll-covid-ausbreitung-in-hermagor-stoppen/401193706"
-    }, {
-      "id" : "UGvoN1r9",
-      "imgUrl" : "https://image.kurier.at/images/original/4934206/20210212-ABD0037-1-1.jpg",
-      "titleSource" : "Tirol-Ausreise nur mit negativem Test + Biontech-Impfung wirkt nach erstem Stich",
-      "titleTarget" : "1,818 new infections in Ö + Biontech wanted \"dubious\" price for a dose",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-ampel-in-wien-wieder-auf-rot-geschaltet/401193493"
+      "id" : "2H3pRDrD",
+      "imgUrl" : "https://image.kurier.at/images/original/4910725/46-175302539.jpg",
+      "titleSource" : "„Angstschnitte“ drohen: Richter stellen einen Baum auf",
+      "titleTarget" : "\"Fear cuts\" threaten: Judges set up a tree",
+      "url" : "https://kurier.at/chronik/oesterreich/angstschnitte-drohen-richter-stellen-einen-baum-auf/401194520"
     }, {
       "id" : "RFNhNtrd",
       "imgUrl" : "https://image.kurier.at/images/original/4943920/20210217-ABD0012-1-1.jpg",
       "titleSource" : "Tirol: Corona-Warnung für Busfahrgäste von Thiersee nach Kufstein",
       "titleTarget" : "Tyrol: Corona warning for bus passengers from Thiersee to Kufstein",
       "url" : "https://kurier.at/chronik/oesterreich/tirol-corona-warnung-fuer-busfahrgaeste-von-thiersee-nach-kufstein/401194556"
+    }, {
+      "id" : "4rqp71fk",
+      "imgUrl" : "https://image.kurier.at/images/original/4951862/46-175536595.jpg",
+      "titleSource" : "Aus Tirol geht es weiter nur mit negativem Coronatest raus",
+      "titleTarget" : "From Tyrol it only goes out with a negative corona test",
+      "url" : "https://kurier.at/chronik/oesterreich/aus-tirol-geht-es-weiter-nur-mit-negativem-coronatest-raus/401194472"
+    }, {
+      "id" : "KctUuyoe",
+      "imgUrl" : "https://image.kurier.at/images/original/4951727/46-167282612.jpg",
+      "titleSource" : "Innsbrucker Boznerplatz bekommt ein Baumdach",
+      "titleTarget" : "Innsbruck's Boznerplatz gets a tree roof",
+      "url" : "https://kurier.at/chronik/oesterreich/innsbrucker-boznerplatz-bekommt-ein-baumdach/401194403"
+    }, {
+      "id" : "kIffmuRl",
+      "imgUrl" : "https://image.kurier.at/images/original/4827975/78350011458024730_BLD_Online.jpg",
+      "titleSource" : "Paar soll Frau zu Prostitution gezwungen haben: Vier Jahre Haft",
+      "titleTarget" : "Couple is said to have forced women into prostitution: four years in prison",
+      "url" : "https://kurier.at/chronik/oesterreich/paar-soll-frau-zu-prostitution-gezwungen-haben-vier-jahre-haft/401194168"
+    }, {
+      "id" : "N4t3xBty",
+      "imgUrl" : "https://image.kurier.at/images/original/2551519/46-79607482.jpg",
+      "titleSource" : "Frühling im Februar: Sonne und Wärme im ganzen Land",
+      "titleTarget" : "Spring in February: sun and warmth across the country",
+      "url" : "https://kurier.at/chronik/oesterreich/fruehling-im-februar-sonne-und-waerme-im-ganzen-land/401193940"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "JUM4x7Jg",
-      "imgUrl" : "https://image.kurier.at/images/original/4948795/46-131664911.jpg",
-      "titleSource" : "KommAustria: Fellner-Sendung auf oe24.tv reizte zu Hass auf",
-      "titleTarget" : "KommAustria: Fellner broadcast on oe24.tv incited hatred",
-      "url" : "https://kurier.at/kultur/medien/kommaustria-fellner-sendung-auf-oe24tv-reizte-zu-hass-auf/401193361"
-    }, {
-      "id" : "hEx3hXr1",
-      "imgUrl" : "https://image.kurier.at/images/original/4948714/46-175858591.jpg",
-      "titleSource" : "Tash Sultana hat im Lockdown ihr Glück gefunden",
-      "titleTarget" : "Tash Sultana found her happiness in lockdown",
-      "url" : "https://kurier.at/kultur/tash-sultana-hat-im-lockdown-ihr-glueck-gefunden/401193325"
-    }, {
       "id" : "lCKWpMYZ",
       "imgUrl" : "https://image.kurier.at/images/original/4949566/46-174004155.jpg",
       "titleSource" : "Nobelpreisträger Modiano: Detektiv für die Lücken im Gedächtnis",
       "titleTarget" : "Nobel Prize Winner Modiano: Detective for the gaps in memory",
       "url" : "https://kurier.at/kultur/buch/nobelpreistraeger-modiano-detektiv-fuer-die-luecken-im-gedaechtnis/401193661"
     }, {
-      "id" : "2tA24aB0",
-      "imgUrl" : "https://image.kurier.at/images/original/4880583/46-174015790.jpg",
-      "titleSource" : "Dolly Parton will vorerst keine Statue von sich selbst",
-      "titleTarget" : "Dolly Parton doesn't want a statue of herself for now",
-      "url" : "https://kurier.at/kultur/dolly-parton-will-vorerst-keine-statue-von-sich-selbst/401193649"
+      "id" : "O8vgkXBz",
+      "imgUrl" : "https://image.kurier.at/images/original/4949545/46-174005008.jpg",
+      "titleSource" : "Buchkritik: \"Nur vom Weltraum aus ist die Erde blau\"",
+      "titleTarget" : "Book review: \"The earth is blue only from space\"",
+      "url" : "https://kurier.at/kultur/buch/buchkritik-nur-vom-weltraum-aus-ist-die-erde-blau/401193658"
     }, {
-      "id" : "cG6ZvTHt",
-      "imgUrl" : "https://image.kurier.at/images/original/4948261/20210218-ABD0173-1-1.jpg",
-      "titleSource" : "Renaissance der Parteimedien: Der ÖVP-Klub startet einen Blog",
-      "titleTarget" : "Renaissance of the party media: The ÖVP club starts a blog",
-      "url" : "https://kurier.at/kultur/medien/renaissance-der-parteimedien-der-oevp-klub-startet-einen-blog/401194364"
+      "id" : "YZjbHXyq",
+      "imgUrl" : "https://image.kurier.at/images/original/4949536/46-157030084.jpg",
+      "titleSource" : "Neuer Roman von Yishai Sarid: Wie Soldaten tödlicher werden",
+      "titleTarget" : "New novel by Yishai Sarid: How Soldiers Get Deadly",
+      "url" : "https://kurier.at/kultur/buch/neuer-roman-von-yishai-sarid-wie-soldaten-toedlicher-werden/401193652"
+    }, {
+      "id" : "XCBvZHOK",
+      "imgUrl" : "https://image.kurier.at/images/original/4949539/46-150551127.jpg",
+      "titleSource" : "Buchkritik: Isabel Allende und \"Was wir Frauen wollen\"",
+      "titleTarget" : "Book review: Isabel Allende and \"What we women want\"",
+      "url" : "https://kurier.at/kultur/buch/buchkritik-isabel-allende-und-was-wir-frauen-wollen/401193655"
     }, {
       "id" : "2oSUzxFH",
       "imgUrl" : "https://image.kurier.at/images/original/4951139/46-84933004.jpg",
       "titleSource" : "Neuauflage von \"Sex and the City\" ohne Mr. Big",
       "titleTarget" : "New edition of \"Sex and the City\" without Mr. Big",
       "url" : "https://kurier.at/kultur/medien/neuauflage-von-sex-and-the-city-ohne-mr-big/401194241"
+    }, {
+      "id" : "cG6ZvTHt",
+      "imgUrl" : "https://image.kurier.at/images/original/4948261/20210218-ABD0173-1-1.jpg",
+      "titleSource" : "Renaissance der Parteimedien: Der ÖVP-Klub startet einen Blog",
+      "titleTarget" : "Renaissance of the party media: The ÖVP club starts a blog",
+      "url" : "https://kurier.at/kultur/medien/renaissance-der-parteimedien-der-oevp-klub-startet-einen-blog/401194364"
     }, {
       "id" : "0FNAcO1x",
       "titleSource" : "Gruppe netzzeit: \"Haben nicht mehr um Förderung angesucht\"",
@@ -181,23 +181,11 @@
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "IgzkZeyD",
-      "imgUrl" : "https://image.kurier.at/images/original/3849134/46-150006778.jpg",
-      "titleSource" : "Biontech-Impfstoff wird jetzt an Schwangeren getestet",
-      "titleTarget" : "Biontech vaccine is now being tested on pregnant women",
-      "url" : "https://kurier.at/wissen/gesundheit/biontech-impfstoff-wird-jetzt-an-schwangeren-getestet/401193748"
-    }, {
       "id" : "JQMO82eU",
       "imgUrl" : "https://image.kurier.at/images/original/4951034/46-175885915.jpg",
       "titleSource" : "Biontech-Impfung schon nach erster Dosis hoch wirksam",
       "titleTarget" : "Biontech vaccination highly effective after the first dose",
       "url" : "https://kurier.at/wissen/gesundheit/biontech-impfung-schon-nach-erster-dosis-hoch-wirksam/401194190"
-    }, {
-      "id" : "8WOkJ6r6",
-      "imgUrl" : "https://image.kurier.at/images/original/4950769/46-174345664.jpg",
-      "titleSource" : "Deshalb könnte die \"britische Variante\" ansteckender sein",
-      "titleTarget" : "Therefore, the \"British variant\" could be more contagious",
-      "url" : "https://kurier.at/wissen/gesundheit/deshalb-koennte-die-britische-variante-ansteckender-sein/401193781"
     }, {
       "id" : "TJE2x7B5",
       "imgUrl" : "https://image.kurier.at/images/original/4951199/46-175714600.jpg",
@@ -205,11 +193,17 @@
       "titleTarget" : "Biontech vaccine doesn't need it so cold",
       "url" : "https://kurier.at/wissen/gesundheit/biontech-impfstoff-braucht-es-doch-nicht-so-kalt/401194247"
     }, {
-      "id" : "u18n82bS",
-      "imgUrl" : "https://image.kurier.at/images/original/3318556/46-144260058.jpg",
-      "titleSource" : "Keine Angst vor Corona: Bei Herzproblemen sofort ins Spital",
-      "titleTarget" : "Don't be afraid of Corona: If you have heart problems, go to the hospital immediately",
-      "url" : "https://kurier.at/wissen/gesundheit/keine-angst-vor-corona-bei-herzproblemen-sofort-ins-spital/401193634"
+      "id" : "8WOkJ6r6",
+      "imgUrl" : "https://image.kurier.at/images/original/4950769/46-174345664.jpg",
+      "titleSource" : "Deshalb könnte die \"britische Variante\" ansteckender sein",
+      "titleTarget" : "Therefore, the \"British variant\" could be more contagious",
+      "url" : "https://kurier.at/wissen/gesundheit/deshalb-koennte-die-britische-variante-ansteckender-sein/401193781"
+    }, {
+      "id" : "wy4ZrK4E",
+      "imgUrl" : "https://image.kurier.at/images/original/4952462/46-175896439.jpg",
+      "titleSource" : "Russland gibt im Kampf gegen das Coronavirus dritten Impfstoff frei",
+      "titleTarget" : "Russia releases third vaccine in the fight against coronavirus",
+      "url" : "https://kurier.at/wissen/gesundheit/russland-gibt-im-kampf-gegen-das-coronavirus-dritten-impfstoff-frei/401194784"
     } ]
   }, {
     "category" : "SPORT",
@@ -226,11 +220,17 @@
       "titleTarget" : "With an RTL bronze medal, Schwarz won the ÖSV's 300th World Cup medal",
       "url" : "https://kurier.at/sport/wintersport/ski-wm-bronze-fuer-marco-schwarz-im-riesentorlauf/401193610"
     }, {
-      "id" : "EqXJV3vF",
-      "imgUrl" : "https://image.kurier.at/images/original/4950151/whatsapp_image_2021-02-19_at_10.02.07.jpeg",
-      "titleSource" : "Wie ORF-Kamerafahrer Joachim Puchner zu Sturz kam",
-      "titleTarget" : "How ORF camera driver Joachim Puchner fell",
-      "url" : "https://kurier.at/sport/wintersport/ski-wm-in-cortina-dampezzo-wie-orf-kamerafahrer-joachim-puchner-zu-sturz-kam/401193943"
+      "id" : "ZaLLOKCJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4950709/46-169122468.jpg",
+      "titleSource" : "Der ÖFB fordert von der Regierung endlich Lockerungen",
+      "titleTarget" : "The ÖFB is finally calling for the government to relax",
+      "url" : "https://kurier.at/sport/corona-und-fussball-der-oefb-fordert-von-der-regierung-endlich-lockerungen/401194108"
+    }, {
+      "id" : "nQhA0kIW",
+      "imgUrl" : "https://image.kurier.at/images/original/4951610/46-175897899.jpg",
+      "titleSource" : "Marco Schwarz: \"Ich hätte gefragt, ob er nicht ganz dicht ist\"",
+      "titleTarget" : "Marco Schwarz: \"I would have asked if it wasn't completely sealed\"",
+      "url" : "https://kurier.at/sport/wintersport/marco-schwarz-nach-wm-bronze-im-riesentorlauf-ich-haette-gefragt-ob-er-nicht-ganz-dicht-ist/401194358"
     }, {
       "id" : "1d7T8SC0",
       "imgUrl" : "https://image.kurier.at/images/original/4952270/46-175767728.jpg",
@@ -238,23 +238,17 @@
       "titleTarget" : "11: 3 - The Vienna Capitals celebrate a big victory in Hungary",
       "url" : "https://kurier.at/sport/wintersport/113-die-vienna-capitals-feiern-einen-kantersieg-in-der-eishockey-liga-ice-in-ungarn/401194646"
     }, {
+      "id" : "EqXJV3vF",
+      "imgUrl" : "https://image.kurier.at/images/original/4950151/whatsapp_image_2021-02-19_at_10.02.07.jpeg",
+      "titleSource" : "Wie ORF-Kamerafahrer Joachim Puchner zu Sturz kam",
+      "titleTarget" : "How ORF camera driver Joachim Puchner fell",
+      "url" : "https://kurier.at/sport/wintersport/ski-wm-in-cortina-dampezzo-wie-orf-kamerafahrer-joachim-puchner-zu-sturz-kam/401193943"
+    }, {
       "id" : "uuY8pZNI",
       "imgUrl" : "https://image.kurier.at/images/original/4950259/46-175891203.jpg",
       "titleSource" : "Nach Medwedew-Sieg: Showdown der Seriensieger in Melbourne",
       "titleTarget" : "After Medvedev victory: Showdown of the series winners in Melbourne",
       "url" : "https://kurier.at/sport/tennis/nach-medwedew-sieg-showdown-der-seriensieger-in-melbourne/401194000"
-    }, {
-      "id" : "vFOWMPCd",
-      "imgUrl" : "https://image.kurier.at/images/original/4952237/46-175901951.jpg",
-      "titleSource" : "Österreichs Basketballer verspielen die letzte EM-Chance",
-      "titleTarget" : "Austria's basketball players gamble away the last European Championship chance",
-      "url" : "https://kurier.at/sport/oesterreichs-basketballer-verspielen-die-letzte-em-chance/401194616"
-    }, {
-      "id" : "MVQpP30G",
-      "imgUrl" : "https://image.kurier.at/images/original/4952207/46-172321564.jpg",
-      "titleSource" : "Österreichs Fußballerinnen haben das EM-Ticket praktisch fix",
-      "titleTarget" : "Austria's female soccer players have practically fixed their EM ticket",
-      "url" : "https://kurier.at/sport/fussball/oesterreichs-fussballerinnen-haben-das-em-ticket-praktisch-fix/401194592"
     } ]
   } ],
   "country" : "austria",
