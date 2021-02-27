@@ -14,6 +14,12 @@
       "titleTarget" : "\"We are in the phase of disillusionment,\" say experts",
       "url" : "https://kurier.at/politik/inland/live-hilfsmassnahmen-gegen-die-psychische-belastungen-in-der-pandemie/401200714"
     }, {
+      "id" : "F650QK42",
+      "imgUrl" : "https://image.kurier.at/images/original/4966621/46-176040958.jpg",
+      "titleSource" : "Ab Montag gibt es kostenlose Selbsttests in Apotheken",
+      "titleTarget" : "From Monday there will be free self-tests in pharmacies",
+      "url" : "https://kurier.at/politik/inland/ab-montag-gibt-es-kostenlose-selbsttests-in-apotheken/401201350"
+    }, {
       "id" : "S9cb80M8",
       "imgUrl" : "https://image.kurier.at/images/original/4949740/20210219-ABD0009-1-1.jpg",
       "titleSource" : "Kanzler Kurz sprach mit Putin über Sputnik V",
@@ -26,27 +32,27 @@
       "titleTarget" : "Christian Pilnacek: The path from a powerful official to a suspension",
       "url" : "https://kurier.at/politik/inland/christian-pilnacek-der-weg-vom-maechtigen-beamten-zur-suspendierung/401201155"
     }, {
-      "id" : "F650QK42",
-      "imgUrl" : "https://image.kurier.at/images/original/4966621/46-176040958.jpg",
-      "titleSource" : "Ab Montag gibt es kostenlose Selbsttests in Apotheken",
-      "titleTarget" : "From Monday there will be free self-tests in pharmacies",
-      "url" : "https://kurier.at/politik/inland/ab-montag-gibt-es-kostenlose-selbsttests-in-apotheken/401201350"
-    }, {
       "id" : "SnF9xSoH",
       "imgUrl" : "https://image.kurier.at/images/original/4967287/46-176042015.jpg",
       "titleSource" : "Ermittlungen: Pilnacek suspendiert, Brandstetter bleibt im Amt",
       "titleTarget" : "Investigations: Pilnacek suspended, Brandstetter remains in office",
       "url" : "https://kurier.at/politik/inland/vfgh-gibt-am-nachmittag-statement-zu-brandstetter-ab/401201302"
     }, {
-      "id" : "0d60ch9t",
-      "imgUrl" : "https://image.kurier.at/images/original/4911649/20210202-ABD0017-1-1.jpg",
-      "titleSource" : "Uni-Sommersemester wird Mix aus Distanz- und Hybrid-Lehre",
-      "titleTarget" : "The university summer semester is a mix of distance and hybrid teaching",
-      "url" : "https://kurier.at/politik/inland/uni-sommersemester-wird-mix-aus-distanz-und-hybrid-lehre/401200828"
+      "id" : "EMdocx83",
+      "imgUrl" : "https://image.kurier.at/images/original/4961800/20210224-ABD0124-1-1.jpg",
+      "titleSource" : "Keine große Lockerung wegen Infektionszahlen in Sicht",
+      "titleTarget" : "No major easing due to the number of infections in sight",
+      "url" : "https://kurier.at/politik/inland/keine-grosse-lockerung-wegen-infektionszahlen-in-sicht/401201461"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "8pWHTG29",
+      "imgUrl" : "https://image.kurier.at/images/original/4966600/46-111544743.jpg",
+      "titleSource" : "Corona beschert Schweiz größten Wirtschaftsabsturz seit 45 Jahren",
+      "titleTarget" : "Corona brings Switzerland's biggest economic crash in 45 years",
+      "url" : "https://kurier.at/wirtschaft/corona-beschert-schweiz-groessten-wirtschaftsabsturz-seit-45-jahren/401201347"
+    }, {
       "id" : "RCnsQdOd",
       "imgUrl" : "https://image.kurier.at/images/original/4966306/46-176041579.jpg",
       "titleSource" : "Magenta-Chef: \"Haben Handytarife gar nicht erhöht\"",
@@ -59,35 +65,29 @@
       "titleTarget" : "Ex-Wirecard boss Braun remains in custody",
       "url" : "https://kurier.at/wirtschaft/ex-wirecard-chef-braun-bleibt-in-untersuchungshaft/401200813"
     }, {
-      "id" : "8pWHTG29",
-      "imgUrl" : "https://image.kurier.at/images/original/4966600/46-111544743.jpg",
-      "titleSource" : "Corona beschert Schweiz größten Wirtschaftsabsturz seit 45 Jahren",
-      "titleTarget" : "Corona brings Switzerland's biggest economic crash in 45 years",
-      "url" : "https://kurier.at/wirtschaft/corona-beschert-schweiz-groessten-wirtschaftsabsturz-seit-45-jahren/401201347"
+      "id" : "VNVxshvb",
+      "imgUrl" : "https://image.kurier.at/images/original/4649018/78350011456577522_BLD_Online.jpg",
+      "titleSource" : "Datenschutz-Skandal: Tiktok muss in USA 92 Millionen Dollar zahlen",
+      "titleTarget" : "Data protection scandal: Tiktok has to pay 92 million dollars in the USA",
+      "url" : "https://kurier.at/wirtschaft/datenschutz-skandal-tiktok-muss-in-usa-92-millionen-dollar-zahlen/401201971"
     }, {
-      "id" : "4N8V1nNZ",
-      "imgUrl" : "https://image.kurier.at/images/original/3467851/78370011348389632_BLD_Online.jpg",
-      "titleSource" : "Airbnb kommt trotz Mega-Verlust besser als erwartet durch die Krise",
-      "titleTarget" : "Despite the mega loss, Airbnb is getting through the crisis better than expected",
-      "url" : "https://kurier.at/wirtschaft/airbnb-kommt-trotz-mega-verlust-besser-als-erwartet-durch-die-krise/401200603"
+      "id" : "9Qr5ad8F",
+      "imgUrl" : "https://image.kurier.at/images/original/4406885/11137650.jpg",
+      "titleSource" : "United Airlines zahlt fast 50 Millionen Dollar wegen Betrugsvorwürfen",
+      "titleTarget" : "United Airlines pays nearly $ 50 million on fraud allegations",
+      "url" : "https://kurier.at/wirtschaft/united-airlines-zahlt-fast-50-millionen-dollar-wegen-betrugsvorwuerfen/401201935"
+    }, {
+      "id" : "tPGDzQUF",
+      "imgUrl" : "https://image.kurier.at/images/original/2864249/78470026144878014_BLD_Online.jpg",
+      "titleSource" : "Starwood erhöht Angebot für CA Immo von 34,44 auf 36 Euro/Aktie",
+      "titleTarget" : "Starwood increases offer for CA Immo from 34.44 to 36 euros per share",
+      "url" : "https://kurier.at/wirtschaft/starwood-erhoeht-angebot-fuer-ca-immo-von-3444-auf-36-euroaktie/401201827"
     }, {
       "id" : "RR8V6YNN",
       "imgUrl" : "https://image.kurier.at/images/original/4933648/78350011458870406_BLD_Online.jpg",
       "titleSource" : "Beitrags-Stundungen: „Pleitewelle wird nur hinausgezögert“",
       "titleTarget" : "Contribution deferrals: \"Bankruptcy wave is only being delayed\"",
       "url" : "https://kurier.at/wirtschaft/beitrags-stundungen-pleitewelle-wird-nur-hinausgezoegert/401201626"
-    }, {
-      "id" : "lmTEkM9n",
-      "imgUrl" : "https://image.kurier.at/images/original/4933648/78350011458870406_BLD_Online.jpg",
-      "titleSource" : "Beitrags-Stundungen: „Pleitewelle wird nur hinaus gezögert“",
-      "titleTarget" : "Contribution deferrals: \"Bankruptcy wave is only being delayed\"",
-      "url" : "https://kurier.at/wirtschaft/beitrags-stundungen-pleitewelle-wird-nur-hinaus-gezoegert/401201626"
-    }, {
-      "id" : "aKu6NTdb",
-      "imgUrl" : "https://image.kurier.at/images/original/4967092/46-46721317.jpg",
-      "titleSource" : "Hohe Risikovorsorgen ließen Volksbanken-Gewinn einbrechen",
-      "titleTarget" : "High risk provisions caused Volksbank earnings to collapse",
-      "url" : "https://kurier.at/wirtschaft/hohe-risikovorsorgen-liessen-volksbanken-gewinn-einbrechen/401201602"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -110,50 +110,62 @@
       "titleTarget" : "Numbers still high: 2,093 new infections in Austria",
       "url" : "https://kurier.at/chronik/oesterreich/wieder-mehr-als-2000-neuinfektionen-in-oesterreich/401200822"
     }, {
-      "id" : "Q0WwA8Ni",
-      "imgUrl" : "https://image.kurier.at/images/original/4965565/46-175971942.jpg",
-      "titleSource" : "Südafrika-Variante in Vorarlberg und OÖ bestätigt",
-      "titleTarget" : "South Africa variant confirmed in Vorarlberg and Upper Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/suedafrika-variante-in-vorarlberg-und-ooe-bestaetigt/401200636"
-    }, {
       "id" : "ctgOoLlU",
       "imgUrl" : "https://image.kurier.at/images/original/4965568/46-173961913.jpg",
       "titleSource" : "Polizei in den Startlöchern für Corona-Impfung",
       "titleTarget" : "Police in the starting blocks for corona vaccination",
       "url" : "https://kurier.at/chronik/oesterreich/polizei-in-den-startloechern-fuer-corona-impfung/401200642"
     }, {
-      "id" : "P7Qebm0o",
-      "imgUrl" : "https://image.kurier.at/images/original/4953080/46-175740870.jpg",
-      "titleSource" : "Erste Fälle der Südafrika-Mutation in OÖ bestätigt",
-      "titleTarget" : "First cases of South Africa mutation confirmed in Upper Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/erste-faelle-der-suedafrika-mutation-in-ooe-bestaetigt/401200552"
+      "id" : "Q0WwA8Ni",
+      "imgUrl" : "https://image.kurier.at/images/original/4965565/46-175971942.jpg",
+      "titleSource" : "Südafrika-Variante in Vorarlberg und OÖ bestätigt",
+      "titleTarget" : "South Africa variant confirmed in Vorarlberg and Upper Austria",
+      "url" : "https://kurier.at/chronik/oesterreich/suedafrika-variante-in-vorarlberg-und-ooe-bestaetigt/401200636"
     }, {
       "id" : "MuDpCOzD",
-      "imgUrl" : "https://image.kurier.at/images/original/4967254/46-175990395.jpg",
-      "titleSource" : "Keine großen Lockerungen wegen Infektionszahlen in Sicht + 2.093 neue Fälle",
+      "imgUrl" : "https://image.kurier.at/images/original/4967797/46-176049072.jpg",
+      "titleSource" : "Drei-Stufen-Plan für den Sport + Keine großen Lockerungen in Sicht",
       "titleTarget" : "Vienna starts vaccination of teachers and kindergarten teachers + 2,093 new infections in Austria",
       "url" : "https://kurier.at/chronik/oesterreich/corona-sommer-warnung-vor-zu-viel-hoffnung-suedafrika-variante-in-ooe-und-vbg/401200630"
+    }, {
+      "id" : "EmpoA64C",
+      "imgUrl" : "https://image.kurier.at/images/original/4812405/46-168228611.jpg",
+      "titleSource" : "CoV-Ampel: Ein Bundesland orange, Problemzone Osten",
+      "titleTarget" : "CoV traffic light: One state orange, problem area east",
+      "url" : "https://kurier.at/chronik/oesterreich/cov-ampel-ein-bundesland-orange-problemzone-osten/401200651"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "SMUzmVof",
+      "imgUrl" : "https://image.kurier.at/images/original/4967860/46-176050475.jpg",
+      "titleSource" : "Auftakt für \"Starmania 21\" mit Tempo und ersten Emotionen",
+      "titleTarget" : "Start for \"Starmania 21\" with speed and first emotions",
+      "url" : "https://kurier.at/kultur/medien/auftakt-fuer-starmania-21-mit-tempo-und-ersten-emotionen/401201956"
+    }, {
       "id" : "eszvB2lS",
       "imgUrl" : "https://image.kurier.at/images/original/4963150/46-174008149.jpg",
       "titleSource" : "Benedict Wells' neuer Roman: Ein fröhlicher Tanz mit Tränen",
       "titleTarget" : "Benedict Wells' new novel: A happy dance with tears",
       "url" : "https://kurier.at/kultur/buch/benedict-wells-neuer-roman-ein-froehlicher-tanz-mit-traenen/401199499"
     }, {
-      "id" : "qTkB7wob",
-      "imgUrl" : "https://image.kurier.at/images/original/4838037/46-173719707.jpg",
-      "titleSource" : "Herbert Föttinger: \"Die Menschen schreien nach Theater!\"",
-      "titleTarget" : "Herbert Föttinger: \"People are screaming for theater!\"",
-      "url" : "https://kurier.at/kultur/herbert-foettinger-die-menschen-schreien-nach-theater/401200576"
-    }, {
       "id" : "XDkUi2O5",
       "imgUrl" : "https://image.kurier.at/images/original/4965760/46-173345921.jpg",
       "titleSource" : "Helene-Fischer-Konzert in Bad Hofgastein auf 2022 verschoben",
       "titleTarget" : "Helene Fischer concert in Bad Hofgastein postponed to 2022",
       "url" : "https://kurier.at/kultur/helene-fischer-konzert-in-bad-hofgastein-auf-2022-verschoben/401200795"
+    }, {
+      "id" : "ELID6qb7",
+      "imgUrl" : "https://image.kurier.at/images/original/4152372/46-156939173.jpg",
+      "titleSource" : "Justin Bieber gibt Details zu neuem Album bekannt",
+      "titleTarget" : "Justin Bieber announces details on new album",
+      "url" : "https://kurier.at/kultur/justin-bieber-gibt-details-zu-neuem-album-bekannt/401201896"
+    }, {
+      "id" : "X6PR5TdG",
+      "imgUrl" : "https://image.kurier.at/images/original/4903243/46-174056602.jpg",
+      "titleSource" : "„Der Supermarkt ist gefährlicher als das Theater“",
+      "titleTarget" : "\"The supermarket is more dangerous than the theater\"",
+      "url" : "https://kurier.at/kultur/der-supermarkt-ist-gefaehrlicher-als-das-theater/401201851"
     }, {
       "id" : "NOzk5hz8",
       "imgUrl" : "https://image.kurier.at/images/original/4967251/46-168841933.jpg",
@@ -166,18 +178,6 @@
       "titleSource" : "Rassismusvorwürfe: Moderator erntet nach Aussage über Boyband BTS Shitstorm",
       "titleTarget" : "Accusations of racism: Moderator reaps Shitstorm after testifying about boy band BTS",
       "url" : "https://kurier.at/kultur/medien/rassismusvorwuerfe-bayern-3-moderator-erntet-shitstorm-von-bts-fans/401201644"
-    }, {
-      "id" : "Ok3k8La4",
-      "imgUrl" : "https://image.kurier.at/images/original/2628341/46-94655079.jpg",
-      "titleSource" : "Oliver Pocher tritt in neuer RTL-Show gegen Influencer an",
-      "titleTarget" : "Oliver Pocher competes against influencers in a new RTL show",
-      "url" : "https://kurier.at/kultur/medien/oliver-pocher-tritt-in-neuer-rtl-show-gegen-influencer-an/401201572"
-    }, {
-      "id" : "X6PR5TdG",
-      "imgUrl" : "https://image.kurier.at/images/original/4903243/46-174056602.jpg",
-      "titleSource" : "„Der Supermarkt ist gefährlicher als das Theater“",
-      "titleTarget" : "\"The supermarket is more dangerous than the theater\"",
-      "url" : "https://kurier.at/kultur/der-supermarkt-ist-gefaehrlicher-als-das-theater/401201851"
     } ]
   }, {
     "category" : "HEALTH",
@@ -188,17 +188,23 @@
       "titleTarget" : "Just one dose of vaccine significantly reduces the risk of infection",
       "url" : "https://kurier.at/wissen/gesundheit/bereits-eine-impfstoffdosis-senkt-ansteckungsrisiko-deutlich/401201149"
     }, {
+      "id" : "HErRgTvl",
+      "imgUrl" : "https://image.kurier.at/images/original/4951799/46-175773846.jpg",
+      "titleSource" : "60 Prozent aller Infektionen durch britische Virusvariante",
+      "titleTarget" : "60 percent of all infections from British virus variants",
+      "url" : "https://kurier.at/wissen/gesundheit/60-prozent-aller-infektionen-durch-britische-virusvariante/401201320"
+    }, {
       "id" : "LqWRnEEF",
       "imgUrl" : "https://image.kurier.at/images/original/4965883/46-173785092.jpg",
       "titleSource" : "So hat sich die Pandemie auf die Todes-Statistik ausgewirkt",
       "titleTarget" : "This is how the pandemic affected death statistics",
       "url" : "https://kurier.at/wissen/gesundheit/so-hat-sich-die-pandemie-auf-die-todes-statistik-ausgewirkt/401200864"
     }, {
-      "id" : "HErRgTvl",
-      "imgUrl" : "https://image.kurier.at/images/original/4951799/46-175773846.jpg",
-      "titleSource" : "60 Prozent aller Infektionen durch britische Virusvariante",
-      "titleTarget" : "60 percent of all infections from British virus variants",
-      "url" : "https://kurier.at/wissen/gesundheit/60-prozent-aller-infektionen-durch-britische-virusvariante/401201320"
+      "id" : "sLGsVBO2",
+      "imgUrl" : "https://image.kurier.at/images/original/4966756/46-169180149.jpg",
+      "titleSource" : "EU-Arzneimittelbehörde genehmigt Antikörpertherapie",
+      "titleTarget" : "EU Medicines Agency approves antibody therapy",
+      "url" : "https://kurier.at/wissen/gesundheit/eu-arzneimittelbehoerde-genehmigt-antikoerpertherapie/401201440"
     }, {
       "id" : "TXs1o9WC",
       "imgUrl" : "https://image.kurier.at/images/original/4966345/46-176021027.jpg",
@@ -211,21 +217,21 @@
       "titleSource" : "2020 ist die Zahl der Suizide nicht gestiegen",
       "titleTarget" : "In 2020 the number of suicides did not increase",
       "url" : "https://kurier.at/wissen/gesundheit/2020-ist-die-zahl-der-suizide-nicht-gestiegen/401200972"
-    }, {
-      "id" : "sLGsVBO2",
-      "imgUrl" : "https://image.kurier.at/images/original/4966756/46-169180149.jpg",
-      "titleSource" : "EU-Arzneimittelbehörde genehmigt Antikörpertherapie",
-      "titleTarget" : "EU Medicines Agency approves antibody therapy",
-      "url" : "https://kurier.at/wissen/gesundheit/eu-arzneimittelbehoerde-genehmigt-antikoerpertherapie/401201440"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "X8MY6yJw",
-      "imgUrl" : "https://image.kurier.at/images/original/4965460/46-176028697.jpg",
-      "titleSource" : "1:2 in Villarreal: Salzburg scheitert in der Europa League",
-      "titleTarget" : "1: 2 in Villarreal: Salzburg fails in the Europa League",
-      "url" : "https://kurier.at/sport/fussball/12-niederlage-in-villarreal-salzburg-scheitert-im-sechzehntelfinale-der-europa-league/401200222"
+      "id" : "qfg6e0CS",
+      "imgUrl" : "https://image.kurier.at/images/original/4967629/46-176051016.jpg",
+      "titleSource" : "Königinnen der Lüfte: WM-Gold für die ÖSV-Skispringerinnen",
+      "titleTarget" : "Queens of the air: World Cup gold for the Austrian ski jumpers",
+      "url" : "https://kurier.at/sport/wintersport/koeniginnen-der-luefte-wm-gold-fuer-die-oesv-skispringerinnen/401201848"
+    }, {
+      "id" : "eLY2UI7M",
+      "imgUrl" : "https://image.kurier.at/images/original/4967797/46-176049072.jpg",
+      "titleSource" : "Drei-Stufen-Plan für die Öffnung des Sports",
+      "titleTarget" : "Three-step plan for opening up the sport",
+      "url" : "https://kurier.at/sport/dreistufen-plan-fuer-die-oeffnung-des-sports/401201905"
     }, {
       "id" : "qDEuiqaR",
       "imgUrl" : "https://image.kurier.at/images/original/4963879/46-173869131.jpg",
@@ -233,35 +239,29 @@
       "titleTarget" : "Philipp Aschenwald: \"Fortunately, you don't think too much\"",
       "url" : "https://kurier.at/sport/wintersport/oesv-skispringer-philipp-aschenwald-vor-dem-wm-auftritt-viel-denken-tut-man-da-zum-glueck-nicht/401199889"
     }, {
+      "id" : "P1ckW6ar",
+      "imgUrl" : "https://image.kurier.at/images/original/4966363/46-176027371.jpg",
+      "titleSource" : "ÖSV-Wut über Skisprung-Jury: \"Sollten nie mehr da oben stehen\"",
+      "titleTarget" : "ÖSV anger over ski jumping jury: \"Should never be up there again\"",
+      "url" : "https://kurier.at/sport/wintersport/oesv-wut-ueber-skisprung-jury-nach-wm-auftakt-uebertreiben-es-mit-luken-schieberei/401201191"
+    }, {
       "id" : "Sm1Mkry1",
       "imgUrl" : "https://image.kurier.at/images/original/4966219/46-146563767.jpg",
       "titleSource" : "Teamchef-Assistent Szabics verlässt ÖFB und wird Trainer in Ungarn",
       "titleTarget" : "Team boss assistant Szabics leaves ÖFB and becomes a trainer in Hungary",
       "url" : "https://kurier.at/sport/fussball/teamchef-assistent-szabics-verlaesst-oefb-und-wird-trainer-in-ungarn/401201104"
     }, {
-      "id" : "GRUNCqlb",
-      "imgUrl" : "https://image.kurier.at/images/original/4965541/46-176032605.jpg",
-      "titleSource" : "Wegen sexuellen Missbrauchs beschuldigter Ex-US-Coach Geddert ist tot",
-      "titleTarget" : "Ex-US coach Geddert, accused of sexual abuse, is dead",
-      "url" : "https://kurier.at/sport/wegen-sexuellen-missbrauchs-beschuldigter-ex-us-coach-geddert-ist-tot/401200609"
+      "id" : "BONgIurp",
+      "imgUrl" : "https://image.kurier.at/images/original/4965769/46-175981001.jpg",
+      "titleSource" : "Nach Horror-Unfall: Golf-Star Woods in anderes Krankenhaus verlegt",
+      "titleTarget" : "After a horror accident: Golf star Woods moved to another hospital",
+      "url" : "https://kurier.at/sport/nach-horror-unfall-golf-star-tiger-woods-in-anderes-krankenhaus-verlegt/401200789"
     }, {
-      "id" : "ka1GwdWs",
-      "imgUrl" : "https://image.kurier.at/images/original/4967188/46-174276269.jpg",
-      "titleSource" : "Handball-Nationaltormann nach Herzinfarkt verstorben",
-      "titleTarget" : "Handball national goalie dies after a heart attack",
-      "url" : "https://kurier.at/sport/handball-nationaltormann-alfredo-quintana-nach-herzinfarkt-verstorben/401201728"
-    }, {
-      "id" : "LfoUiSB0",
-      "imgUrl" : "https://image.kurier.at/images/original/4967233/46-176048489.jpg",
-      "titleSource" : "Riiber holt Kombinations-Gold, ÖSV-Jungstar Lamparter Siebenter",
-      "titleTarget" : "Riiber brings combined gold, ÖSV young star Lamparter seventh",
-      "url" : "https://kurier.at/sport/wintersport/nordische-wm-riiber-holt-kombinations-gold-oesv-jungstar-lamparter-siebenter/401201080"
-    }, {
-      "id" : "sLM4aPRo",
-      "imgUrl" : "https://image.kurier.at/images/original/4966834/46-167768928.jpg",
-      "titleSource" : "Die Formel 1 plant weiter mit Fans bei vielen Rennen",
-      "titleTarget" : "Formula 1 continues to plan with fans at many races",
-      "url" : "https://kurier.at/sport/motorsport/die-formel-1-plant-weiter-mit-fans-bei-vielen-rennen/401201482"
+      "id" : "dHbSOd3Q",
+      "imgUrl" : "https://image.kurier.at/images/original/4967863/46-176055964.jpg",
+      "titleSource" : "Der Siegeslauf der Frankfurter endete in Bremen",
+      "titleTarget" : "The winning run of Frankfurt ended in Bremen",
+      "url" : "https://kurier.at/sport/fussball/der-siegeslauf-der-frankfurter-endete-in-bremen/401201959"
     } ]
   } ],
   "country" : "austria",
