@@ -2,55 +2,45 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 2564,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 385,
-      "id" : "RMjEABoJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4619018/46-163458276.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Ein Jahr Corona: \"Wir sind nicht besser, sondern viel besser geworden\"",
-      "titleTarget" : "One year of Corona: \"We are not better, we have become much better\"",
-      "url" : "https://kurier.at/politik/inland/ein-jahr-corona-wir-sind-nicht-besser-sondern-viel-besser-geworden/401215902"
-    }, {
-      "articleLength" : 5233,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 674,
-      "id" : "euKiOwln",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/f/4/5950196/CORONA-UPDATE-ZUR-IMPFSTOFFPRODUKTION-IN-STERREICH--KURZ_1615542114139324_v0_h.jpg",
+      "articleLength" : 3106,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 403,
+      "id" : "1FU2SI39",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/a/c/5950380/bvt_1615553522012794_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Jetzt live: Kanzler Kurz informiert über Impfstofflieferungen",
-      "titleTarget" : "Now live: Chancellor Kurz informs about vaccine deliveries",
-      "url" : "https://www.diepresse.com/5950196/Corona_Live-ab-11_30-Uhr_Kanzler-Kurz-informiert-ueber?from=rss"
+      "titleSource" : "BVT: Mehr Kontrolle und Politik-Verbot für hochrangige Beamte geplant",
+      "titleTarget" : "BAT: Planned more controls and a ban on politics for high-ranking officials",
+      "url" : "https://www.diepresse.com/5950380/Reform-in-der-Endphase_BVT_Mehr-Kontrolle-und-PolitikVerbot-fuer?from=rss"
     }, {
-      "articleLength" : 3345,
+      "articleLength" : 871,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 118,
+      "id" : "EoU05zlF",
+      "imgUrl" : "https://image.kurier.at/images/original/4997442/46-144082866.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Grüner Pass\": Nachweis zu Impfung, Genesung oder Test via eCard",
+      "titleTarget" : "\"Green Pass\": proof of vaccination, recovery or test via eCard",
+      "url" : "https://kurier.at/politik/inland/gruener-pass-nachweis-zu-impfung-genesung-oder-test-via-ecard/401216832"
+    }, {
+      "articleLength" : 2902,
       "articlePartsSize" : 14,
-      "articleWordCount" : 468,
-      "id" : "plCWSxE0",
-      "imgUrl" : "https://image.kurier.at/images/original/4995411/46-176324457.jpg",
+      "articleWordCount" : 459,
+      "id" : "xnCyzxES",
+      "imgUrl" : "https://image.kurier.at/images/original/4857102/78350011458274410_BLD_Online.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Warum Astra Zeneca weiter verimpft wird",
-      "titleTarget" : "Why Astra Zeneca continues to be vaccinated",
-      "url" : "https://kurier.at/politik/inland/warum-astra-zeneca-weiter-verimpft-wird/401215884"
+      "titleSource" : "Acht von zehn Kindern geht es schlechter als vor Pandemie",
+      "titleTarget" : "Eight out of ten children are worse off than before the pandemic",
+      "url" : "https://kurier.at/politik/inland/acht-von-zehn-kindern-geht-es-schlechter-als-vor-pandemie/401216268"
     }, {
-      "articleLength" : 5233,
+      "articleLength" : 5617,
       "articlePartsSize" : 24,
-      "articleWordCount" : 674,
-      "id" : "T1p3RyTX",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/f/4/5950196/Berlin-opens-its-6th-COVID-19-vaccination-centre-in-former-Tempelhof-airport_1615556986378635.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "\"Basar\" für Impfstoffe? Kurz ortet ungleiche Verteilung in der EU",
-      "titleTarget" : "\"Bazaar\" for vaccines? Kurz locates unequal distribution in the EU",
-      "url" : "https://www.diepresse.com/5950196/Corona_Basar-fuer-Impfstoffe-Kurz-ortet-ungleiche-Verteilung-in-der-EU?from=rss"
-    }, {
-      "articleLength" : 5233,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 674,
-      "id" : "vACVxxWr",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/f/4/5950196/CORONA-UPDATE-ZUR-IMPFSTOFFPRODUKTION-IN-STERREICH--KURZ_1615542114139324_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Kurz: Impflieferungen der EU erfolgen nicht nach Bevölkerungsschlüssel",
-      "titleTarget" : "In short: EU vaccinations are not made according to the population key",
-      "url" : "https://www.diepresse.com/5950196/Corona_Kurz_Impflieferungen-der-EU-erfolgen-nicht-nach?from=rss"
+      "articleWordCount" : 763,
+      "id" : "jNeR7QY5",
+      "imgUrl" : "https://image.kurier.at/images/original/4996854/46-176344727.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kurz: \"EU-Lieferungen erfolgen nicht nach Bevölkerungsschlüssel\"",
+      "titleTarget" : "In short: \"EU deliveries are not made according to the population key\"",
+      "url" : "https://kurier.at/politik/inland/live-bundeskanzler-ueber-impfstofflieferungen-aus-der-eu/401216244"
     }, {
       "articleLength" : 8088,
       "articlePartsSize" : 37,
@@ -61,18 +51,38 @@
       "titleTarget" : "How lockdowns steal the life force of the elderly",
       "url" : "https://www.derstandard.at/story/2000124979537/wie-lockdowns-aelteren-menschen-die-lebenskraft-rauben?ref=rss"
     }, {
-      "articleLength" : 3960,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 558,
-      "id" : "t9kgcDrl",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Mündliche Matura heuer wieder freiwillig",
-      "titleTarget" : "Oral Matura again voluntary this year",
-      "url" : "https://www.derstandard.at/story/2000124988148/muendliche-matura-heuer-wieder-freiwillig?ref=rss"
+      "articleLength" : 327,
+      "articlePartsSize" : 1,
+      "articleWordCount" : 44,
+      "id" : "tKBbw8Tq",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Niederösterreich: Landesrat Eichtinger positiv auf Coronavirus getestet",
+      "titleTarget" : "Lower Austria: Provincial Councilor Eichtinger tested positive for corona virus",
+      "url" : "https://www.diepresse.com/5950162/OeVP_Niederoesterreich_Landesrat-Eichtinger-positiv-auf?from=rss"
+    }, {
+      "articleLength" : 1631,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 213,
+      "id" : "gv8QfF4w",
+      "imgUrl" : "https://image.kurier.at/images/original/4995612/46-176271819.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Gekommen, um zu bleiben: Arbeiten im Homeoffice",
+      "titleTarget" : "Here to stay: working from home",
+      "url" : "https://kurier.at/politik/inland/gekommen-um-zu-bleiben-arbeiten-im-homeoffice/401215722"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "articleLength" : 3559,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 553,
+      "id" : "8BbdSPIB",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/c/0/c/5950476/694ECE9E-D827-46F3-807F-C9A5AAE8D1AE_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Post: Bank99 in drei Jahren profitabel",
+      "titleTarget" : "Post: Bank99 will be profitable in three years",
+      "url" : "https://www.diepresse.com/5950476/Bilanz_Post_Bank99-in-drei-Jahren-profitabel?from=rss"
+    }, {
       "articleLength" : 1393,
       "articlePartsSize" : 6,
       "articleWordCount" : 176,
@@ -82,6 +92,15 @@
       "titleSource" : "Mitarbeiter-Daten: Neos wollen Novomatic-Antrag zurückziehen",
       "titleTarget" : "Employee data: Neos want to withdraw Novomatic application",
       "url" : "https://kurier.at/wirtschaft/mitarbeiter-daten-neos-wollen-novomatic-antrag-zurueckziehen/401216559"
+    }, {
+      "articleLength" : 5094,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 715,
+      "id" : "EAvkrp0G",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Netz an Scheinfirmen bei Hygiene Austria hält Ermittler auf Trab",
+      "titleTarget" : "The network of front companies at Hygiene Austria keeps investigators busy",
+      "url" : "https://www.derstandard.at/story/2000124972717/netz-an-scheinfirmen-bei-hygiene-austria-haelt-ermittler-auf-trab?ref=rss"
     }, {
       "articleLength" : 1267,
       "articlePartsSize" : 6,
@@ -93,57 +112,28 @@
       "titleTarget" : "New catering at Austrian: Only water and chocolate coins for free",
       "url" : "https://kurier.at/wirtschaft/neues-catering-bei-austrian-nur-noch-wasser-und-schokotaler-gratis/401216445"
     }, {
-      "articleLength" : 3559,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 553,
-      "id" : "8BbdSPIB",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/c/0/c/5950476/694ECE9E-D827-46F3-807F-C9A5AAE8D1AE_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Post: Bank99 in drei Jahren profitabel",
-      "titleTarget" : "Post: Bank99 will be profitable in three years",
-      "url" : "https://www.diepresse.com/5950476/Bilanz_Post_Bank99-in-drei-Jahren-profitabel?from=rss"
-    }, {
-      "articleLength" : 2342,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 333,
-      "id" : "UfHmrpDm",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/a/7/7/5950071/Coupang_Reuters_1615498913212951.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Onlinehändler Coupang legt den größten US-Börsengang des Jahres hin",
-      "titleTarget" : "Online retailer Coupang launches the largest US IPO of the year",
-      "url" : "https://www.diepresse.com/5950071/IPO_Onlinehaendler-Coupang-legt-den-groessten-USBoersengang-des?from=rss"
-    }, {
-      "articleLength" : 5094,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 715,
-      "id" : "EAvkrp0G",
+      "articleLength" : 2597,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 358,
+      "id" : "vFuomfqb",
       "publisher" : "derstandard.at",
-      "titleSource" : "Netz an Scheinfirmen bei Hygiene Austria hält Ermittler auf Trab",
-      "titleTarget" : "The network of front companies at Hygiene Austria keeps investigators busy",
-      "url" : "https://www.derstandard.at/story/2000124972717/netz-an-scheinfirmen-bei-hygiene-austria-haelt-ermittler-auf-trab?ref=rss"
+      "titleSource" : "Neue Stadtbahn für Linz fixiert",
+      "titleTarget" : "New light rail fixed for Linz",
+      "url" : "https://www.derstandard.at/story/2000124986079/neue-stadtbahn-fuer-linz-fixiert?ref=rss"
     }, {
-      "articleLength" : 3259,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 435,
-      "id" : "Zet7gB0F",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Zwist um Verbannung von Verbrennungsmotoren",
-      "titleTarget" : "Dispute over the ban on internal combustion engines",
-      "url" : "https://www.derstandard.at/story/2000124976221/zwist-um-verbannung-von-verbrennungsmotoren?ref=rss"
+      "articleLength" : 2921,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 402,
+      "id" : "8Lf4vhnG",
+      "imgUrl" : "https://image.kurier.at/images/original/4615694/46-167193183.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Wirecard: Verschärfte Haftung wäre für Wirtschaftsprüfer \"Desaster\"",
+      "titleTarget" : "Wirecard: Stricter liability would be a \"disaster\" for auditors",
+      "url" : "https://kurier.at/wirtschaft/wirecard-verschaerfte-haftung-nennen-wirtschaftspruefer-desaster/401216805"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 2544,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 372,
-      "id" : "yvlgOcev",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/6/d/5950317/8F380553-4889-498F-B841-0E241B92B7EA_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Neuinfektionen erstmals seit Jänner über 3000 - Spitalszahlen steigen",
-      "titleTarget" : "New infections over 3000 for the first time since January - hospital numbers are increasing",
-      "url" : "https://www.diepresse.com/5950317/Oesterreich_Neuinfektionen-erstmals-seit-Jaenner-ueber-3000-?from=rss"
-    }, {
       "articleLength" : 3098,
       "articlePartsSize" : 13,
       "articleWordCount" : 426,
@@ -154,15 +144,15 @@
       "titleTarget" : "For the first time in three months, over 3,000 new infections in Austria",
       "url" : "https://kurier.at/chronik/oesterreich/erstmals-seit-drei-monaten-wieder-ueber-3000-neuinfektionen-in-oesterreich/401216043"
     }, {
-      "articleLength" : 4352,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 606,
-      "id" : "H9TU48zK",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/6/4/5950052/01A48862-F15F-41B7-987A-4F56862B437A_v0_h.jpg",
+      "articleLength" : 2544,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 372,
+      "id" : "yvlgOcev",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/6/d/5950317/8F380553-4889-498F-B841-0E241B92B7EA_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Ampel-Kommission erwartet weiteren starken Infektionsanstieg",
-      "titleTarget" : "Traffic light commission expects a further strong increase in infections",
-      "url" : "https://www.diepresse.com/5950052/Coronavirus_AmpelKommission-erwartet-weiteren-starken?from=rss"
+      "titleSource" : "Neuinfektionen erstmals seit Jänner über 3000 - Spitalszahlen steigen",
+      "titleTarget" : "New infections over 3000 for the first time since January - hospital numbers are increasing",
+      "url" : "https://www.diepresse.com/5950317/Oesterreich_Neuinfektionen-erstmals-seit-Jaenner-ueber-3000-?from=rss"
     }, {
       "articleLength" : 1266,
       "articlePartsSize" : 5,
@@ -172,15 +162,6 @@
       "titleSource" : "Wiener Donaukanal erhält neue mobile WC-Anlagen",
       "titleTarget" : "Vienna Danube Canal receives new mobile toilet facilities",
       "url" : "https://www.derstandard.at/story/2000124996358/aufstellung-neuer-mobiler-wc-anlagen-amwiener-donaukanal-vereinbart?ref=rss"
-    }, {
-      "articleLength" : 4845,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 644,
-      "id" : "6UyT5OA4",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Ex-FPÖ-Mandatar Schellenbacher gesteht Betrug und Krida",
-      "titleTarget" : "Ex-FPÖ mandate Schellenbacher admits fraud and Krida",
-      "url" : "https://www.derstandard.at/story/2000124983364/betrugsprozess-gegen-ex-fpoe-mandatar-schellenbacher-startet?ref=rss"
     }, {
       "articleLength" : 2208,
       "articlePartsSize" : 10,
@@ -200,6 +181,26 @@
       "titleSource" : "Corona-Demos: Polizei geht von ruhigem Wochenende aus",
       "titleTarget" : "Corona demos: Police assume a quiet weekend",
       "url" : "https://www.diepresse.com/5950435/Protest_CoronaDemos_Polizei-geht-von-ruhigem-Wochenende-aus?from=rss"
+    }, {
+      "articleLength" : 5401,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 754,
+      "id" : "6Br32jJS",
+      "imgUrl" : "https://image.kurier.at/images/original/4996800/46-176324640.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Kein Zusammenhang\" zwischen Astra Zeneca und Embolien erkennbar",
+      "titleTarget" : "\"No connection\" between Astra Zeneca and embolisms can be seen",
+      "url" : "https://kurier.at/chronik/oesterreich/nach-problemen-mit-astra-zeneca-wie-oesterreich-nun-weiter-impft/401216040"
+    }, {
+      "articleLength" : 2840,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 395,
+      "id" : "HsPenmMi",
+      "imgUrl" : "https://image.kurier.at/images/original/4997568/46-176340875.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Vom Parlament in den Gerichtssaal: FPÖ-Politiker gesteht Millionenbetrug",
+      "titleTarget" : "From parliament to the courtroom: FPÖ politician admits fraud of millions",
+      "url" : "https://kurier.at/chronik/oesterreich/vom-parlament-in-den-gerichtssaal-fpoe-politiker-gesteht-millionenbetrug/401216892"
     } ]
   }, {
     "category" : "CULTURE",
@@ -224,15 +225,14 @@
       "titleTarget" : "Proll, Kirchschlager, Dorfer: Constitutional lawsuit against culture lockdown",
       "url" : "https://kurier.at/kultur/proll-kirchschlager-dorfer-verfassungsklage-gegen-kultur-lockdown/401216259"
     }, {
-      "articleLength" : 9662,
-      "articlePartsSize" : 45,
-      "articleWordCount" : 1366,
-      "id" : "YcqfVniW",
-      "imgUrl" : "https://image.kurier.at/images/original/4997292/46-176346987.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Unvergessene Fernseh-Momente\": \"Kottan\"-Regisseur Peter Patzak ist tot",
-      "titleTarget" : "\"Unforgettable television moments\": \"Kottan\" director Peter Patzak is dead",
-      "url" : "https://kurier.at/kultur/medien/kottan-regisseur-peter-patzak-ist-gestorben/401216517"
+      "articleLength" : 5085,
+      "articlePartsSize" : 23,
+      "articleWordCount" : 732,
+      "id" : "RvUpbD0t",
+      "publisher" : "derstandard.at",
+      "titleSource" : "\"Kottan\"-Regisseur Peter Patzak gestorben",
+      "titleTarget" : "\"Kottan\" director Peter Patzak has died",
+      "url" : "https://www.derstandard.at/story/2000124998452/kottan-regisseur-peter-patzak-verstorben?ref=rss"
     }, {
       "articleLength" : 1508,
       "articlePartsSize" : 7,
@@ -244,25 +244,6 @@
       "titleTarget" : "Children's book tip: An atlas can be so enjoyable",
       "url" : "https://www.diepresse.com/5949972/Literatur_KinderbuchTipp_So-vergnueglich-kann-ein-Atlas-sein?from=rss"
     }, {
-      "articleLength" : 5085,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 732,
-      "id" : "RvUpbD0t",
-      "publisher" : "derstandard.at",
-      "titleSource" : "\"Kottan\"-Regisseur Peter Patzak gestorben",
-      "titleTarget" : "\"Kottan\" director Peter Patzak has died",
-      "url" : "https://www.derstandard.at/story/2000124998452/kottan-regisseur-peter-patzak-verstorben?ref=rss"
-    }, {
-      "articleLength" : 5165,
-      "articlePartsSize" : 26,
-      "articleWordCount" : 731,
-      "id" : "ir0SXq3K",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/2/1/5950497/streaming1615562586480625_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Im goldenen Käfig: Die besten fünf Filme über Edelkerker auf Netflix, Amazon & Co.",
-      "titleTarget" : "In a golden cage: the best five films about noble dungeons on Netflix, Amazon & Co.",
-      "url" : "https://www.diepresse.com/5950497/Streamingtipps_Im-goldenen-Kaefig_Die-besten-fuenf-Filme-ueber?from=rss"
-    }, {
       "articleLength" : 4480,
       "articlePartsSize" : 19,
       "articleWordCount" : 629,
@@ -271,6 +252,26 @@
       "titleSource" : "Kulturbranche fordert Kultur im Freien",
       "titleTarget" : "The cultural sector demands culture in the open air",
       "url" : "https://www.derstandard.at/story/2000124972552/kulturbranche-fordert-kultur-im-freien?ref=rss"
+    }, {
+      "articleLength" : 9662,
+      "articlePartsSize" : 45,
+      "articleWordCount" : 1366,
+      "id" : "YcqfVniW",
+      "imgUrl" : "https://image.kurier.at/images/original/4997292/46-176346987.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Unvergessene Fernseh-Momente\": \"Kottan\"-Regisseur Peter Patzak ist tot",
+      "titleTarget" : "\"Unforgettable television moments\": \"Kottan\" director Peter Patzak is dead",
+      "url" : "https://kurier.at/kultur/medien/kottan-regisseur-peter-patzak-ist-gestorben/401216517"
+    }, {
+      "articleLength" : 1326,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 207,
+      "id" : "W0wO44dr",
+      "imgUrl" : "https://image.kurier.at/images/original/4995699/46-175535496.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Anna Baar und ihr \"unmögliches\" Buch",
+      "titleTarget" : "Anna Baar and her \"impossible\" book",
+      "url" : "https://kurier.at/kultur/buch/anna-baar-und-ihr-unmoegliches-buch/401215761"
     } ]
   }, {
     "category" : "HEALTH",
@@ -323,15 +324,15 @@
       "titleTarget" : "What drugs do you take in times of Corona?",
       "url" : "https://www.derstandard.at/story/2000124998516/welche-drogen-nehmen-sie-in-zeiten-von-corona?ref=rss"
     }, {
-      "articleLength" : 2200,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 284,
-      "id" : "WDOjg8JD",
-      "imgUrl" : "https://image.kurier.at/images/original/4997232/46-176338535.jpg",
+      "articleLength" : 3566,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 484,
+      "id" : "05HTPWKn",
+      "imgUrl" : "https://image.kurier.at/images/original/4997397/46-176144971.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Laut EU sind schwere Allergien bei Astra Zeneca möglich",
-      "titleTarget" : "According to the EU, severe allergies are possible at Astra Zeneca",
-      "url" : "https://kurier.at/wissen/gesundheit/schwere-allergien-sind-bei-astra-zeneca-eine-moegliche-nebenwirkung/401216670"
+      "titleSource" : "Wieso die Corona-Impfung indirekt vor Thrombosen schützen kann",
+      "titleTarget" : "Why the corona vaccination can indirectly protect against thrombosis",
+      "url" : "https://kurier.at/wissen/gesundheit/wieso-die-corona-impfung-indirekt-vor-thrombosen-schuetzen-kann/401216823"
     }, {
       "articleLength" : 1914,
       "articlePartsSize" : 9,
@@ -346,16 +347,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 935,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 136,
-      "id" : "UESv3fiG",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/4/4/5950532/7AC705CF-A0E8-4C38-83BE-13AA82EE0516_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Israel öffnet Fußballstadien für Geimpfte",
-      "titleTarget" : "Israel opens football stadiums to vaccinated people",
-      "url" : "https://www.diepresse.com/5950532/Zuschauer_Israel-oeffnet-Fussballstadien-fuer-Geimpfte?from=rss"
-    }, {
       "articleLength" : 1829,
       "articlePartsSize" : 8,
       "articleWordCount" : 270,
@@ -366,53 +357,64 @@
       "titleTarget" : "Schobesberger makes a comeback at Rapid after a 16-month break",
       "url" : "https://kurier.at/sport/fussball/comeback-von-philipp-schobesberger-bei-rapid-nach-16-monaten-pause/401216577"
     }, {
-      "articleLength" : 1335,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 196,
-      "id" : "FxCPRTZD",
-      "imgUrl" : "https://image.kurier.at/images/original/4997271/46-176347474.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Die Formel-1-Stars Sainz und Perez wurden bereits geimpft",
-      "titleTarget" : "The Formula 1 stars Sainz and Perez have already been vaccinated",
-      "url" : "https://kurier.at/sport/motorsport/bahrain-angebot-die-formel-1-stars-perez-und-sainz-wurden-bereits-gegen-corona-geimpft/401216688"
-    }, {
-      "articleLength" : 1836,
+      "articleLength" : 1690,
       "articlePartsSize" : 8,
-      "articleWordCount" : 285,
-      "id" : "qur1fkwj",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Nets beenden in NBA-Topspiel Siegesserie der Celtics",
-      "titleTarget" : "Nets end the Celtics' winning streak in top NBA game",
-      "url" : "https://www.derstandard.at/story/2000124990338/nets-beenden-in-nba-topspiel-siegesserie-der-celtics?ref=rss"
+      "articleWordCount" : 251,
+      "id" : "fAlAYd6Y",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/4/1/5950529/37B7645A-3AB5-4A6E-B7E3-EA00635933FB_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Liensberger in Åre nur von Vlhova geschlagen",
+      "titleTarget" : "Liensberger in Åre only beaten by Vlhova",
+      "url" : "https://www.diepresse.com/5950529/SkiWeltcup_Liensberger-in-Are-nur-von-Vlhova-geschlagen?from=rss"
     }, {
-      "articleLength" : 3172,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 465,
-      "id" : "TLmrlbMa",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Milan spät zu 1:1 im EL-Schlager bei Manchester United",
-      "titleTarget" : "Milan late to 1: 1 in the EL-Schlager at Manchester United",
-      "url" : "https://www.derstandard.at/story/2000124981359/milan-spaet-zu-11-im-el-schlager-bei-manchester-united?ref=rss"
-    }, {
-      "articleLength" : 599,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 79,
-      "id" : "DXAe6f1s",
-      "imgUrl" : "https://image.kurier.at/images/original/4996647/46-175391396.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Corona-Impfstoffe für Olympia-Starter? Japan lehnt Angebot ab",
-      "titleTarget" : "Corona vaccines for Olympic starters? Japan rejects the offer",
-      "url" : "https://kurier.at/sport/corona-impfstoffe-fuer-olympia-starter-in-tokio-japan-lehnt-chinas-angebot-ab/401216322"
-    }, {
-      "articleLength" : 974,
+      "articleLength" : 935,
       "articlePartsSize" : 4,
-      "articleWordCount" : 148,
-      "id" : "SnQJPh2w",
-      "imgUrl" : "https://image.kurier.at/images/original/4996227/46-149431008.jpg",
+      "articleWordCount" : 136,
+      "id" : "UESv3fiG",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/4/4/5950532/7AC705CF-A0E8-4C38-83BE-13AA82EE0516_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Israel öffnet Fußballstadien für Geimpfte",
+      "titleTarget" : "Israel opens football stadiums to vaccinated people",
+      "url" : "https://www.diepresse.com/5950532/Zuschauer_Israel-oeffnet-Fussballstadien-fuer-Geimpfte?from=rss"
+    }, {
+      "articleLength" : 3313,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 458,
+      "id" : "QbQYkGFJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4997856/46-176118056.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Polster stichelt gegen Herzog: \"War der Lieblingsspieler deiner Frau\"",
-      "titleTarget" : "Polster pokes at Herzog: \"Was your wife's favorite player\"",
-      "url" : "https://kurier.at/sport/fussball/toni-polster-kontert-andreas-herzog-war-der-lieblingsspieler-deiner-frau/401216136"
+      "titleSource" : "Wie Kinder und Jugendliche ab 15. März wieder trainieren dürfen",
+      "titleTarget" : "How children and young people can train again from March 15th",
+      "url" : "https://kurier.at/sport/wie-kinder-und-jugendliche-ab-15-maerz-wieder-trainieren-duerfen/401216994"
+    }, {
+      "articleLength" : 1414,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 205,
+      "id" : "N3k9UdnF",
+      "imgUrl" : "https://image.kurier.at/images/original/4997049/46-148854280.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Israels Fans dürfen zurück ins Stadion - wenn sie geimpft sind",
+      "titleTarget" : "Israel fans can go back to the stadium - if they are vaccinated",
+      "url" : "https://kurier.at/sport/fussball/israels-fussballfans-duerfen-zurueck-ins-stadion-wenn-sie-geimpft-sind/401216529"
+    }, {
+      "articleLength" : 2116,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 318,
+      "id" : "if6XUNji",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Biathlon: Schwaiger in Nove Mesto nach \"perfektem\" Sprint Neunte",
+      "titleTarget" : "Biathlon: Schwaiger in Nove Mesto after a \"perfect\" sprint ninth",
+      "url" : "https://www.diepresse.com/5950683/Weltcup_Biathlon_Schwaiger-in-Nove-Mesto-nach-perfektem-Sprint?from=rss"
+    }, {
+      "articleLength" : 3436,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 507,
+      "id" : "fSeRm3yB",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/d/1/5949905/F553A741-44BD-474E-8E01-C5F5797402F9_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Ein Jahr Geisterspiele  und kein Ende in Sicht",
+      "titleTarget" : "A year of ghost games and no end in sight",
+      "url" : "https://www.diepresse.com/5949905/Leere-Raenge_Ein-Jahr-Geisterspiele-und-kein-Ende-in-Sicht?from=rss"
     } ]
   } ],
   "country" : "austria",
